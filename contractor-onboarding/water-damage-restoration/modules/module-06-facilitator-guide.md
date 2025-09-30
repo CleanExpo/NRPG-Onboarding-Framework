@@ -24,7 +24,7 @@ This module represents the culmination of technical water damage restoration tra
 **Equipment Required:**
 - **Material Samples:** Representative Australian building materials (hardwood, brick, concrete, metals)
 - **Cleaning Products:** Category 1, 2, and 3 appropriate cleaning and sanitization products
-- **Application Equipment:** Sprayers, extractors, brushes, and specialized cleaning tools
+- **Application Equipment:** Sprayers, extractors, brushes, and specialised cleaning tools
 - **Testing Equipment:** pH meters, moisture meters, microbial testing supplies
 - **Safety Equipment:** Full range of PPE, ventilation, emergency procedures
 
@@ -115,12 +115,12 @@ Teach the structured 8-factor assessment methodology:
 
 **Special Requirements Discussion:**
 - **Heritage Significance:** Understanding heritage value assessment
-- **Specialized Techniques:** Traditional materials and methods
+- **specialised Techniques:** Traditional materials and methods
 - **Approval Processes:** Heritage authority requirements and procedures
 - **Cost Implications:** Economic impact of heritage preservation requirements
 
 **Case Study Analysis:**
-Present real heritage restoration scenarios requiring specialized assessment decisions:
+Present real heritage restoration scenarios requiring specialised assessment decisions:
 - **Sydney Sandstone Building:** Specialist cleaning techniques required
 - **Melbourne Timber Warehouse:** Balancing preservation with safety requirements
 - **Brisbane Heritage Home:** Insurance coverage for traditional restoration methods
@@ -130,7 +130,7 @@ Present real heritage restoration scenarios requiring specialized assessment dec
 **Documentation Standards Training (20 minutes):**
 
 **Professional Report Writing:**
-- **Structure:** Systematic organization ensuring comprehensive coverage
+- **Structure:** Systematic organisation ensuring comprehensive coverage
 - **Technical Content:** Appropriate level of technical detail for audience
 - **Visual Documentation:** Photography and measurement documentation standards
 - **Legal Protection:** Documentation requirements for professional liability protection
@@ -289,8 +289,8 @@ Teach systematic approach to sanitization protocol development:
 3. **Application Method:** Selecting optimal application techniques
 4. **Verification Planning:** Establishing testing and verification procedures
 
-**Childcare Center Case Study:**
-Use Brisbane childcare center scenario to demonstrate protocol development:
+**Childcare centre Case Study:**
+Use Brisbane childcare centre scenario to demonstrate protocol development:
 - **Enhanced Safety Requirements:** Child-safe product selection criteria
 - **Food Service Areas:** Food-safe sanitization requirements
 - **Regulatory Compliance:** Health department and licensing requirements
@@ -390,7 +390,7 @@ Throughout the session, evaluate participants on:
 For each participant, evaluate and provide feedback on:
 
 **Strengths Identification:**
-- **Technical Aptitude:** Areas of exceptional competency for potential specialization
+- **Technical Aptitude:** Areas of exceptional competency for potential specialisation
 - **Communication Skills:** Natural ability in customer interaction and explanation
 - **Safety Consciousness:** Proactive safety awareness and implementation
 - **Quality Focus:** Attention to detail and professional standards

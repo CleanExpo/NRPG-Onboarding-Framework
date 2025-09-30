@@ -22,7 +22,7 @@ This module represents the most safety-critical content in the water damage rest
 - **PPE Training Station:** Complete range of respiratory protection and protective equipment
 - **Decontamination Facility:** Proper decontamination and emergency shower facilities
 
-**Specialized Equipment Required:**
+**specialised Equipment Required:**
 - **Containment Materials:** Professional-grade materials for hands-on construction
 - **Air Management Systems:** Negative air machines with HEPA filtration for demonstration
 - **PPE Training Equipment:** Various respirator types, protective clothing, fit testing equipment
@@ -236,7 +236,7 @@ Teams construct Level 2 containment under close supervision with safety emphasis
 **Construction Phase Management:**
 1. **Planning and Safety Setup (10 minutes):**
    - Safety briefing and PPE verification
-   - Tool and material organization
+   - Tool and material organisation
    - Safety zone establishment and emergency procedures
    - Team coordination and communication protocols
 
@@ -342,7 +342,7 @@ Safe removal techniques for contaminated porous materials with emphasis on spore
 - **Waste Management:** Safe packaging and disposal procedures
 
 **Heritage Material Considerations (15 minutes):**
-Specialized approaches for heritage materials requiring preservation while ensuring safety.
+specialised approaches for heritage materials requiring preservation while ensuring safety.
 
 **Heritage-Specific Protocols:**
 - **Risk Assessment:** Balancing preservation with health protection
@@ -421,9 +421,9 @@ Professional Standards:
 - **Health Monitoring:** Ongoing health monitoring for participants with exposure history
 - **Emergency Response:** Additional training in emergency response and first aid
 
-**Technical Specialization:**
+**Technical specialisation:**
 - **Assessment Expertise:** Advanced training in complex assessment scenarios
-- **Remediation Specialization:** Specialized training for challenging remediation applications
+- **Remediation specialisation:** specialised training for challenging remediation applications
 - **Quality Control:** Development of quality assurance and verification expertise
 - **Customer Service:** Enhanced customer communication and service training
 

@@ -267,7 +267,7 @@ DATE: _______________
    - Before and after treatment comparisons
    - Progress documentation during work
 
-**Photo Organization System:**
+**Photo organisation System:**
 ```
 File Naming Convention:
 [Date]_[PropertyAddress]_[RoomLocation]_[SequenceNumber]
@@ -334,7 +334,7 @@ SIGNATURE: _______________
 
 ### Cloud-Based Documentation Management
 
-#### Professional File Organization
+#### Professional File organisation
 **Customer Project Structure:**
 ```
 /[Year]-[Month]-[Customer_LastName]

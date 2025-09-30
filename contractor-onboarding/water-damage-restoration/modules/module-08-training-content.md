@@ -164,7 +164,7 @@ Advanced monitoring systems providing comprehensive environmental data.
 
 **System Components:**
 - **Wireless Sensor Networks:** Real-time temperature, humidity, and pressure monitoring
-- **Data Analytics:** Trend analysis and predictive modelling for drying optimization
+- **Data Analytics:** Trend analysis and predictive modelling for drying optimisation
 - **Remote Monitoring:** Off-site monitoring and alarm systems
 - **Client Reporting:** Automated reporting and dashboard access for clients
 

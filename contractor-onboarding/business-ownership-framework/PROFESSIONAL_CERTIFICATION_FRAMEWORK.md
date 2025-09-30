@@ -5,14 +5,14 @@
 
 **Total Points Available:** 100 points across four certification categories.
 
-**Important Note:** The Government Certificate IV in Cleaning (Restoration Specialization) is currently a framework under development and is not yet registered with the RTO (Registered Training Organisation) framework. The certification system is designed to accommodate this developmental status while working towards full implementation.
+**Important Note:** The Government Certificate IV in Cleaning (Restoration specialisation) is currently a framework under development and is not yet registered with the RTO (Registered Training Organisation) framework. The certification system is designed to accommodate this developmental status while working towards full implementation.
 
 ---
 
 ## Certification Point Allocation System
 
 ### **Overview of Point Distribution**
-- **Government Cert 4 in Cleaning (Restoration Specialization):** 40 points
+- **Government Cert 4 in Cleaning (Restoration specialisation):** 40 points
 - **IICRC Certifications:** 30 points
 - **CARSI Membership and CEC Credits:** 20 points
 - **Trade Association Membership:** 10 points
@@ -22,7 +22,7 @@
 
 ---
 
-## Category 1: Government Cert 4 in Cleaning - Restoration Specialization (40 Points)
+## Category 1: Government Cert 4 in Cleaning - Restoration specialisation (40 Points)
 
 ### **Certification Overview**
 **Course:** Certificate IV in Cleaning (Specialising in Restoration)
@@ -46,7 +46,7 @@
 - **CPPCLG4004A** - Implement fire and smoke damage restoration procedures (5 points)
 - **CPPCLG4005A** - Implement contamination and biohazard cleaning procedures (5 points)
 
-#### **Specialization Units (10 points)**
+#### **specialisation Units (10 points)**
 - **CPPCLG4006A** - Manage restoration project coordination and client liaison (3 points)
 - **CPPCLG4007A** - Apply advanced restoration technologies and techniques (3 points)
 - **CPPCLG4008A** - Implement quality control and documentation systems (2 points)
@@ -76,9 +76,9 @@
 ### **Certification Overview**
 **Provider:** Institute of Inspection, Cleaning and Restoration Certification
 **Points Value:** 30 points (30% of total certification score)
-**Status:** Mandatory core certifications with additional specialization options
+**Status:** Mandatory core certifications with additional specialisation options
 
-### **Core IICRC Certifications (20 points)**
+### **Core IICRC Certifications (24 points)**
 
 #### **Water Damage Restoration (WRT) - 8 points**
 - **Certification Level:** IICRC Water Damage Restoration Technician
@@ -110,27 +110,33 @@
   - Advanced Containment Techniques: 1 point
   - Health and Safety Protocols: 1 point
 
-### **Advanced IICRC Specializations (10 points)**
+#### **Carpet Cleaning Technician (CCT) - 4 points**
+- **Certification Level:** IICRC Carpet Cleaning Technician
+- **Course Duration:** 2 days
+- **Recertification:** Every 5 years with CEC credits
+- **Prerequisites:** Basic restoration knowledge
+- **Points Breakdown:**
+  - Basic CCT Certification: 2 points
+  - Advanced Carpet Care Techniques: 1 point
+  - Commercial Application: 1 point
+
+### **Advanced IICRC Specialisations (6 points)**
 
 #### **Fire and Smoke Restoration (FSR) - 3 points**
 - **Certification Level:** IICRC Fire and Smoke Restoration Technician
 - **Course Duration:** 2 days
-- **Specialization Focus:** Fire damage assessment and restoration techniques
+- **specialisation Focus:** Fire damage assessment and restoration techniques
 
-#### **Commercial Carpet Cleaning (CCT) - 2 points**
-- **Certification Level:** IICRC Carpet Cleaning Technician
-- **Course Duration:** 2 days
-- **Specialization Focus:** Commercial carpet and textile restoration
 
 #### **Upholstery and Fabric Cleaning (UFT) - 2 points**
 - **Certification Level:** IICRC Upholstery and Fabric Cleaning Technician
 - **Course Duration:** 2 days
-- **Specialization Focus:** Fabric restoration and cleaning techniques
+- **specialisation Focus:** Fabric restoration and cleaning techniques
 
 #### **Trauma and Crime Scene Cleaning (TCSC) - 3 points**
-- **Certification Level:** Specialized trauma and biohazard cleaning
+- **Certification Level:** specialised trauma and biohazard cleaning
 - **Course Duration:** 3 days
-- **Specialization Focus:** Biohazard and trauma scene restoration
+- **specialisation Focus:** Biohazard and trauma scene restoration
 
 ### **IICRC Master Certifications (Bonus Points)**
 - **Master Water Restorer (MWR):** +5 bonus points
@@ -147,7 +153,7 @@
 ## Category 3: CARSI Membership and CEC Credits (20 Points)
 
 ### **CARSI Membership Overview**
-**Organization:** Cleaning And Restoration Services Institute
+**organisation:** Cleaning And Restoration Services Institute
 **Website:** https://www.carsi.com.au
 **Points Value:** 20 points (20% of total certification score)
 **Status:** Mandatory membership with active CEC participation
@@ -224,7 +230,7 @@
 #### **Environmental Services Association - 2 points**
 - **Membership Level:** Environmental services and restoration association
 - **Industry Focus:** Environmental restoration and contamination services
-- **Benefits:** Specialized training and regulatory updates
+- **Benefits:** specialised training and regulatory updates
 - **Requirements:** Environmental service capability and certification
 
 ### **Additional Professional Memberships (2 points)**
@@ -302,7 +308,7 @@
 
 ### **Phase 2: Professional Development (Months 6-18)**
 - **Competency Development:** Advanced competency development and recognition
-- **IICRC Specialization:** Additional IICRC certifications
+- **IICRC specialisation:** Additional IICRC certifications
 - **CARSI CEC Achievement:** Annual CEC requirements achievement
 - **Trade Association Participation:** Active participation and contribution
 

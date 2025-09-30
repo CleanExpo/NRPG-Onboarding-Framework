@@ -549,7 +549,7 @@ This documentation provides comprehensive support for the customer's claim while
 
 ### For High Performers (90%+):
 - Consider advanced insurance industry training
-- Develop specialization in complex commercial claims
+- Develop specialisation in complex commercial claims
 - Explore public adjuster or insurance specialist certification
 - Consider mentoring colleagues in insurance processes
 

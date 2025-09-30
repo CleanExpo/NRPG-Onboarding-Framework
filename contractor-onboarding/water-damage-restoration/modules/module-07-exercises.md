@@ -273,7 +273,7 @@ Results Management:
 **Task 1: Containment Design Planning (15 minutes)**
 
 **Design Requirements Analysis:**
-Teams analyze project requirements and develop containment design.
+Teams analyse project requirements and develop containment design.
 
 **Containment Design Worksheet:**
 ```
@@ -450,7 +450,7 @@ Implement continuous pressure monitoring with alarm systems.
 
 **Pressure Control Procedures:**
 1. **Target Relationships:** Maintain appropriate pressure differentials
-2. **Adjustment Procedures:** Systematic approach to pressure optimization
+2. **Adjustment Procedures:** Systematic approach to pressure optimisation
 3. **Troubleshooting:** Identify and resolve pressure control issues
 4. **Emergency Response:** Procedures for pressure system failures
 
@@ -597,7 +597,7 @@ Documentation Complete: ☐ Yes ☐ No
 
 **Task 3: Heritage Material Restoration (15 minutes)**
 
-**Scenario:** Apply specialized techniques for heritage materials requiring preservation.
+**Scenario:** Apply specialised techniques for heritage materials requiring preservation.
 
 **Heritage Material Considerations:**
 - Historical timber with traditional finishes
@@ -605,7 +605,7 @@ Documentation Complete: ☐ Yes ☐ No
 - Traditional building materials and techniques
 - Heritage authority approval and documentation requirements
 
-**Specialized Restoration Approach:**
+**specialised Restoration Approach:**
 1. **Heritage Assessment:** Evaluate historical significance and preservation requirements
 2. **Specialist Consultation:** Coordinate with heritage professionals and authorities
 3. **Conservative Treatment:** Apply gentlest effective treatment methods
@@ -932,7 +932,7 @@ Participants practice presenting project completion using role-playing scenarios
 - **Scenario A:** Homeowner with family health concerns requiring reassurance
 - **Scenario B:** Commercial property manager requiring regulatory compliance verification
 - **Scenario C:** Heritage building owner requiring preservation technique explanation
-- **Scenario D:** Childcare center director requiring safety certification for reopening
+- **Scenario D:** Childcare centre director requiring safety certification for reopening
 
 **Communication Skills Focus:**
 - **Technical Translation:** Convert technical findings into understandable language
@@ -1016,7 +1016,7 @@ These practical exercises directly prepare participants for:
 ### Career Development Applications
 
 **Professional Advancement:**
-- **Mould Remediation Specialist:** Technical expertise for specialized remediation roles
+- **Mould Remediation Specialist:** Technical expertise for specialised remediation roles
 - **Health and Safety Leadership:** Safety competency for supervisory and training roles
 - **Quality Control:** Skills applicable to quality assurance and customer satisfaction
 - **Emergency Response:** Competencies for disaster response and emergency remediation
@@ -1026,7 +1026,7 @@ These practical exercises directly prepare participants for:
 Following successful completion of these exercises, participants should be prepared to:
 - **Apply skills confidently** in supervised and independent mould remediation projects
 - **Pursue advanced certification** through IICRC and other professional organizations
-- **Specialize in complex applications** such as healthcare facilities or heritage buildings
+- **specialise in complex applications** such as healthcare facilities or heritage buildings
 - **Contribute to industry advancement** through professional participation and continuing education
 
 The hands-on experience gained through these practical exercises establishes professional competency in mould remediation and prevention, specifically addressing the unique challenges of Australian climates, building types, and regulatory requirements while maintaining the highest standards of worker and public health protection.

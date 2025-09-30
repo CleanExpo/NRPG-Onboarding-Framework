@@ -6,7 +6,7 @@
 ## Learning Objectives
 By the end of this module, participants will be able to:
 - Understand emotional states during disasters
-- Recognize stress responses and their impact on decision making
+- recognise stress responses and their impact on decision making
 - Learn techniques for building trust in crisis situations
 - Develop cultural sensitivity awareness
 

@@ -68,7 +68,7 @@ Customer situations change rapidly in disaster recovery. Effective time manageme
 - Proactive customer service to maintain satisfaction
 - Documentation of changes for quality assurance
 
-### Workflow Optimization for Service Quality
+### Workflow optimisation for Service Quality
 
 #### Customer Journey Mapping for Efficiency
 **Service Delivery Workflow Analysis:**
@@ -166,7 +166,7 @@ Disaster recovery projects often involve multiple stakeholders requiring careful
 - **Insurance Representatives:** Adjusters, claims managers, inspectors
 - **Regulatory Bodies:** Building inspectors, health departments, safety officers
 - **Suppliers:** Material providers, equipment rental companies
-- **Subcontractors:** Specialized service providers, trade professionals
+- **Subcontractors:** specialised service providers, trade professionals
 
 **Coordination Strategies:**
 - **Central Communication Hub:** Single point of contact for all scheduling communication
@@ -216,7 +216,7 @@ Develop consistent workflows that ensure every customer receives the same high-q
 
 ### Digital Productivity Systems for Customer Service
 
-#### Customer Communication Optimization
+#### Customer Communication optimisation
 **Automated Customer Communication Systems:**
 - **Response Templates:** Professional, customizable responses for common customer inquiries
 - **Scheduled Updates:** Automated progress reports and project timeline communications

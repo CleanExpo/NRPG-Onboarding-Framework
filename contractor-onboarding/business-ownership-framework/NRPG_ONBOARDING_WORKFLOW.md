@@ -24,7 +24,7 @@
 
 **Application Components:**
 - **Business Profile:** Company information, services offered, geographic coverage, team size
-- **Specialization Declaration:** Primary and secondary restoration specializations
+- **specialisation Declaration:** Primary and secondary restoration specializations
 - **Experience Portfolio:** Project examples, years of experience, notable achievements
 - **Professional Goals:** NRPG certification objectives and professional development goals
 - **Professional Association:** Current professional association memberships and involvement
@@ -38,12 +38,12 @@
 - **Business Compliance:** Business registration, licensing, and regulatory compliance verification
 - **Financial Stability:** Credit check, insurance verification, financial capability assessment
 - **Professional Standing:** Reference verification, industry reputation, professional conduct review
-- **Specialization Verification:** IICRC certification verification and specialization competency assessment
+- **specialisation Verification:** IICRC certification verification and specialisation competency assessment
 
 **Eligibility Criteria:**
 - **Business Registration:** Valid ABN and appropriate business structure
 - **Insurance Coverage:** Adequate public liability, professional indemnity, and workers compensation
-- **Professional Certification:** Valid IICRC certification in declared specialization area
+- **Professional Certification:** Valid IICRC certification in declared specialisation area
 - **Financial Capability:** Demonstrated financial stability and capability
 - **Professional Conduct:** Clear professional conduct record and positive references
 
@@ -54,7 +54,7 @@
 **Background Check Components:**
 - **Criminal Background Check:** National police check for all principals and key personnel
 - **Financial Background Check:** Business credit history, payment record, financial stability verification
-- **Professional Background Check:** License verification, certification validation, professional conduct review
+- **Professional Background Check:** licence verification, certification validation, professional conduct review
 - **Insurance Verification:** Current insurance coverage verification and adequacy assessment
 - **Regulatory Compliance:** Compliance with relevant regulations and professional standards
 
@@ -74,7 +74,7 @@
 **CARSI Integration Components:**
 - **Platform Access:** CARSI platform account creation and initial orientation
 - **Course Assessment:** Assessment of current knowledge and identification of required courses
-- **Course Enrollment:** Enrollment in required CARSI courses based on specialization and development needs
+- **Course Enrollment:** Enrollment in required CARSI courses based on specialisation and development needs
 - **Learning Plan:** Development of personalized learning plan and professional development pathway
 - **Progress Tracking:** Establishment of progress tracking and completion monitoring
 
@@ -98,12 +98,12 @@
 
 **Association Requirements:**
 - **Primary Association:** Membership in relevant primary professional association (RIA, ATFA, ACCA, etc.)
-- **Regional Associations:** Participation in relevant regional or specialized associations
+- **Regional Associations:** Participation in relevant regional or specialised associations
 - **Professional Networks:** Integration into professional networks and industry relationships
 - **Industry Involvement:** Plan for ongoing industry involvement and contribution
 - **Leadership Development:** Pathway for professional association leadership and contribution
 
-#### **Step 6: Specialization Competency Verification**
+#### **Step 6: specialisation Competency Verification**
 **Duration:** 3-5 days
 **Responsibility:** NRPG Technical Assessment Team
 
@@ -115,7 +115,7 @@
 - **Quality Systems:** Assessment of quality control and assurance systems
 
 **Competency Standards:**
-- **Technical Proficiency:** Demonstrated competency in declared specialization areas
+- **Technical Proficiency:** Demonstrated competency in declared specialisation areas
 - **Safety Compliance:** Comprehensive understanding and application of safety requirements
 - **Quality Standards:** Understanding and application of industry quality standards
 - **Equipment Capability:** Appropriate equipment and technology for declared services
@@ -166,13 +166,13 @@
 **Platform Integration Components:**
 - **Profile Creation:** Creation of professional profile and certification display
 - **Geographic Setup:** Service territory definition and geographic coverage setup
-- **Specialization Configuration:** Specialization areas and certification matching setup
+- **specialisation Configuration:** specialisation areas and certification matching setup
 - **Quality Integration:** Quality assurance and performance monitoring setup
 - **Work Assignment:** Integration into work assignment and client matching system
 
 **Operational Setup:**
 - **Service Territory:** Geographic service area definition and coverage mapping
-- **Specialization Matching:** Certification-based work assignment and client matching
+- **specialisation Matching:** Certification-based work assignment and client matching
 - **Performance Monitoring:** Quality assurance and performance tracking system setup
 - **Professional Development:** Ongoing professional development and advancement tracking
 - **Industry Integration:** Professional association and industry involvement coordination
@@ -266,7 +266,7 @@
 - **Industry Involvement Tracking:** Professional association and industry contribution monitoring
 
 ### **Continuous Improvement**
-- **Process Improvement:** Ongoing onboarding process improvement and optimization
+- **Process Improvement:** Ongoing onboarding process improvement and optimisation
 - **Training Enhancement:** Continuous improvement of training programs and professional development
 - **Quality Enhancement:** Ongoing enhancement of quality standards and performance expectations
 - **Technology Integration:** Integration of technology improvements and system enhancements

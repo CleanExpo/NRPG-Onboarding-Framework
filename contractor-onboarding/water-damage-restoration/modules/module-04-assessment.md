@@ -290,7 +290,7 @@ b) **Drywall Removal Strategy (3 points):**
 
 a) **Waste Classification (3 points):**
 - **General Waste:** Clean, uncontaminated materials suitable for standard disposal
-- **Contaminated Waste:** Category 2/3 water-damaged materials requiring specialized disposal
+- **Contaminated Waste:** Category 2/3 water-damaged materials requiring specialised disposal
 - **Recyclable Materials:** Metals and materials suitable for resource recovery
 
 b) **Documentation Requirements (3 points):**
@@ -367,7 +367,7 @@ Category 1: N95 minimum; Category 2: P2 respirator; Category 3: Full face respir
 
 **All Participants:**
 - **IICRC Water Loss Specialist:** Foundation certification for water damage restoration
-- **Emergency Response Training:** Specialized emergency response and coordination training
+- **Emergency Response Training:** specialised emergency response and coordination training
 - **Equipment Manufacturer Training:** Specific equipment operation and maintenance courses
 - **Advanced Safety Training:** Confined space, electrical safety, and hazmat training
 

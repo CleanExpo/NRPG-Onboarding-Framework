@@ -22,7 +22,7 @@ This technical module provides essential equipment maintenance and troubleshooti
 - **Safety Systems:** GFCI protection, lockout/tagout equipment, first aid facilities
 - **Documentation Area:** Computer access for maintenance documentation and record keeping
 
-**Specialized Equipment Required:**
+**specialised Equipment Required:**
 - **Service Tools:** Complete mechanical and electrical tool sets
 - **Testing Equipment:** Multimeters, clamp meters, electrical safety testers
 - **Calibration Standards:** Reference standards for precision instrument calibration
@@ -55,14 +55,14 @@ This technical module provides essential equipment maintenance and troubleshooti
 - [ ] Confirm successful completion of WRT-M01 through WRT-M08
 - [ ] Verify basic electrical safety knowledge and competency
 - [ ] Assess mechanical aptitude and technical interest areas
-- [ ] Review career goals and specialization interests
+- [ ] Review career goals and specialisation interests
 - [ ] Identify leadership potential and mentoring opportunities
 
 **Learning Objective Alignment:**
 - [ ] Assess current equipment maintenance knowledge and experience
 - [ ] Identify specific equipment types and maintenance interests
 - [ ] Evaluate technical problem-solving skills and systematic thinking
-- [ ] Plan individual development pathways and specialization opportunities
+- [ ] Plan individual development pathways and specialisation opportunities
 - [ ] Prepare challenging scenarios appropriate to participant skill levels
 
 ### Technical Resources and Support
@@ -100,7 +100,7 @@ Begin with comprehensive understanding of how equipment maintenance directly imp
 
 **Teaching Approach:**
 - **Real Cost Analysis:** Use actual equipment and cost data to demonstrate maintenance impact
-- **Case Study Method:** Analyze successful and failed maintenance programs
+- **Case Study Method:** analyse successful and failed maintenance programs
 - **Interactive Calculation:** Participants calculate total cost of ownership for equipment scenarios
 - **Business Planning Integration:** Connect maintenance planning to business growth and profitability
 
@@ -146,7 +146,7 @@ Essential electrical safety knowledge for equipment maintenance in Australian co
 #### Documentation and Fleet Management Systems (15 minutes)
 
 **Professional Documentation Standards:**
-Systematic approach to maintenance documentation for business optimization and compliance.
+Systematic approach to maintenance documentation for business optimisation and compliance.
 
 **Documentation Framework:**
 - **Equipment Identity:** Asset tracking and service history database
@@ -157,17 +157,17 @@ Systematic approach to maintenance documentation for business optimization and c
 **Technology Integration:**
 - **Digital Systems:** Maintenance tracking software and mobile applications
 - **Data Analysis:** Performance trends and predictive maintenance
-- **Cost Optimization:** Budget planning and resource allocation
+- **Cost optimisation:** Budget planning and resource allocation
 - **Professional Reporting:** Client communication and business development
 
 ---
 
 ### **Part 2: Air Movement Equipment Mastery (75 minutes)**
 
-#### Centrifugal Air Mover Service and Optimization (30 minutes)
+#### Centrifugal Air Mover Service and optimisation (30 minutes)
 
 **Comprehensive Air Mover Maintenance:**
-Complete training in air movement equipment service and performance optimization.
+Complete training in air movement equipment service and performance optimisation.
 
 **Systematic Maintenance Approach:**
 1. **Daily Inspection Protocol:**
@@ -183,7 +183,7 @@ Complete training in air movement equipment service and performance optimization
 3. **Monthly Comprehensive Service:**
    - Motor performance testing and electrical verification
    - Bearing inspection and lubrication procedures
-   - Performance optimization and calibration
+   - Performance optimisation and calibration
 
 **Hands-On Training Components:**
 Participants perform actual maintenance on air movers with various service requirements.
@@ -191,13 +191,13 @@ Participants perform actual maintenance on air movers with various service requi
 **Training Stations:**
 - **Station 1:** Daily inspection and performance testing
 - **Station 2:** Weekly cleaning and electrical inspection
-- **Station 3:** Monthly service and performance optimization
+- **Station 3:** Monthly service and performance optimisation
 - **Station 4:** Troubleshooting and problem resolution
 
 **Professional Development Focus:**
 - **Technical Competency:** Systematic approach and professional quality
 - **Safety Excellence:** Electrical safety and risk management
-- **Performance Optimization:** Efficiency improvement and cost management
+- **Performance optimisation:** Efficiency improvement and cost management
 - **Documentation Quality:** Professional record keeping and communication
 
 #### Advanced Troubleshooting and Problem Resolution (25 minutes)
@@ -224,33 +224,33 @@ Participants work with equipment having actual problems requiring diagnosis and 
 - **Diagnostic Skills:** Systematic problem identification and analysis
 - **Repair Competency:** Professional repair and quality verification
 - **Client Communication:** Problem explanation and solution presentation
-- **Prevention Planning:** Maintenance improvement and cost optimization
+- **Prevention Planning:** Maintenance improvement and cost optimisation
 
-#### Performance Optimization and Fleet Coordination (20 minutes)
+#### Performance optimisation and Fleet Coordination (20 minutes)
 
 **Equipment Performance Excellence:**
 Advanced techniques for maximizing equipment performance and operational efficiency.
 
-**Optimization Strategies:**
+**optimisation Strategies:**
 - **Airflow Maximization:** Environmental integration and obstruction removal
-- **Energy Efficiency:** Power consumption optimization and cost reduction
+- **Energy Efficiency:** Power consumption optimisation and cost reduction
 - **Reliability Improvement:** Preventive maintenance and component replacement
 - **Professional Presentation:** Equipment appearance and client confidence
 
 **Fleet Management Integration:**
-- **Utilization Optimization:** Equipment rotation and project coordination
+- **Utilization optimisation:** Equipment rotation and project coordination
 - **Maintenance Scheduling:** Resource allocation and downtime minimization
-- **Cost Management:** Budget optimization and profitability improvement
+- **Cost Management:** Budget optimisation and profitability improvement
 - **Quality Assurance:** Performance standards and client satisfaction
 
 ---
 
 ### **Part 3: Dehumidification Equipment Excellence (75 minutes)**
 
-#### Refrigerant System Service and Optimization (35 minutes)
+#### Refrigerant System Service and optimisation (35 minutes)
 
 **Advanced Dehumidifier Maintenance:**
-Comprehensive training in refrigerant dehumidifier service and performance optimization.
+Comprehensive training in refrigerant dehumidifier service and performance optimisation.
 
 **Refrigeration System Understanding:**
 - **System Components:** Compressor, coils, refrigerant, and control systems
@@ -260,14 +260,14 @@ Comprehensive training in refrigerant dehumidifier service and performance optim
 
 **Hands-On Service Training:**
 1. **Daily Operation Assessment:**
-   - Performance monitoring and environmental optimization
+   - Performance monitoring and environmental optimisation
    - Visual inspection and safety verification
    - Basic cleaning and maintenance procedures
 
 2. **Weekly System Service:**
    - Coil cleaning and drainage system maintenance
    - Electrical system inspection and verification
-   - Performance testing and optimization
+   - Performance testing and optimisation
 
 3. **Monthly Comprehensive Service:**
    - Compressor performance and electrical testing
@@ -276,49 +276,49 @@ Comprehensive training in refrigerant dehumidifier service and performance optim
 
 **Professional Competency Development:**
 - **Refrigeration Knowledge:** System understanding and service techniques
-- **Performance Optimization:** Efficiency improvement and cost management
+- **Performance optimisation:** Efficiency improvement and cost management
 - **Safety Excellence:** Refrigerant handling and electrical safety
 - **Professional Service:** Quality control and client satisfaction
 
-#### Desiccant System and Specialized Equipment (20 minutes)
+#### Desiccant System and specialised Equipment (20 minutes)
 
 **Desiccant Dehumidifier Expertise:**
-Specialized training in desiccant system maintenance and optimization.
+specialised training in desiccant system maintenance and optimisation.
 
 **Desiccant System Components:**
 - **Desiccant Media:** Condition assessment and replacement procedures
 - **Heating System:** Element inspection and electrical safety
-- **Air System:** Airflow optimization and filter maintenance
+- **Air System:** Airflow optimisation and filter maintenance
 - **Control System:** Temperature control and safety verification
 
 **Professional Service Procedures:**
 - **Media Management:** Assessment, replacement, and performance verification
 - **Heating System Service:** Electrical testing and safety verification
-- **Performance Optimization:** Energy efficiency and cost management
+- **Performance optimisation:** Energy efficiency and cost management
 - **Integration Coordination:** Air movement and environmental control
 
-#### Environmental Optimization and System Integration (20 minutes)
+#### Environmental optimisation and System Integration (20 minutes)
 
 **Advanced Performance Management:**
-Professional approach to dehumidification performance optimization and system integration.
+Professional approach to dehumidification performance optimisation and system integration.
 
 **Environmental Control Strategies:**
-- **Operating Condition Optimization:** Temperature, humidity, and airflow management
+- **Operating Condition optimisation:** Temperature, humidity, and airflow management
 - **Equipment Sizing:** Capacity verification and load management
-- **Energy Management:** Cost optimization and efficiency improvement
+- **Energy Management:** Cost optimisation and efficiency improvement
 - **System Coordination:** Air movement and dehumidification integration
 
 **Professional Application:**
 - **Client Education:** Technical explanation and performance demonstration
-- **Cost Management:** Operational optimization and budget control
+- **Cost Management:** Operational optimisation and budget control
 - **Quality Assurance:** Performance verification and client satisfaction
-- **Professional Development:** Specialization and business growth
+- **Professional Development:** specialisation and business growth
 
 ---
 
 ### **Part 4: Extraction Equipment and Monitoring Technology (75 minutes)**
 
-#### Extraction Equipment Service and Optimization (35 minutes)
+#### Extraction Equipment Service and optimisation (35 minutes)
 
 **Comprehensive Extraction Equipment Training:**
 Complete training in portable extractor and truck-mount system maintenance.
@@ -326,17 +326,17 @@ Complete training in portable extractor and truck-mount system maintenance.
 **Portable Extractor Service:**
 1. **Vacuum System Maintenance:**
    - Motor performance testing and electrical verification
-   - Vacuum measurement and performance optimization
+   - Vacuum measurement and performance optimisation
    - Filter maintenance and replacement procedures
 
 2. **Recovery System Service:**
    - Tank cleaning and sanitization procedures
    - Float system operation and adjustment
-   - Drainage system optimization and maintenance
+   - Drainage system optimisation and maintenance
 
 3. **Tool and Attachment Maintenance:**
    - Condition assessment and cleaning procedures
-   - Performance testing and optimization
+   - Performance testing and optimisation
    - Replacement planning and cost management
 
 **Truck-Mount System Training:**
@@ -344,13 +344,13 @@ Advanced maintenance for complex vehicle-mounted systems.
 
 **System Components:**
 - **High-Pressure Pump:** Performance testing and maintenance procedures
-- **Vacuum System:** Blower maintenance and optimization
+- **Vacuum System:** Blower maintenance and optimisation
 - **Heating System:** Temperature control and safety verification
 - **Vehicle Integration:** PTO operation and electrical systems
 
 **Professional Development:**
 - **Complex System Expertise:** Advanced technical knowledge and service skills
-- **Business Application:** Fleet management and operational optimization
+- **Business Application:** Fleet management and operational optimisation
 - **Client Service:** Premium service delivery and professional presentation
 - **Industry Leadership:** Technical expertise and professional recognition
 
@@ -363,7 +363,7 @@ Professional training in monitoring equipment calibration and maintenance.
 - **Calibration Procedures:** Reference standards and accuracy verification
 - **Field Testing:** Cross-reference verification and quality control
 - **Professional Certification:** Annual calibration and documentation
-- **Performance Optimization:** Accuracy improvement and client confidence
+- **Performance optimisation:** Accuracy improvement and client confidence
 
 **Thermal Imaging Technology:**
 - **Thermal Calibration:** Blackbody standards and temperature verification
@@ -383,15 +383,15 @@ Professional training in monitoring equipment calibration and maintenance.
 Integration of equipment maintenance with business operations and profitability.
 
 **Fleet Management Excellence:**
-- **Utilization Tracking:** Equipment usage optimization and coordination
+- **Utilization Tracking:** Equipment usage optimisation and coordination
 - **Maintenance Scheduling:** Resource allocation and cost management
 - **Performance Monitoring:** Efficiency tracking and improvement
-- **Cost Optimization:** Budget management and profitability improvement
+- **Cost optimisation:** Budget management and profitability improvement
 
 **Business Development Integration:**
 - **Client Service:** Equipment reliability and professional presentation
 - **Competitive Advantage:** Equipment performance and quality differentiation
-- **Professional Growth:** Specialization opportunities and career advancement
+- **Professional Growth:** specialisation opportunities and career advancement
 - **Industry Leadership:** Best practice development and professional contribution
 
 ---
@@ -407,7 +407,7 @@ Integration of equipment maintenance with business operations and profitability.
 - **Problem-Solving:** Develop systematic thinking and creative solution development
 
 **Professional Growth Facilitation:**
-- **Specialization Pathways:** Identify equipment specialist and technical coordinator opportunities
+- **specialisation Pathways:** Identify equipment specialist and technical coordinator opportunities
 - **Business Acumen:** Connect technical skills to business success and profitability
 - **Leadership Development:** Identify and develop technical leadership potential
 - **Industry Contribution:** Encourage professional development and industry involvement
@@ -423,7 +423,7 @@ Integration of equipment maintenance with business operations and profitability.
 **Individual Development:**
 - **Skill Assessment:** Evaluate technical aptitude and development opportunities
 - **Personalized Coaching:** Provide individual guidance and mentoring
-- **Career Planning:** Discuss specialization options and professional growth
+- **Career Planning:** Discuss specialisation options and professional growth
 - **Network Development:** Connect participants with industry professionals and opportunities
 
 ### Assessment and Professional Recognition
@@ -436,7 +436,7 @@ Integration of equipment maintenance with business operations and profitability.
 
 **Professional Development Planning:**
 - **Equipment Specialist Track:** Advanced technical training and certification
-- **Fleet Manager Track:** Business management and operational optimization
+- **Fleet Manager Track:** Business management and operational optimisation
 - **Training Coordinator Track:** Professional education and skill development
 - **Business Development Track:** Operational efficiency and growth management
 
@@ -454,14 +454,14 @@ Integration of equipment maintenance with business operations and profitability.
 
 **Professional Development Outcomes:**
 - **Technical Certification:** Equipment specialist and maintenance coordinator qualifications
-- **Business Skills:** Fleet management and operational optimization expertise
+- **Business Skills:** Fleet management and operational optimisation expertise
 - **Leadership Potential:** Training and mentoring capability development
 - **Industry Contribution:** Professional development and best practice advancement
 
 ### Business Integration and Professional Growth
 
 **Operational Excellence:**
-- **Cost Management:** Maintenance optimization and budget control
+- **Cost Management:** Maintenance optimisation and budget control
 - **Equipment Reliability:** Performance improvement and client satisfaction
 - **Professional Reputation:** Quality service and industry recognition
 - **Business Growth:** Operational efficiency and competitive advantage

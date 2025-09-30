@@ -280,7 +280,7 @@ Customer complaining about timeline delays affecting family event:
 
 #### Rebuilding Trust After Conflict
 **Trust Recovery Process:**
-1. **Acknowledge Impact:** Recognize how conflict affected customer experience
+1. **Acknowledge Impact:** recognise how conflict affected customer experience
 2. **Accept Responsibility:** Own appropriate responsibility without over-apologizing
 3. **Demonstrate Change:** Show specific actions taken to address concerns
 4. **Consistent Follow-Through:** Reliable performance on commitments made

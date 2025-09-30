@@ -305,7 +305,7 @@ In Australia, proper documentation serves multiple critical purposes: consumer p
 - Professional development and team learning
 
 #### Operational Efficiency Gains
-**Time and Resource Optimization:**
+**Time and Resource optimisation:**
 - Reduced rework through clear documentation
 - Faster problem resolution through historical reference
 - Improved team communication and coordination
@@ -349,7 +349,7 @@ In Australia, proper documentation serves multiple critical purposes: consumer p
 - Professional liability protection supporting business credibility
 
 **Preparation for Time Management Module:**
-The next module will build on documentation efficiency to address comprehensive time management and workflow optimization for customer service excellence.
+The next module will build on documentation efficiency to address comprehensive time management and workflow optimisation for customer service excellence.
 
 ---
 

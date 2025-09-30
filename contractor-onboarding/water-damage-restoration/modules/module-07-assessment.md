@@ -37,10 +37,10 @@ Please read each question carefully and provide detailed answers demonstrating p
 - **Darwin Office Complex:** 32°C, 85% RH, monsoon season conditions
 - **Melbourne Heritage Home:** 18°C, 75% RH, winter heating condensation
 - **Perth Coastal Apartment:** 25°C, 70% RH, sea breeze coastal conditions
-- **Alice Springs Community Center:** 35°C, 30% RH, rare flooding aftermath
+- **Alice Springs Community centre:** 35°C, 30% RH, rare flooding aftermath
 
 **a) Climate-Specific Mould Risk Analysis (5 points)**
-For each location, analyze the mould growth risk factors including:
+For each location, analyse the mould growth risk factors including:
 - Temperature and humidity conditions affecting mould growth
 - Seasonal patterns and peak risk periods
 - Building-specific challenges related to climate
@@ -100,7 +100,7 @@ Describe the circumstances requiring public health notification for mould contam
 
 ### Question 4: Comprehensive Mould Assessment Protocol (12 points)
 
-**Scenario:** You are conducting a mould assessment of a 200m² childcare center in tropical North Queensland following roof leak water damage.
+**Scenario:** You are conducting a mould assessment of a 200m² childcare centre in tropical North Queensland following roof leak water damage.
 
 **Building Information:**
 - Heritage-listed building with traditional construction
@@ -188,7 +188,7 @@ For each material type, develop appropriate remediation strategies considering:
 - Heritage significance and preservation requirements
 - Health and safety considerations (lead paint, asbestos potential)
 - Restoration vs. replacement decision criteria
-- Specialized techniques for heritage materials
+- specialised techniques for heritage materials
 - Documentation requirements for heritage authorities
 
 **b) Implementation Sequence and Coordination (6 points)**
@@ -231,7 +231,7 @@ Describe the clearance certification process including:
 **a) Moisture Control Strategy (4 points)**
 Develop systematic moisture control measures including:
 - Building envelope maintenance and improvement recommendations
-- HVAC system optimization for humidity control
+- HVAC system optimisation for humidity control
 - Ventilation enhancement and mechanical system upgrades
 - Maintenance schedules and responsibility allocation
 
@@ -399,7 +399,7 @@ Qualified professional certification, comprehensive documentation package includ
 **Question 9: Prevention Strategy and Long-Term Management**
 
 a) **Moisture Control Strategy (4 points):**
-Building envelope maintenance schedule, HVAC optimization with humidity controls, exhaust fan upgrades and maintenance, weatherization improvements, regular moisture monitoring.
+Building envelope maintenance schedule, HVAC optimisation with humidity controls, exhaust fan upgrades and maintenance, weatherization improvements, regular moisture monitoring.
 
 b) **Occupant Education and Management (4 points):**
 Resident education on moisture sources and ventilation, early detection and reporting systems, maintenance responsibility allocation, ongoing monitoring and quality assurance programs.
@@ -431,9 +431,9 @@ Resident education on moisture sources and ventilation, early detection and repo
 
 **All Participants:**
 - **IICRC Applied Microbial Remediation Technician (AMRT):** Industry-standard certification
-- **Advanced Mould Assessment:** Specialized training in complex assessment scenarios
+- **Advanced Mould Assessment:** specialised training in complex assessment scenarios
 - **Industrial Hygiene Training:** Enhanced exposure assessment and control
-- **Healthcare Facility Remediation:** Specialized protocols for healthcare environments
+- **Healthcare Facility Remediation:** specialised protocols for healthcare environments
 
 ### Continuing Education Resources
 

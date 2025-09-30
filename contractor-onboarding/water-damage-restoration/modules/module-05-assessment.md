@@ -111,7 +111,7 @@ Draw or describe the air circulation pattern you would create in this space. Exp
 **a) HVAC System Assessment (3 points)**
 Describe the assessment process for determining whether an existing HVAC system can be integrated into your drying strategy. Include safety, capacity, and efficiency considerations.
 
-**b) Energy Efficiency Optimization (4 points)**
+**b) Energy Efficiency optimisation (4 points)**
 Explain three specific strategies for minimizing energy costs during a typical Australian drying operation while maintaining professional effectiveness standards. Include consideration of peak demand periods and time-of-use electricity tariffs.
 
 ---
@@ -289,9 +289,9 @@ Cross-pattern circulation with air movers on opposite walls creating overlapping
 **Question 7: HVAC Integration and Energy Management**
 
 a) **HVAC System Assessment (3 points):**
-Assess contamination status, verify adequate capacity for additional moisture load, confirm ductwork integrity, evaluate filter condition, and ensure control capability for drying optimization.
+Assess contamination status, verify adequate capacity for additional moisture load, confirm ductwork integrity, evaluate filter condition, and ensure control capability for drying optimisation.
 
-b) **Energy Efficiency Optimization (4 points):**
+b) **Energy Efficiency optimisation (4 points):**
 1. **Time-of-use operation:** Run equipment during off-peak electricity periods
 2. **HVAC integration:** Utilize building systems for supplementary heating/cooling
 3. **Containment quality:** Minimize energy loss through effective air sealing
@@ -322,7 +322,7 @@ Check equipment operation and efficiency, verify containment integrity, assess e
 b) **Solution Implementation (4 points):**
 1. **Enhanced dehumidification:** Add desiccant units for tropical conditions
 2. **Increased air movement:** Boost air velocity for improved evaporation
-3. **Temperature optimization:** Add heating to improve drying potential
+3. **Temperature optimisation:** Add heating to improve drying potential
 
 ---
 
@@ -353,12 +353,12 @@ b) **Solution Implementation (4 points):**
 - **IICRC Applied Structural Drying:** Advanced certification pathway
 - **Equipment Manufacturer Training:** Specific equipment operation and maintenance
 - **Psychrometric Applications:** Advanced moisture science training
-- **Energy Management:** Efficiency optimization and cost control training
+- **Energy Management:** Efficiency optimisation and cost control training
 
 ### Continuing Education Resources
 
 **Drying Technology Training:**
-- **Manufacturer Workshops:** Equipment-specific operation and optimization
+- **Manufacturer Workshops:** Equipment-specific operation and optimisation
 - **Industry Conferences:** Latest developments in drying technology and techniques
 - **Professional Association Training:** RIA and IICRC continuing education programs
 - **Climate-Specific Training:** Regional adaptation techniques and strategies

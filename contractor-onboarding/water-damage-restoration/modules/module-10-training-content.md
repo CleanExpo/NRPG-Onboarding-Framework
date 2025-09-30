@@ -39,7 +39,7 @@ Effective restoration communication requires understanding diverse stakeholder n
 - **Residential Clients:** Emotional impact, personal belongings, family disruption concerns
 - **Commercial Property Managers:** Business continuity, tenant relations, cost management
 - **Strata Managers:** Multiple stakeholder coordination, budget constraints, collective decision-making
-- **Heritage Property Owners:** Preservation concerns, regulatory compliance, specialized requirements
+- **Heritage Property Owners:** Preservation concerns, regulatory compliance, specialised requirements
 
 **Insurance Industry Professionals:**
 - **Claims Adjusters:** Documentation requirements, cost justification, timeline expectations
@@ -200,7 +200,7 @@ Comprehensive planning ensuring efficient resource utilization and successful pr
 - **Personnel Scheduling:** Skill matching and efficient labour allocation
 - **Material Procurement:** Timely ordering and delivery coordination
 - **Subcontractor Coordination:** Specialist service integration and management
-- **Cost Control:** Budget monitoring and cost optimization
+- **Cost Control:** Budget monitoring and cost optimisation
 
 **Australian Project Considerations:**
 - **Geographic Factors:** Remote locations, transport costs, service availability
@@ -224,7 +224,7 @@ Professional coordination of diverse stakeholders with varying interests and req
 **Professional Service Integration:**
 - **Building Professionals:** Structural assessment, architectural consultation, engineering coordination
 - **Health and Safety:** Occupational hygiene, air quality testing, safety certification
-- **Heritage Specialists:** Conservation consultation, regulatory approval, specialized techniques
+- **Heritage Specialists:** Conservation consultation, regulatory approval, specialised techniques
 - **Legal and Regulatory:** Compliance verification, documentation, approval processes
 
 **Trade Coordination:**
@@ -291,7 +291,7 @@ Meeting insurance industry requirements for claim processing and payment authori
 
 **Technical Documentation Requirements:**
 - **Moisture Mapping:** Initial and ongoing moisture level documentation
-- **Equipment Monitoring:** Environmental condition tracking and optimization
+- **Equipment Monitoring:** Environmental condition tracking and optimisation
 - **Progress Photography:** Systematic photographic documentation standards
 - **Testing Results:** Air quality, moisture content, and verification testing
 - **Compliance Certificates:** Safety, heritage, and regulatory compliance
@@ -405,7 +405,7 @@ Building business growth through exceptional service and client satisfaction.
 Developing professional competence and contributing to industry advancement.
 
 **Professional Development Pathways:**
-- **Technical Specialization:** Advanced certifications and specialized expertise
+- **Technical specialisation:** Advanced certifications and specialised expertise
 - **Management Development:** Project management and business development skills
 - **Industry Leadership:** Professional association involvement and contribution
 - **Community Service:** Public education and community protection
@@ -425,7 +425,7 @@ Integrating environmental responsibility and social contribution into business p
 
 **Environmental Responsibility:**
 - **Sustainable Practices:** Resource conservation and waste minimization
-- **Energy Efficiency:** Equipment optimization and energy management
+- **Energy Efficiency:** Equipment optimisation and energy management
 - **Chemical Management:** Environmentally responsible product selection and use
 - **Waste Reduction:** Recycling and responsible waste disposal
 - **Community Education:** Environmental awareness and protection education

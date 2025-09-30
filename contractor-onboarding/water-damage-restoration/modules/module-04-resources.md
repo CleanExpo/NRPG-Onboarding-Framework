@@ -19,7 +19,7 @@
 | **Truck-Mounted Systems** |
 | Standard Truck Mount | 300-500 CFM | 250-350" | 200-400L | 3-phase 415V | Large commercial, multi-story |
 | High-Performance Mount | 500-800 CFM | 350-500" | 400-800L | 3-phase 415V | Industrial, major incidents |
-| **Specialized Equipment** |
+| **specialised Equipment** |
 | Hard Surface Extractor | 100-200 CFM | 100-150" | 40-80L | 15-20A, 240V | Concrete, tile, sealed surfaces |
 | Deep Extraction Tool | Variable | High suction | N/A | Depends on unit | Thick carpet, padding |
 | Submersible Pump | Variable | Variable | N/A | 10-15A, 240V | Standing water removal |
@@ -806,26 +806,26 @@ Category 3 Water Contamination:
 □ Hazardous waste disposal procedures
 □ Professional decontamination required
 □ Health department notification may be required
-□ Specialized disposal facility requirements
+□ specialised disposal facility requirements
 
 Asbestos Considerations:
 □ Licensed assessment if suspected
 □ Licensed removal if confirmed
-□ Specialized disposal requirements
+□ specialised disposal requirements
 □ Health department notification
 □ Worker health monitoring
 
 Chemical Disposal:
 □ Cleaning product disposal requirements
 □ MSDS information and handling
-□ Specialized disposal facilities
+□ specialised disposal facilities
 □ Environmental impact minimization
 
 WATER DISCHARGE REGULATIONS
 Extracted Water Disposal:
 □ Category 1: Generally acceptable for standard disposal
 □ Category 2: May require treatment before disposal
-□ Category 3: Requires specialized treatment and disposal
+□ Category 3: Requires specialised treatment and disposal
 □ Local authority approval may be required
 
 Trade Waste Regulations:

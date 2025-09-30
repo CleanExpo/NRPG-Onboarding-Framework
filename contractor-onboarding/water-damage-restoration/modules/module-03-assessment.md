@@ -15,7 +15,7 @@ This assessment evaluates your advanced competency in moisture detection equipme
 - **Section A:** Advanced Equipment Operation and Calibration (25 points)
 - **Section B:** Monitoring System Design and Data Analysis (20 points)
 - **Section C:** Psychrometric Analysis and Environmental Control (15 points)
-- **Section D:** Specialized Technologies and Quality Assurance (10 points)
+- **Section D:** specialised Technologies and Quality Assurance (10 points)
 
 Please read each question carefully and provide detailed technical answers demonstrating professional competency in advanced moisture detection and monitoring.
 
@@ -127,9 +127,9 @@ Explain the data security measures you would implement for a monitoring system t
 Calculate the dew point temperature and absolute humidity for these conditions. Show your calculations and explain the significance of these values for drying strategy.
 
 **b) Drying Potential Assessment (4 points)**
-Analyze the drying potential of these environmental conditions and recommend specific environmental modifications to optimize drying rates. Include temperature, humidity, and air movement considerations.
+analyse the drying potential of these environmental conditions and recommend specific environmental modifications to optimize drying rates. Include temperature, humidity, and air movement considerations.
 
-### Question 9: Environmental Optimization Strategy (4 points)
+### Question 9: Environmental optimisation Strategy (4 points)
 
 **Scenario:** You are managing restoration in Darwin during the wet season (high temperature and humidity year-round).
 
@@ -149,7 +149,7 @@ Describe how seasonal changes in Australian climate zones would affect your mois
 
 ---
 
-## Section D: Specialized Technologies and Quality Assurance (10 points)
+## Section D: specialised Technologies and Quality Assurance (10 points)
 
 ### Question 11: Ground-Penetrating Radar Applications (4 points)
 
@@ -220,12 +220,12 @@ Explain the systematic quality control procedures you would implement to ensure 
 ### Section C: Psychrometric Analysis and Environmental Control (15 points)
 
 **Question 8: Advanced Psychrometric Calculations (8 points)**
-- **Excellent (7-8 points):** Accurate calculations with comprehensive optimization strategy
-- **Good (5-6 points):** Good psychrometric knowledge with adequate optimization
-- **Satisfactory (3-4 points):** Basic calculation ability with limited optimization
+- **Excellent (7-8 points):** Accurate calculations with comprehensive optimisation strategy
+- **Good (5-6 points):** Good psychrometric knowledge with adequate optimisation
+- **Satisfactory (3-4 points):** Basic calculation ability with limited optimisation
 - **Needs Improvement (0-2 points):** Poor psychrometric understanding
 
-**Question 9: Environmental Optimization Strategy (4 points)**
+**Question 9: Environmental optimisation Strategy (4 points)**
 - **Excellent (4 points):** Complete climate adaptation with appropriate equipment modification
 - **Good (3 points):** Good climate understanding with adequate equipment consideration
 - **Satisfactory (2 points):** Basic climate awareness
@@ -237,7 +237,7 @@ Explain the systematic quality control procedures you would implement to ensure 
 - **Satisfactory (1 point):** Basic EMC awareness
 - **Needs Improvement (0 points):** No EMC understanding
 
-### Section D: Specialized Technologies and Quality Assurance (10 points)
+### Section D: specialised Technologies and Quality Assurance (10 points)
 
 **Question 11: Ground-Penetrating Radar Applications (4 points)**
 - **Excellent (4 points):** Clear GPR applications with limitation understanding and validation
@@ -386,7 +386,7 @@ b) **Drying Potential Assessment (4 points):**
 - Increase temperature to 30-32°C if possible
 - Enhance air movement for evaporation acceleration
 
-**Question 9: Environmental Optimization Strategy**
+**Question 9: Environmental optimisation Strategy**
 
 a) **Climate Adaptation (2 points):**
 - Aggressive mechanical dehumidification essential
@@ -409,7 +409,7 @@ b) **Seasonal Considerations (1 point):**
 - Adjust target levels for seasonal humidity variations
 - Higher targets in tropical summer, lower in dry seasons
 
-### Section D: Specialized Technologies and Quality Assurance
+### Section D: specialised Technologies and Quality Assurance
 
 **Question 11: Ground-Penetrating Radar Applications**
 
@@ -476,4 +476,4 @@ b) **Measurement Verification (3 points):**
 - **Calibration Workshops:** Advanced calibration and quality control training
 - **Industry Conferences:** Latest developments in moisture detection technology
 
-This comprehensive assessment ensures participants demonstrate advanced competency in moisture detection and monitoring equipment essential for professional restoration work and specialized technical roles in the Australian water damage restoration industry.
+This comprehensive assessment ensures participants demonstrate advanced competency in moisture detection and monitoring equipment essential for professional restoration work and specialised technical roles in the Australian water damage restoration industry.

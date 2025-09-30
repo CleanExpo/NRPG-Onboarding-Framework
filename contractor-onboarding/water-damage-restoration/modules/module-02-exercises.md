@@ -701,7 +701,7 @@ ____________________________________________
 **Individual Practice:**
 Organize assessment documentation using professional standards.
 
-**Documentation Organization Checklist:**
+**Documentation organisation Checklist:**
 ```
 DIGITAL DOCUMENTATION STANDARDS
 
@@ -722,7 +722,7 @@ IMAGE CATEGORIES
 □ Measurement photographs (equipment and readings)
 □ Progress photographs (during assessment process)
 
-FILE ORGANIZATION
+FILE organisation
 □ Logical folder structure
 □ Consistent naming convention
 □ Backup copies created

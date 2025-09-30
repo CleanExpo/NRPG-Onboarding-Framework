@@ -27,7 +27,7 @@
 
 ### Venue and Equipment Requirements
 
-#### Specialized Training Environment
+#### specialised Training Environment
 **Laboratory-Style Setup:**
 - Climate-controlled environment for equipment accuracy
 - Individual equipment stations for 8 participants maximum
@@ -50,7 +50,7 @@
 - [ ] Calibration blocks and reference standards (multiple materials)
 - [ ] Australian timber species samples (various moisture levels)
 
-**Specialized Technology (demonstration units):**
+**specialised Technology (demonstration units):**
 - [ ] Professional thermal imaging camera with analysis software
 - [ ] Ground-penetrating radar (if available) or demonstration videos
 - [ ] Borescope/endoscopic camera system
@@ -104,7 +104,7 @@ This module includes a 75-minute comprehensive assessment covering:
 - Advanced equipment operation and calibration
 - Monitoring system design and data analysis
 - Psychrometric analysis and environmental control
-- Specialized technologies and quality assurance
+- specialised technologies and quality assurance
 
 The assessment requires 80% minimum score (56/70 points) and includes both theoretical knowledge and practical equipment operation.
 
@@ -170,7 +170,7 @@ Professional regards,
 - Demonstrate validation procedures between different equipment
 - Show statistical analysis of measurement consistency
 - Practice validation protocols with multiple meters
-- Analyze validation results and troubleshoot discrepancies
+- analyse validation results and troubleshoot discrepancies
 
 #### Equipment Troubleshooting and Maintenance (10 minutes)
 **Systematic Problem-Solving Approach:**
@@ -179,7 +179,7 @@ Professional regards,
 - Practice diagnostic procedures with simulated problems
 - Develop preventive maintenance strategies
 
-### Hour 2: Thermal Imaging and Specialized Technologies (60 minutes)
+### Hour 2: Thermal Imaging and specialised Technologies (60 minutes)
 
 #### Professional Thermal Imaging Applications (30 minutes)
 **Advanced Thermal Analysis Training:**
@@ -188,7 +188,7 @@ Professional regards,
 - Demonstrate professional thermal camera setup and calibration
 - Show systematic inspection techniques and pattern recognition
 - Practice image capture and analysis procedures
-- Analyze thermal patterns for moisture indication
+- analyse thermal patterns for moisture indication
 
 **Teaching Approach:**
 - Use live thermal imaging demonstration with real moisture conditions
@@ -202,7 +202,7 @@ Professional regards,
 - Practice professional reporting and documentation
 - Integrate thermal analysis with comprehensive assessment
 
-#### Specialized Detection Technologies (30 minutes)
+#### specialised Detection Technologies (30 minutes)
 **Ground-Penetrating Radar and Borescope Applications:**
 
 **GPR Demonstration and Analysis (15 minutes):**
@@ -226,7 +226,7 @@ Professional regards,
 - Demonstrate psychrometric chart usage and calculations
 - Show vapor pressure analysis and drying potential assessment
 - Practice equilibrium moisture content calculations
-- Analyze material-environment interactions
+- analyse material-environment interactions
 
 **Teaching Strategy:**
 - Use real environmental data from current conditions
@@ -234,8 +234,8 @@ Professional regards,
 - Show calculation software and validation methods
 - Connect calculations to practical drying decisions
 
-**Environmental Optimization Strategy Development (10 minutes):**
-- Demonstrate optimization calculation procedures
+**Environmental optimisation Strategy Development (10 minutes):**
+- Demonstrate optimisation calculation procedures
 - Show equipment sizing and selection methods
 - Practice timeline estimation and resource planning
 - Develop comprehensive environmental control strategies
@@ -244,7 +244,7 @@ Professional regards,
 **Regional Adaptation Strategies:**
 
 **Climate Zone Analysis (10 minutes):**
-- Analyze psychrometric challenges in different Australian climates
+- analyse psychrometric challenges in different Australian climates
 - Demonstrate seasonal variation impacts on equipment and procedures
 - Practice regional adaptation strategies
 - Develop climate-specific protocols
@@ -259,7 +259,7 @@ Professional regards,
 **HVAC and Building System Coordination:**
 - Demonstrate building system integration strategies
 - Show coordination with mechanical systems
-- Practice environmental control optimization
+- Practice environmental control optimisation
 - Develop systematic integration procedures
 
 ### Hour 4: Monitoring System Design and Implementation (60 minutes)
@@ -280,12 +280,12 @@ Professional regards,
 - Provide expert feedback on design decisions
 
 **Wireless Communication and Data Management (15 minutes):**
-- Demonstrate wireless network setup and optimization
+- Demonstrate wireless network setup and optimisation
 - Show data management and analysis procedures
 - Practice alert configuration and response protocols
 - Develop quality assurance and validation procedures
 
-#### Real-Time Data Analysis and Optimization (30 minutes)
+#### Real-Time Data Analysis and optimisation (30 minutes)
 **Advanced Analytics and Decision Support:**
 
 **Data Analysis and Trend Recognition (15 minutes):**
@@ -294,9 +294,9 @@ Professional regards,
 - Practice predictive modeling and timeline estimation
 - Develop intervention strategies based on data analysis
 
-**System Optimization and Management (15 minutes):**
+**System optimisation and Management (15 minutes):**
 - Demonstrate ongoing system management procedures
-- Show optimization strategies for improved performance
+- Show optimisation strategies for improved performance
 - Practice problem identification and resolution
 - Develop continuous improvement protocols
 
@@ -334,7 +334,7 @@ Professional regards,
 
 #### Industry Leadership and Professional Development (15 minutes)
 **Career Advancement and Industry Contribution:**
-- Discuss advanced career pathways and specialization opportunities
+- Discuss advanced career pathways and specialisation opportunities
 - Show professional association involvement and leadership development
 - Practice mentoring and knowledge transfer skills
 - Develop industry contribution and professional legacy planning
@@ -422,7 +422,7 @@ Professional regards,
 
 **Design Review Criteria:**
 - Technical adequacy and professional quality
-- Cost-effectiveness and resource optimization
+- Cost-effectiveness and resource optimisation
 - Installation feasibility and maintenance considerations
 - Compliance with industry standards and best practices
 
@@ -456,9 +456,9 @@ Professional regards,
 - Assist with interpretation of results and practical application
 - Share professional expertise in complex environmental analysis
 
-**Activity 2: Environmental Optimization Challenge (20 minutes)**
+**Activity 2: Environmental optimisation Challenge (20 minutes)**
 **Strategy Development Support:**
-- Guide teams through systematic optimization strategy development
+- Guide teams through systematic optimisation strategy development
 - Provide technical expertise on equipment selection and sizing
 - Share professional experience with challenging climate conditions
 - Review strategies for technical feasibility and cost-effectiveness
@@ -468,7 +468,7 @@ Professional regards,
 - Guide participants through complex system control scenarios
 - Provide immediate feedback on control decisions and adjustments
 - Share professional experience with dynamic environmental management
-- Assist with performance optimization and troubleshooting
+- Assist with performance optimisation and troubleshooting
 
 ### Exercise 4: Quality Assurance and Troubleshooting (55 minutes)
 
@@ -477,7 +477,7 @@ Professional regards,
 - **Performance Evaluation:** Assess individual competency development and professional readiness
 - **Troubleshooting Mentoring:** Provide expert guidance on complex problem-solving
 - **QA Implementation:** Guide professional quality assurance implementation
-- **Professional Development:** Support career advancement and specialization planning
+- **Professional Development:** Support career advancement and specialisation planning
 
 **Activity 1: Equipment Validation and Cross-Calibration (25 minutes)**
 **QA Implementation Support:**
@@ -523,7 +523,7 @@ Assessment Structure:
 - Section A: Advanced Equipment Operation and Calibration (25 points)
 - Section B: Monitoring System Design and Data Analysis (20 points)
 - Section C: Psychrometric Analysis and Environmental Control (15 points)
-- Section D: Specialized Technologies and Quality Assurance (10 points)
+- Section D: specialised Technologies and Quality Assurance (10 points)
 
 Professional Standards:
 - Minimum passing score: 56/70 points (80%)
@@ -551,7 +551,7 @@ Time Management:
 - Section D: 10 minutes recommended
 
 Professional Expectations:
-This assessment evaluates readiness for advanced professional responsibility, equipment specialization, and potential industry leadership roles.
+This assessment evaluates readiness for advanced professional responsibility, equipment specialisation, and potential industry leadership roles.
 
 You may begin when ready.
 ```
@@ -610,10 +610,10 @@ Monitoring System Design: XX/20 points (XX%)
 
 Psychrometric Analysis: XX/15 points (XX%)
 - Calculation Accuracy: [Expert/Competent/Needs Practice]
-- Environmental Optimization: [Advanced/Adequate/Basic]
+- Environmental optimisation: [Advanced/Adequate/Basic]
 - Professional Application: [Excellent/Good/Developing]
 
-Specialized Technologies: XX/10 points (XX%)
+specialised Technologies: XX/10 points (XX%)
 - Technology Understanding: [Advanced/Competent/Basic]
 - Quality Assurance: [Professional/Adequate/Needs Development]
 
@@ -621,7 +621,7 @@ Specialized Technologies: XX/10 points (XX%)
 Congratulations! You have demonstrated advanced professional competency in moisture detection and monitoring equipment. You are prepared for:
 
 - WRT-M04: Water Extraction and Removal Procedures
-- Equipment specialization and expert consultation roles
+- Equipment specialisation and expert consultation roles
 - Advanced restoration project leadership
 - Professional training and mentoring opportunities
 
@@ -631,7 +631,7 @@ Professional Development Recommendations:
 - [Continuing education priorities]
 
 [For Additional Development Required - Below 56 points:]
-Additional development is required before advancing to equipment specialization roles. Based on your performance:
+Additional development is required before advancing to equipment specialisation roles. Based on your performance:
 
 Priority Development Areas:
 - [Specific technical competencies requiring improvement]
@@ -649,7 +649,7 @@ Please contact me within 48 hours to discuss your individual development plan an
 
 Professional Development Consultation Available:
 - Advanced career pathway planning
-- Specialization opportunity identification
+- specialisation opportunity identification
 - Industry contribution and leadership development
 - Continuing education and certification guidance
 
@@ -751,7 +751,7 @@ Professional Development Consultation Available:
 #### Advanced Competency Verification
 **Individual Performance Analysis:**
 - **Detailed Assessment Review:** Comprehensive analysis of assessment performance with specific competency gap identification
-- **Professional Development Planning:** Individual consultation on career advancement and specialization opportunities
+- **Professional Development Planning:** Individual consultation on career advancement and specialisation opportunities
 - **Industry Integration Support:** Guidance on applying advanced competencies in professional practice
 - **Continuing Education Coordination:** Recommendation of additional training and certification opportunities
 
@@ -800,7 +800,7 @@ Professional Development Consultation Available:
 **Professional Relationship Building:**
 - **Mentor Network Development:** Connection with industry experts and advanced practitioners
 - **Peer Learning Groups:** Facilitation of ongoing professional development groups
-- **Expert Consultation Network:** Access to specialized expertise for complex challenges
+- **Expert Consultation Network:** Access to specialised expertise for complex challenges
 - **Professional Recognition Support:** Assistance with industry recognition and expert designation
 
 #### International Professional Development

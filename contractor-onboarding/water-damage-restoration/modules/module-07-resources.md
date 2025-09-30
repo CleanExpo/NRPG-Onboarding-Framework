@@ -77,7 +77,7 @@ Prevention Priorities:
 1. Seasonal HVAC operation and maintenance
 2. Storm preparation and rapid response
 3. Building envelope integrity maintenance
-4. Cross-ventilation optimization
+4. Cross-ventilation optimisation
 5. Humidity monitoring and control systems
 ```
 
@@ -757,7 +757,7 @@ Emergency Contact Procedures:
 - Coordination with emergency services
 - Public health authority notification
 - Insurance company emergency contacts
-- Specialized equipment and personnel resources
+- specialised equipment and personnel resources
 ```
 
 **Disaster-Related Mould Issues:**
@@ -784,7 +784,7 @@ Post-Flood Mould Response:
 Post-Bushfire Mould Issues:
 1. Ash and Debris Contamination
    - Assessment of ash contamination and mould growth
-   - Specialized cleaning procedures for fire-damaged buildings
+   - specialised cleaning procedures for fire-damaged buildings
    - Health protection from combined fire and mould exposure
    - Coordination with fire damage restoration
 
@@ -822,7 +822,7 @@ Competency Areas:
 Career Progression:
 - Field technician positions with restoration companies
 - Advancement to crew leader and supervisor roles
-- Specialization in complex or high-risk remediation
+- specialisation in complex or high-risk remediation
 - Pathway to advanced certifications and management
 ```
 

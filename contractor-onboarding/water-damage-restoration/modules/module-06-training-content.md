@@ -19,7 +19,7 @@ By completion of this module, participants will be able to:
 **Core Competencies:**
 1. **Assess material salvageability** using professional criteria and Australian standards
 2. **Implement appropriate cleaning protocols** for different contamination levels and material types
-3. **Apply specialized restoration techniques** for common Australian building materials
+3. **Apply specialised restoration techniques** for common Australian building materials
 4. **Execute proper sanitization and deodorization procedures** ensuring safe occupancy
 5. **Perform quality verification** confirming restoration completion standards
 
@@ -128,7 +128,7 @@ Professional material assessment requires economic evaluation balancing restorat
 **Restoration Cost Components:**
 - **Labour:** Cleaning, sanitization, and restoration time
 - **Materials:** Cleaning products, equipment, and supplies
-- **Equipment:** Specialized restoration equipment rental or purchase
+- **Equipment:** specialised restoration equipment rental or purchase
 - **Time:** Project duration and business disruption costs
 - **Risk:** Potential callbacks and warranty obligations
 
@@ -142,7 +142,7 @@ Professional material assessment requires economic evaluation balancing restorat
 **Australian Cost Factors:**
 - **Import Dependencies:** Some materials subject to supply chain delays
 - **Regional Variations:** Cost differences between metropolitan and regional areas
-- **Heritage Requirements:** Specialized materials and techniques for heritage properties
+- **Heritage Requirements:** specialised materials and techniques for heritage properties
 - **Building Code Upgrades:** Requirements to meet current codes during replacement
 - **Insurance Coverage:** Policy provisions affecting restoration vs. replacement decisions
 
@@ -245,7 +245,7 @@ Black water requires comprehensive decontamination protocols treating materials 
 3. **Material Assessment:** Conservative approach favoring replacement
 4. **Decontamination Sequence:** Systematic treatment from least to most contaminated
 5. **Multiple Disinfection Cycles:** Repeated application of hospital-grade disinfectants
-6. **Specialized Equipment:** Use dedicated equipment to prevent cross-contamination
+6. **specialised Equipment:** Use dedicated equipment to prevent cross-contamination
 7. **Environmental Monitoring:** Continuous air quality and surface contamination testing
 8. **Professional Verification:** Third-party testing to confirm safety
 9. **Documentation:** Comprehensive records for health and regulatory compliance
@@ -259,7 +259,7 @@ Black water requires comprehensive decontamination protocols treating materials 
 ### Australian Material-Specific Cleaning Techniques
 
 **Hardwood Floor Restoration:**
-Australian hardwoods require specialized cleaning approaches considering species characteristics and traditional finishes.
+Australian hardwoods require specialised cleaning approaches considering species characteristics and traditional finishes.
 
 **Common Australian Species Considerations:**
 
@@ -324,7 +324,7 @@ Concrete restoration involves addressing both aesthetic and structural concerns.
 - **Biological Growth:** Mould and algae requiring antimicrobial treatment
 - **Spalling:** Surface deterioration requiring patching or replacement
 
-### Specialized Cleaning Equipment and Techniques
+### specialised Cleaning Equipment and Techniques
 
 **Professional Cleaning Equipment:**
 
@@ -346,7 +346,7 @@ Concrete restoration involves addressing both aesthetic and structural concerns.
 - **Gentle Action:** Suitable for delicate materials and finishes
 - **Chemical Enhancement:** Improved effectiveness with appropriate detergents
 
-**Specialized Cleaning Techniques:**
+**specialised Cleaning Techniques:**
 
 **HEPA Vacuuming:**
 - **Pre-Cleaning:** Remove loose contamination before wet cleaning
@@ -636,7 +636,7 @@ Waste disposal must comply with state and federal environmental regulations.
 - **Hazardous Waste:** Chemical products and contaminated materials
 - **Recyclable Materials:** Metal, plastic, and other recyclable components
 - **Organic Waste:** Natural materials suitable for composting
-- **Special Waste:** Items requiring specialized disposal procedures
+- **Special Waste:** Items requiring specialised disposal procedures
 
 **Disposal Procedures:**
 - **Waste Segregation:** Separate waste streams at source for appropriate disposal
@@ -691,7 +691,7 @@ Water damage restoration often requires coordination with other building trades 
 ### Heritage Property Considerations
 
 **Heritage Restoration Requirements:**
-Heritage properties require specialized approaches preserving historical significance while achieving restoration goals.
+Heritage properties require specialised approaches preserving historical significance while achieving restoration goals.
 
 **Heritage Assessment Process:**
 1. **Historical Research:** Understand original materials and construction methods
@@ -768,15 +768,15 @@ This comprehensive module has provided essential knowledge for professional stru
 This module provides essential knowledge for professional certification pathways:
 - **IICRC Water Loss Specialist:** Advanced restoration and cleaning competencies
 - **IICRC Applied Structural Drying:** Integration of drying and restoration procedures
-- **IICRC Odour Control Technician:** Specialized deodorization and air quality management
+- **IICRC Odour Control Technician:** specialised deodorization and air quality management
 - **Australian Restoration Industry:** Local industry certification and professional recognition
 
 ### Career Development Applications
 
 **Professional Advancement:**
-- **Restoration Specialist:** Advanced technical competency for specialized restoration roles
+- **Restoration Specialist:** Advanced technical competency for specialised restoration roles
 - **Project Management:** Understanding supporting project coordination and management
 - **Quality Control:** Skills applicable to quality assurance and customer satisfaction roles
 - **Training and Development:** Knowledge base for training other restoration professionals
 
-Students should now be prepared to demonstrate comprehensive understanding of structural material restoration and cleaning, integrating technical competency with professional standards and Australian regulatory requirements. The next phase of learning will build upon these restoration competencies, applying them to specialized scenarios and advanced restoration challenges.
+Students should now be prepared to demonstrate comprehensive understanding of structural material restoration and cleaning, integrating technical competency with professional standards and Australian regulatory requirements. The next phase of learning will build upon these restoration competencies, applying them to specialised scenarios and advanced restoration challenges.

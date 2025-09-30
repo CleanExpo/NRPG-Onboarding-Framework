@@ -21,7 +21,7 @@
 **Self-Check Questions:**
 - Am I feeling defensive right now?
 - What is my emotional state?
-- Do I need a moment to center myself?
+- Do I need a moment to centre myself?
 
 #### **T - TUNE IN and Listen**
 **Active Listening Focus:**

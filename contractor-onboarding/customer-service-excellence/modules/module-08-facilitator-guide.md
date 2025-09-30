@@ -165,9 +165,9 @@ Present realistic disaster recovery project requiring coordination of:
 **Real-World Application:**
 "Brisbane office building water damage - 3 floors affected, 4 different insurance policies, 2 adjusters, building inspector, 3 tenants, 2 suppliers, and the building owner all need coordination. The building owner wants reopening in 2 weeks, tenants need business continuity, and adjusters have different availability. How do you coordinate this professionally?"
 
-**Workflow Optimization Practice (8 minutes):**
+**Workflow optimisation Practice (8 minutes):**
 **Efficiency Without Service Compromise:**
-- Analyze current participant workflows for efficiency opportunities
+- analyse current participant workflows for efficiency opportunities
 - Identify batching and coordination opportunities that enhance customer service
 - Practice communication strategies that turn efficiency into customer value
 - Develop systematic approaches to workflow improvement
@@ -203,7 +203,7 @@ Present realistic disaster recovery project requiring coordination of:
 **Time Tracking and Analysis Practice (10 minutes):**
 **Personal Productivity Assessment:**
 - Participants complete time log exercise for typical day
-- Analyze time allocation for customer service effectiveness
+- analyse time allocation for customer service effectiveness
 - Identify time drains that reduce customer service availability
 - Develop strategies for optimizing time allocation for customer value
 
@@ -310,7 +310,7 @@ Present comprehensive scenario requiring integration of all module skills:
 
 #### Break (15 minutes)
 
-#### Exercise 4: Workflow Optimization (18 minutes)
+#### Exercise 4: Workflow optimisation (18 minutes)
 **Process Improvement Facilitation:**
 - Guide analysis of current workflows for customer service impact
 - Support identification of efficiency opportunities that enhance relationships
@@ -445,7 +445,7 @@ Present comprehensive scenario requiring integration of all module skills:
 - [ ] Address any concerns about efficiency affecting customer relationship quality
 
 ### Month 1 Review
-- [ ] Analyze customer satisfaction improvements related to time management excellence
+- [ ] analyse customer satisfaction improvements related to time management excellence
 - [ ] Review professional efficiency gains and their impact on service quality
 - [ ] Evaluate technology adoption success and continued support needs
 - [ ] Plan advanced time management training based on real-world application results
@@ -457,7 +457,7 @@ Present comprehensive scenario requiring integration of all module skills:
 ### Time Management Excellence Metrics
 **Customer Service Impact:**
 - Response time improvements to customer inquiries and concerns
-- Customer satisfaction ratings related to professional organization and reliability
+- Customer satisfaction ratings related to professional organisation and reliability
 - Timeline accuracy and customer commitment fulfillment rates
 - Professional presentation and service delivery consistency
 
@@ -472,7 +472,7 @@ Present comprehensive scenario requiring integration of all module skills:
 - Advanced productivity technology training for customer service enhancement
 - Stress management and professional sustainability certification
 - Leadership development in time management excellence for team mentoring
-- Industry-specific time management training for disaster recovery specialization
+- Industry-specific time management training for disaster recovery specialisation
 
 **Industry Integration:**
 - Professional association involvement for time management best practice development

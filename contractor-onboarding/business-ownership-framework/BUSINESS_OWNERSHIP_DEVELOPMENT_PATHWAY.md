@@ -43,7 +43,7 @@ The development pathway consists of four progressive levels:
 
 ### **Entry Requirements**
 - **Business Assessment Score:** 60-69 points
-- **Operating Business:** Minimum 2 years successful operation
+- **Operating Business:** Demonstrated successful operation
 - **Technical Competency:** Current IICRC or equivalent certifications
 - **Legal Compliance:** Full regulatory compliance verification
 - **Financial Stability:** Demonstrated financial stability and growth potential
@@ -62,7 +62,7 @@ The development pathway consists of four progressive levels:
 **1.2 Financial Management Excellence**
 - **Financial Systems:** Professional financial management system implementation
 - **Financial Planning:** Strategic financial planning and budgeting
-- **Cash Flow Management:** Cash flow optimization and working capital management
+- **Cash Flow Management:** Cash flow optimisation and working capital management
 - **Investment Strategy:** Business investment and development planning
 - **Financial Controls:** Financial controls and audit compliance implementation
 
@@ -84,14 +84,14 @@ The development pathway consists of four progressive levels:
 
 **2.2 Service Delivery Excellence**
 - **Service Standards:** Service delivery standards and procedures
-- **Customer Experience:** Customer experience design and optimization
+- **Customer Experience:** Customer experience design and optimisation
 - **Performance Metrics:** Service performance measurement and tracking
 - **Response Systems:** Emergency response and service delivery systems
-- **Technology Integration:** Service delivery technology and optimization
+- **Technology Integration:** Service delivery technology and optimisation
 
 **2.3 Project Management Excellence**
 - **Project Management Systems:** Professional project management implementation
-- **Resource Management:** Resource planning and optimization
+- **Resource Management:** Resource planning and optimisation
 - **Timeline Management:** Project timeline and milestone management
 - **Quality Control:** Project quality control and assurance
 - **Customer Communication:** Project communication and relationship management
@@ -130,7 +130,7 @@ The development pathway consists of four progressive levels:
 
 **4.2 Technology and Digital Transformation**
 - **Technology Assessment:** Technology needs assessment and planning
-- **Digital Systems:** Digital system implementation and optimization
+- **Digital Systems:** Digital system implementation and optimisation
 - **Data Management:** Data management and analytics capability
 - **Communication Technology:** Communication and collaboration technology
 - **Competitive Advantage:** Technology-enabled competitive advantage development
@@ -171,7 +171,7 @@ The development pathway consists of four progressive levels:
 - **Performance Review:** Business performance and development assessment
 - **Goal Achievement:** Development goal achievement and progress review
 - **Challenge Resolution:** Challenge identification and resolution planning
-- **Support Adjustment:** Support and coaching adjustment and optimization
+- **Support Adjustment:** Support and coaching adjustment and optimisation
 - **Advancement Planning:** Advancement pathway and timeline planning
 
 #### **Annual Comprehensive Assessment**
@@ -222,7 +222,7 @@ The development pathway consists of four progressive levels:
 - **Peer Mentoring:** Emerging professional mentoring and development
 
 #### **Business Excellence and Innovation**
-- **Operational Innovation:** Business process innovation and optimization
+- **Operational Innovation:** Business process innovation and optimisation
 - **Technology Leadership:** Technology adoption and integration leadership
 - **Quality Excellence:** Quality management excellence and recognition
 - **Customer Excellence:** Customer experience excellence and innovation
@@ -318,7 +318,7 @@ The development pathway consists of four progressive levels:
 - **Certification Support:** Professional certification and advancement support
 
 ### **Technology and Business Support**
-- **Business Systems:** Business management and optimization systems
+- **Business Systems:** Business management and optimisation systems
 - **Technology Access:** Advanced technology and equipment access
 - **Professional Networks:** Professional networking and collaboration platforms
 - **Market Intelligence:** Market analysis and business intelligence
@@ -328,7 +328,7 @@ The development pathway consists of four progressive levels:
 - **Professional Associations:** Professional association integration and leadership
 - **Industry Events:** Industry conference and event participation
 - **Recognition Programs:** Industry recognition and achievement programs
-- **Awards and Honors:** Professional awards and honor nomination
+- **Awards and Honors:** Professional awards and honour nomination
 - **Professional Legacy:** Professional legacy development and recognition
 
 This comprehensive business ownership development pathway ensures that restoration business owners are systematically developed into industry leaders while maintaining the highest standards of business excellence, professional competency, and industry contribution that the Australian restoration industry requires.

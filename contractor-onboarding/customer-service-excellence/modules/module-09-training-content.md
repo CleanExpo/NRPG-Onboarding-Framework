@@ -424,7 +424,7 @@ The next module will integrate all customer service excellence concepts into a c
 - Professional social media presence appropriate for Australian business culture
 
 **Professional Development Opportunities:**
-- Industry-specific technology training for disaster recovery specialization
+- Industry-specific technology training for disaster recovery specialisation
 - Professional certification in customer service technology and digital communication
 - Continuing education in emerging technologies for customer service enhancement
 - Leadership development in technology adoption for business growth and professional advancement

@@ -11,7 +11,7 @@
 
 ## Exercise Overview
 
-This intensive practical training develops expertise in equipment maintenance, troubleshooting, and performance optimization through hands-on workshops with actual restoration equipment. Participants will master preventive maintenance, field diagnosis, repair procedures, and fleet management essential for successful restoration operations.
+This intensive practical training develops expertise in equipment maintenance, troubleshooting, and performance optimisation through hands-on workshops with actual restoration equipment. Participants will master preventive maintenance, field diagnosis, repair procedures, and fleet management essential for successful restoration operations.
 
 ### Required Equipment and Materials
 
@@ -63,7 +63,7 @@ Teams perform comprehensive service on centrifugal air movers with various maint
    - Motor performance testing including amperage measurement
    - Bearing inspection and lubrication procedures
    - Electrical safety testing and verification
-   - Performance optimization and calibration
+   - Performance optimisation and calibration
 
 **Documentation Requirements:**
 - Complete maintenance log entries with technical data
@@ -101,34 +101,34 @@ Teams work with air movers having introduced problems requiring systematic diagn
 - Personal protective equipment and tool safety
 - Emergency procedures and incident response
 
-### **Phase 3: Performance Optimization and Fleet Coordination (25 minutes)**
+### **Phase 3: Performance optimisation and Fleet Coordination (25 minutes)**
 
-**Equipment Optimization Practice:**
+**Equipment optimisation Practice:**
 Teams optimize air movement equipment for maximum performance and efficiency.
 
-**Optimization Activities:**
+**optimisation Activities:**
 1. **Airflow Measurement and Calibration:**
    - Professional airflow measurement techniques
    - Performance comparison with manufacturer specifications
-   - Adjustment procedures and optimization techniques
+   - Adjustment procedures and optimisation techniques
    - Environmental integration and system coordination
 
 2. **Energy Efficiency Assessment:**
    - Electrical consumption measurement and analysis
-   - Cost-per-hour calculation and optimization
+   - Cost-per-hour calculation and optimisation
    - Energy efficiency improvement recommendations
    - Operational cost reduction strategies
 
 3. **Fleet Management Integration:**
-   - Equipment rotation and utilization optimization
+   - Equipment rotation and utilization optimisation
    - Maintenance scheduling and resource coordination
    - Performance tracking and improvement planning
-   - Cost management and budget optimization
+   - Cost management and budget optimisation
 
 **Professional Development Focus:**
 - Technical leadership and problem-solving skills
 - Professional documentation and communication
-- Business acumen and cost optimization
+- Business acumen and cost optimisation
 - Industry best practice implementation
 
 ---
@@ -140,38 +140,38 @@ Comprehensive dehumidifier maintenance workshop with both refrigerant and desicc
 
 ### **Learning Objectives:**
 - Master refrigeration and desiccant system maintenance
-- Develop expertise in environmental optimization
+- Develop expertise in environmental optimisation
 - Implement energy efficiency and cost management
 - Coordinate dehumidification with air movement systems
 
 ### **Phase 1: Refrigerant Dehumidifier Service (30 minutes)**
 
 **Refrigeration System Maintenance:**
-Teams perform comprehensive service on refrigerant dehumidifiers with focus on system optimization.
+Teams perform comprehensive service on refrigerant dehumidifiers with focus on system optimisation.
 
 **Service Components:**
 1. **Refrigeration System Assessment:**
    - Compressor performance testing and electrical verification
    - Refrigerant pressure and temperature monitoring
    - Safety system testing and calibration verification
-   - System efficiency assessment and optimization
+   - System efficiency assessment and optimisation
 
 2. **Coil and Drainage System Service:**
    - Evaporator and condenser coil cleaning procedures
    - Drain pan cleaning and sanitization protocols
    - Drain pump operation and flow testing
-   - Water quality and drainage system optimization
+   - Water quality and drainage system optimisation
 
 3. **Control System Calibration:**
    - Thermostat and humidistat accuracy verification
    - Control circuit testing and adjustment procedures
    - Safety switch operation and response testing
-   - Performance parameter optimization and documentation
+   - Performance parameter optimisation and documentation
 
 **Technical Skills Development:**
 - Refrigeration system understanding and service techniques
 - Electrical testing and safety verification procedures
-- Performance measurement and optimization strategies
+- Performance measurement and optimisation strategies
 - Professional documentation and quality control
 
 ### **Phase 2: Desiccant Dehumidifier Maintenance (20 minutes)**
@@ -184,41 +184,41 @@ Teams service desiccant dehumidifiers including media assessment and heating sys
    - Media condition evaluation and effectiveness testing
    - Contamination assessment and cleaning procedures
    - Replacement criteria and scheduling planning
-   - Performance verification and optimization
+   - Performance verification and optimisation
 
 2. **Heating System Service:**
    - Heating element inspection and electrical testing
    - Temperature control calibration and safety verification
-   - Energy efficiency assessment and optimization
+   - Energy efficiency assessment and optimisation
    - Safety system testing and emergency procedures
 
-3. **Air System Optimization:**
+3. **Air System optimisation:**
    - Airflow measurement and system balance
    - Filter condition and replacement requirements
-   - Ductwork inspection and optimization
+   - Ductwork inspection and optimisation
    - Integration with air movement equipment
 
 **Professional Competency Focus:**
-- Specialized equipment knowledge and service skills
+- specialised equipment knowledge and service skills
 - Safety protocols and electrical testing procedures
-- Performance optimization and energy management
+- Performance optimisation and energy management
 - System integration and coordination expertise
 
-### **Phase 3: Environmental Optimization and Troubleshooting (25 minutes)**
+### **Phase 3: Environmental optimisation and Troubleshooting (25 minutes)**
 
-**Performance Optimization Practice:**
+**Performance optimisation Practice:**
 Teams optimize dehumidification performance through environmental control and system integration.
 
-**Optimization Scenarios:**
+**optimisation Scenarios:**
 1. **Inadequate Moisture Removal:**
-   - Environmental condition assessment and optimization
+   - Environmental condition assessment and optimisation
    - Equipment sizing and capacity verification
    - Air circulation improvement and coordination
    - System performance enhancement and verification
 
 2. **Energy Efficiency Improvement:**
-   - Power consumption analysis and optimization
-   - Operating condition optimization for efficiency
+   - Power consumption analysis and optimisation
+   - Operating condition optimisation for efficiency
    - Cost-per-gallon calculation and improvement
    - Energy management and cost reduction strategies
 
@@ -229,21 +229,21 @@ Teams optimize dehumidification performance through environmental control and sy
    - Professional reporting and client communication
 
 **Business Application:**
-- Cost analysis and operational optimization
+- Cost analysis and operational optimisation
 - Client service and performance demonstration
 - Professional documentation and reporting
 - Industry leadership and best practice development
 
 ---
 
-## Exercise 3: Extraction Equipment Service and Optimization (75 minutes)
+## Exercise 3: Extraction Equipment Service and optimisation (75 minutes)
 
 ### **Scenario Setup:**
-Comprehensive extraction equipment workshop including portable extractors and truck-mount systems requiring service, troubleshooting, and performance optimization.
+Comprehensive extraction equipment workshop including portable extractors and truck-mount systems requiring service, troubleshooting, and performance optimisation.
 
 ### **Learning Objectives:**
 - Master extraction equipment service and repair procedures
-- Develop expertise in vacuum and pressure system optimization
+- Develop expertise in vacuum and pressure system optimisation
 - Implement safety protocols for complex equipment service
 - Optimize extraction performance and efficiency
 
@@ -262,12 +262,12 @@ Teams perform complete service on portable extractors with various maintenance a
 2. **Recovery System Maintenance:**
    - Recovery tank cleaning and sanitization
    - Float system operation and adjustment
-   - Drainage system operation and optimization
+   - Drainage system operation and optimisation
    - Waste management and disposal procedures
 
 3. **Tool and Attachment Service:**
    - Wand and hose condition assessment and cleaning
-   - Attachment functionality testing and optimization
+   - Attachment functionality testing and optimisation
    - Connection integrity and seal replacement
    - Performance verification and quality control
 
@@ -287,12 +287,12 @@ Teams work with truck-mount systems requiring complex service and coordination p
    - Pump performance testing and pressure verification
    - Seal condition assessment and replacement
    - Pressure regulation and safety system testing
-   - Water flow optimization and quality control
+   - Water flow optimisation and quality control
 
-2. **Vacuum System Optimization:**
+2. **Vacuum System optimisation:**
    - Blower performance testing and maintenance
-   - Vacuum measurement and system optimization
-   - Filtration system service and optimization
+   - Vacuum measurement and system optimisation
+   - Filtration system service and optimisation
    - Recovery tank maintenance and cleaning
 
 3. **Vehicle Integration Service:**
@@ -304,10 +304,10 @@ Teams work with truck-mount systems requiring complex service and coordination p
 **Professional Development:**
 - Complex system understanding and service skills
 - Safety protocols for vehicle-mounted equipment
-- Performance optimization and efficiency improvement
+- Performance optimisation and efficiency improvement
 - Business operations and fleet management
 
-### **Phase 3: Performance Optimization and Troubleshooting (25 minutes)**
+### **Phase 3: Performance optimisation and Troubleshooting (25 minutes)**
 
 **Advanced Troubleshooting Practice:**
 Teams diagnose and resolve complex extraction equipment problems requiring systematic analysis.
@@ -321,20 +321,20 @@ Teams diagnose and resolve complex extraction equipment problems requiring syste
 
 2. **Pressure System Problems:**
    - High-pressure system diagnosis and testing
-   - Pump service and pressure optimization
+   - Pump service and pressure optimisation
    - Safety system verification and calibration
-   - Water quality and flow optimization
+   - Water quality and flow optimisation
 
 3. **Integration and Coordination Issues:**
-   - System integration testing and optimization
+   - System integration testing and optimisation
    - Performance coordination and efficiency improvement
-   - Cost analysis and operational optimization
+   - Cost analysis and operational optimisation
    - Client service and professional presentation
 
 **Professional Excellence:**
 - Advanced troubleshooting and problem-solving skills
 - Professional service delivery and quality control
-- Business optimization and cost management
+- Business optimisation and cost management
 - Industry leadership and best practice development
 
 ---
@@ -358,7 +358,7 @@ Teams calibrate and verify moisture detection equipment using professional stand
 **Calibration Activities:**
 1. **Reference Standard Verification:**
    - Calibration standard preparation and verification
-   - Environmental condition optimization for accuracy
+   - Environmental condition optimisation for accuracy
    - Multi-point calibration across operating range
    - Accuracy documentation and certification
 
@@ -383,7 +383,7 @@ Teams calibrate and verify moisture detection equipment using professional stand
 ### **Phase 2: Thermal Imaging and Advanced Technology (20 minutes)**
 
 **Advanced Technology Integration:**
-Teams work with thermal imaging and advanced monitoring technology requiring specialized maintenance and calibration.
+Teams work with thermal imaging and advanced monitoring technology requiring specialised maintenance and calibration.
 
 **Technology Service:**
 1. **Thermal Imaging Calibration:**
@@ -394,14 +394,14 @@ Teams work with thermal imaging and advanced monitoring technology requiring spe
 
 2. **Environmental Monitoring Systems:**
    - Data logger calibration and accuracy verification
-   - Communication system testing and optimization
+   - Communication system testing and optimisation
    - Data quality assurance and integrity verification
    - Network integration and remote monitoring setup
 
-3. **Technology Integration and Optimization:**
+3. **Technology Integration and optimisation:**
    - System coordination and data integration
    - Real-time monitoring and alert configuration
-   - Client interface and communication optimization
+   - Client interface and communication optimisation
    - Performance tracking and improvement planning
 
 **Professional Development:**
@@ -419,23 +419,23 @@ Teams integrate equipment maintenance with business systems and professional doc
 1. **Maintenance Documentation Systems:**
    - Digital maintenance log and tracking system setup
    - Performance metric tracking and analysis
-   - Cost analysis and budget optimization
+   - Cost analysis and budget optimisation
    - Professional reporting and client communication
 
 2. **Fleet Coordination and Management:**
-   - Equipment utilization tracking and optimization
+   - Equipment utilization tracking and optimisation
    - Maintenance scheduling and resource coordination
    - Emergency response and backup planning
    - Staff training and competency development
 
-3. **Business Integration and Optimization:**
-   - Cost management and profit optimization
+3. **Business Integration and optimisation:**
+   - Cost management and profit optimisation
    - Quality assurance and professional standards
    - Client service and satisfaction improvement
    - Industry leadership and professional development
 
 **Business Excellence:**
-- Professional practice management and optimization
+- Professional practice management and optimisation
 - Technology integration and efficiency improvement
 - Quality control and continuous improvement
 - Industry leadership and community contribution
@@ -447,24 +447,24 @@ Teams integrate equipment maintenance with business systems and professional doc
 ### Practical Competency Evaluation
 
 **Assessment Framework:**
-All practical exercises emphasise technical competency, safety compliance, professional standards, and business optimization. Assessment focuses on real-world application and professional development.
+All practical exercises emphasise technical competency, safety compliance, professional standards, and business optimisation. Assessment focuses on real-world application and professional development.
 
 **Observable Competencies:**
 - **Technical Mastery:** Equipment service and troubleshooting expertise
 - **Safety Leadership:** Electrical safety and risk management excellence
 - **Professional Standards:** Quality control and documentation excellence
-- **Business Acumen:** Cost optimization and operational efficiency
+- **Business Acumen:** Cost optimisation and operational efficiency
 - **Problem-Solving:** Creative solutions and systematic approach
 - **Industry Leadership:** Best practice development and professional mentoring
 
 ### Professional Development Pathways
 
-**Specialization Opportunities:**
+**specialisation Opportunities:**
 - **Equipment Specialist:** Technical expertise and equipment coordination
-- **Fleet Manager:** Operational optimization and resource management
+- **Fleet Manager:** Operational optimisation and resource management
 - **Training Coordinator:** Professional education and skill development
-- **Technology Integration:** Advanced monitoring and system optimization
-- **Business Development:** Operational efficiency and profit optimization
+- **Technology Integration:** Advanced monitoring and system optimisation
+- **Business Development:** Operational efficiency and profit optimisation
 
 ### Continuous Improvement Integration
 

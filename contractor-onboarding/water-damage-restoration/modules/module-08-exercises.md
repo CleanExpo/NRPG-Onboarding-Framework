@@ -22,7 +22,7 @@ This advanced practical training develops expertise in complex restoration scena
 - Advanced equipment demonstration area
 - Technology integration workstation
 
-**Specialized Equipment:**
+**specialised Equipment:**
 - Advanced monitoring systems and data loggers
 - Injection drying equipment and heat drying systems
 - Heritage conservation tools and materials

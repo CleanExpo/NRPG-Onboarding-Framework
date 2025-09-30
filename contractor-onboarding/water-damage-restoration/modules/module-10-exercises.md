@@ -45,7 +45,7 @@ Comprehensive communication training using diverse client scenarios representing
 ### **Phase 1: Stakeholder Communication Analysis (30 minutes)**
 
 **Communication Preparation Workshop:**
-Teams analyze diverse stakeholder scenarios and develop appropriate communication strategies.
+Teams analyse diverse stakeholder scenarios and develop appropriate communication strategies.
 
 **Stakeholder Scenarios:**
 1. **Multicultural Residential Family:**
@@ -265,7 +265,7 @@ Teams develop comprehensive project plans for complex restoration scenarios.
    - 1920s office building with heritage protection
    - Multiple tenants and business operations
    - Heritage consultants and regulatory approvals
-   - Structural engineers and specialized contractors
+   - Structural engineers and specialised contractors
 
 2. **Multi-Unit Residential Complex:**
    - 50-unit apartment building with extensive damage
@@ -324,7 +324,7 @@ Teams practice systematic quality control and professional project monitoring.
 **Quality Management Components:**
 1. **Progress Monitoring Systems:**
    - Milestone tracking and achievement verification
-   - Performance measurement and optimization
+   - Performance measurement and optimisation
    - Timeline management and adjustment procedures
    - Cost control and budget management
 
@@ -468,7 +468,7 @@ All practical exercises emphasize professional communication, relationship manag
 
 ### Professional Development Pathways
 
-**Specialization Opportunities:**
+**specialisation Opportunities:**
 - **Client Relationship Manager:** Specializing in client service and satisfaction
 - **Project Coordinator:** Focusing on project management and coordination
 - **Business Development:** Specializing in growth and relationship building

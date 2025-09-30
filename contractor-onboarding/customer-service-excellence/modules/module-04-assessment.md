@@ -377,7 +377,7 @@ To balance efficiency with respect, I would explain safety requirements that can
 ### For High Performers (90%+):
 - Consider advanced professional development in business communication
 - Develop mentoring skills for supporting colleagues
-- Explore specialized professional presentation for complex commercial work
+- Explore specialised professional presentation for complex commercial work
 - Consider leadership roles in customer relationship management
 
 ### For Good Performance (80-89%):

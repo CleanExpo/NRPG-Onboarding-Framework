@@ -81,7 +81,7 @@ I acknowledge and commit to:
 #### **3. Professional Integrity**
 - **Honest Business Practice:** Conduct all business activities with complete honesty and transparency
 - **Fair Dealing:** Provide fair pricing and ethical business terms
-- **Promise Keeping:** Honor all commitments and agreements made to clients and peers
+- **Promise Keeping:** honour all commitments and agreements made to clients and peers
 - **Conflict Resolution:** Address conflicts professionally and seek fair resolution
 - **Professional Liability:** Maintain appropriate insurance and accept responsibility for professional work
 
@@ -110,7 +110,7 @@ I acknowledge and commit to:
 
 #### **Business Misconduct**
 - **Dishonest Pricing:** Providing misleading or inflated pricing information
-- **Contract Violation:** Failing to honor contractual commitments and agreements
+- **Contract Violation:** Failing to honour contractual commitments and agreements
 - **Insurance Fraud:** Participating in or facilitating fraudulent insurance claims
 - **Unlicensed Operation:** Operating without required licenses or certifications
 - **Regulatory Violation:** Violating applicable laws, regulations, or professional standards
@@ -138,7 +138,7 @@ All NRPG certified professionals must complete minimum annual requirements:
 - **Platform Engagement:** Participation in NRPG professional development activities
 
 #### **Professional Development Categories**
-- **Technical Training:** IICRC and specialized restoration technique training
+- **Technical Training:** IICRC and specialised restoration technique training
 - **Business Development:** CARSI business skills and professional development courses
 - **Safety and Compliance:** WHS, environmental protection, and regulatory compliance training
 - **Client Service:** Customer service, communication, and relationship management training
@@ -148,7 +148,7 @@ All NRPG certified professionals must complete minimum annual requirements:
 
 #### **Specialist to Professional Development**
 - **Additional Certification:** Pursue certification in additional restoration specializations
-- **Advanced Training:** Complete advanced training in existing specialization areas
+- **Advanced Training:** Complete advanced training in existing specialisation areas
 - **Business Skills:** Develop business management and leadership capabilities
 - **Industry Involvement:** Increase professional association participation and contribution
 - **Leadership Development:** Pursue leadership roles and industry contribution opportunities
@@ -226,7 +226,7 @@ I commit to upholding the reputation and standards of the restoration industry a
 - **Full Name:** _______________________________
 - **Business Name:** _______________________________
 - **NRPG Certification Level:** _______________________________
-- **Primary Specialization:** _______________________________
+- **Primary specialisation:** _______________________________
 - **Service Territory:** _______________________________
 
 **Professional Certifications:**

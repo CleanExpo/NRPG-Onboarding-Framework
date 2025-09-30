@@ -22,7 +22,7 @@ This capstone module integrates all previous restoration training into comprehen
 - **Documentation Workstation:** Digital systems for professional documentation and reporting
 - **Quality Standards Library:** Access to Australian standards, industry guidelines, and best practices
 
-**Specialized Equipment Required:**
+**specialised Equipment Required:**
 - **Testing and Verification Equipment:** Moisture meters, thermal imaging, air quality monitors
 - **Quality Assessment Tools:** Inspection checklists, measurement devices, documentation systems
 - **Client Presentation Technology:** Tablets, displays, and professional presentation materials
@@ -53,7 +53,7 @@ This capstone module integrates all previous restoration training into comprehen
 
 **Complex Project Simulation Setup:**
 - [ ] Prepare multi-phase restoration projects with various quality challenges
-- [ ] Create heritage property scenarios requiring specialized quality considerations
+- [ ] Create heritage property scenarios requiring specialised quality considerations
 - [ ] Set up contamination control situations requiring clearance verification
 - [ ] Organize commercial projects with multiple stakeholder coordination requirements
 - [ ] Prepare client satisfaction challenges requiring professional resolution
@@ -185,10 +185,10 @@ Advanced training in technical testing and verification ensuring objective quali
 Intensive practice with various moisture testing scenarios and equipment.
 
 **Testing Scenarios:**
-1. **Heritage Material Testing:** Specialized techniques for heritage timber and traditional building materials
+1. **Heritage Material Testing:** specialised techniques for heritage timber and traditional building materials
 2. **Modern Construction Testing:** Engineered materials and complex building system assessment
 3. **Hidden Moisture Detection:** Non-invasive techniques for concealed moisture and structural assessment
-4. **Environmental Optimization:** Testing in varying environmental conditions and compensation techniques
+4. **Environmental optimisation:** Testing in varying environmental conditions and compensation techniques
 
 **Professional Competency Focus:**
 - **Technical Accuracy:** Precise measurement and professional interpretation
@@ -213,7 +213,7 @@ Teams practice air quality testing and clearance verification procedures.
 **Testing Applications:**
 - **Mould Remediation Clearance:** Post-remediation verification and health safety confirmation
 - **Chemical Contamination Assessment:** VOC and chemical residue testing and verification
-- **Indoor Air Quality Optimization:** Environmental quality improvement and client protection
+- **Indoor Air Quality optimisation:** Environmental quality improvement and client protection
 - **Regulatory Compliance:** Health department coordination and approval procedures
 
 #### Structural Integrity and Performance Assessment (20 minutes)
@@ -267,7 +267,7 @@ Teams conduct complete final inspections using professional checklists and proce
 Advanced training in professional client presentation and satisfaction verification.
 
 **Walkthrough Excellence Framework:**
-1. **Professional Preparation:** Team briefing and presentation organization
+1. **Professional Preparation:** Team briefing and presentation organisation
 2. **Technical Explanation:** Clear communication of restoration achievements and quality verification
 3. **Quality Demonstration:** Visual evidence and professional standards verification
 4. **Client Education:** Prevention advice and ongoing maintenance recommendations
@@ -365,7 +365,7 @@ Advanced training in using quality excellence for professional development and i
 Individual development planning and career advancement through quality excellence.
 
 **Growth Components:**
-- **Technical Mastery:** Advanced certification and specialized expertise development
+- **Technical Mastery:** Advanced certification and specialised expertise development
 - **Leadership Development:** Quality leadership and team development skills
 - **Industry Contribution:** Professional association involvement and standards development
 - **Business Excellence:** Sustainable business growth through quality reputation and client satisfaction
@@ -398,7 +398,7 @@ Individual development planning and career advancement through quality excellenc
 - **Professional Presentation:** Assessment of client communication and relationship management excellence
 - **Problem-Solving:** Evaluation of quality issue resolution and professional challenge management
 - **Leadership Potential:** Identification of quality leadership and industry contribution capability
-- **Professional Development:** Planning ongoing advancement and specialization opportunities
+- **Professional Development:** Planning ongoing advancement and specialisation opportunities
 
 **Industry Integration and Recognition:**
 - **Professional Certification:** Preparation for advanced industry certification and recognition

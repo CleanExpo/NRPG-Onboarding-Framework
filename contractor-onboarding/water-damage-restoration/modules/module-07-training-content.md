@@ -101,7 +101,7 @@ Moulds are multicellular fungi that reproduce through airborne spores, requiring
 - **Health Concerns:** Mycotoxin production, severe respiratory effects
 - **Water Requirements:** High moisture needs, water activity >0.9
 - **Australian Occurrence:** Less common than overseas, typically in severe water damage
-- **Remediation:** Requires aggressive containment and specialized removal
+- **Remediation:** Requires aggressive containment and specialised removal
 
 **Aspergillus fumigatus:**
 - **Appearance:** Blue-green to grey-green, powdery texture
@@ -876,7 +876,7 @@ The fundamental principle of mould prevention is moisture control. Effective pre
 - **Complex remediation project capability**
 - **Training and mentorship responsibilities**
 
-**Specialized Training:**
+**specialised Training:**
 - **Healthcare Facility Remediation**
 - **Industrial and Commercial Applications**
 - **Heritage Building Remediation**
@@ -908,7 +908,7 @@ This comprehensive module has provided essential knowledge and skills for profes
 - **Worker Safety:** Comprehensive safety protocols protecting remediation personnel
 - **Customer Protection:** Public health protection and customer service excellence
 - **Quality Management:** Systematic approach to quality control and continuous improvement
-- **Professional Development:** Pathway for ongoing competency development and specialization
+- **Professional Development:** Pathway for ongoing competency development and specialisation
 
 ### Connection to Water Damage Restoration Process
 
@@ -929,12 +929,12 @@ This comprehensive module has provided essential knowledge and skills for profes
 **Industry Certification Preparation:**
 This module provides essential knowledge for professional certification pathways:
 - **IICRC Applied Microbial Remediation Technician (AMRT):** Foundation certification for mould remediation
-- **Advanced Certifications:** Preparation for supervisory and specialized certifications
+- **Advanced Certifications:** Preparation for supervisory and specialised certifications
 - **Continuing Education:** Ongoing professional development and competency maintenance
 - **Australian Standards:** Compliance with local regulatory and industry requirements
 
 **Career Advancement Applications:**
-- **Mould Remediation Specialist:** Technical expertise for specialized remediation roles
+- **Mould Remediation Specialist:** Technical expertise for specialised remediation roles
 - **Project Supervision:** Knowledge supporting project management and supervision
 - **Health and Safety Leadership:** Safety competency for leadership roles
 - **Training and Development:** Expertise for training other restoration professionals

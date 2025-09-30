@@ -113,7 +113,7 @@ c) **Professional Legacy Development (3 points):** Explain how this opportunity 
 **Tasks:**
 a) **Customer Service Excellence Business Strategy (4 points):** Develop a comprehensive business strategy that demonstrates how customer service excellence mastery creates sustainable competitive advantage. Include specific systems, standards, and practices.
 
-b) **Professional Development and Team Leadership (3 points):** Design an approach for developing customer service excellence throughout your organization. Show how you would create a culture of excellence and professional development.
+b) **Professional Development and Team Leadership (3 points):** Design an approach for developing customer service excellence throughout your organisation. Show how you would create a culture of excellence and professional development.
 
 c) **Industry Leadership and Community Contribution (3 points):** Explain how your business would contribute to industry standards, professional development, and community wellbeing. Demonstrate integration of business success with professional legacy and social responsibility.
 

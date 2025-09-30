@@ -38,7 +38,7 @@
 - Hands-on equipment stations (4-5 setups)
 - Mock building materials for testing
 - Role-play areas for customer interaction
-- Equipment storage and organization area
+- Equipment storage and organisation area
 - First aid station and emergency procedures
 
 #### Essential Equipment Inventory
@@ -153,7 +153,7 @@ Best regards,
 - Show systematic room documentation technique
 - Demonstrate floor plan marking and measurement
 - Practice photographic documentation standards
-- Review digital organization requirements
+- Review digital organisation requirements
 
 **Interactive Element:**
 - Pass around documentation examples
@@ -278,7 +278,7 @@ Best regards,
 - Compare absorption rates between species
 - Demonstrate dimensional movement effects
 - Discuss decay resistance implications
-- Analyze restoration decision factors
+- analyse restoration decision factors
 
 **Teaching Resources:**
 - Physical timber samples from different species
@@ -293,13 +293,13 @@ Best regards,
 - Present photographs of Australian construction types
 - Participants identify construction methods
 - Discuss moisture migration patterns
-- Analyze assessment challenges
+- analyse assessment challenges
 
 **Regional Construction Variations (10 minutes):**
 - Compare construction across Australian climates
 - Discuss tropical vs. temperate considerations
 - Address heritage building requirements
-- Analyze modern vs. traditional methods
+- analyse modern vs. traditional methods
 
 **Interactive Learning:**
 - Construction detail diagrams and cutaways
@@ -870,7 +870,7 @@ Name (Optional): _________________________________
 - Prepare advancement recommendations for passing participants
 
 **Group Performance Analysis:**
-- Analyze overall class performance patterns
+- analyse overall class performance patterns
 - Identify common knowledge gaps or training needs
 - Evaluate training effectiveness and areas for improvement
 - Document lessons learned for future sessions
@@ -903,7 +903,7 @@ Name (Optional): _________________________________
 - Track participant progress in subsequent modules
 - Monitor job performance improvement indicators
 - Gather employer feedback on training effectiveness
-- Analyze equipment proficiency development
+- analyse equipment proficiency development
 
 **Continuous Improvement Implementation:**
 - Update training content based on technology advances

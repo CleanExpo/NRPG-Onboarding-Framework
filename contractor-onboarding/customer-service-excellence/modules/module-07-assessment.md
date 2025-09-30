@@ -363,7 +363,7 @@ D) Avoid documentation that might reveal improvement needs
 - Track documentation efficiency improvements (time savings, accuracy)
 - Monitor customer satisfaction scores before, during, and after implementation
 - Measure staff adoption rates and competency development
-- Analyze system performance and identify optimization opportunities
+- analyse system performance and identify optimisation opportunities
 - Use feedback for continuous improvement of processes and training"
 
 ### Scenario D: Legal Compliance Documentation Audit (5 points)
@@ -511,7 +511,7 @@ This documentation package demonstrates professional competence whilst protectin
 ### For High Performers (90%+):
 - Consider advanced documentation system design and implementation
 - Develop expertise in legal compliance and professional protection
-- Explore technology integration and workflow optimization
+- Explore technology integration and workflow optimisation
 - Consider mentoring colleagues in documentation excellence
 
 ### For Good Performance (80-89%):

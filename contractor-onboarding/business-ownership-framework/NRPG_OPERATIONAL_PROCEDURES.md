@@ -12,7 +12,7 @@
 ### **3-Part Ecosystem Operational Integration**
 
 #### **Website Operations (Part 1)**
-- **Content Management:** Professional content creation and SEO optimization
+- **Content Management:** Professional content creation and SEO optimisation
 - **Lead Generation:** Inquiry capture and initial client assessment
 - **Professional Showcasing:** NRPG certified professional profiles and capability display
 - **Geographic Matching:** Location-based professional identification and connection
@@ -49,10 +49,10 @@
 - **Client Information:** Contact details, insurance information, special requirements
 
 **Assessment Criteria:**
-- **Damage Type:** Specific restoration specialization required
+- **Damage Type:** Specific restoration specialisation required
 - **Geographic Coverage:** Available certified professionals in service area
 - **Urgency Requirements:** Emergency response capability and availability
-- **Specialization Match:** Appropriate certification for specific work type
+- **specialisation Match:** Appropriate certification for specific work type
 - **Capacity Assessment:** Available professionals with current capacity
 
 #### **Step 2: Professional Matching and Assignment (30-60 minutes)**
@@ -63,7 +63,7 @@
 - **Geographic Proximity:** Service territory coverage and realistic response time
 - **Current Capacity:** Workload assessment and availability verification
 - **Performance History:** Historical performance, client satisfaction, quality ratings
-- **Specialization Depth:** Level of expertise and experience in required specialization
+- **specialisation Depth:** Level of expertise and experience in required specialisation
 
 **Assignment Process:**
 - **Primary Assignment:** Best-matched professional based on all criteria
@@ -133,7 +133,7 @@
 **Planning Components:**
 - **Performance Assessment:** Annual performance review and development needs assessment
 - **Career Advancement:** Professional advancement goals and pathway planning
-- **Certification Development:** Additional certification and specialization planning
+- **Certification Development:** Additional certification and specialisation planning
 - **Industry Contribution:** Professional association and industry involvement planning
 - **CARSI Integration:** CARSI course completion and professional development planning
 
@@ -151,7 +151,7 @@
 **Responsibility:** Certification Review Committee
 
 **Assessment Components:**
-- **Certification Portfolio:** Comprehensive certification and specialization assessment
+- **Certification Portfolio:** Comprehensive certification and specialisation assessment
 - **Performance Excellence:** Performance history and quality achievement assessment
 - **Industry Contribution:** Professional association and industry involvement assessment
 - **Professional Development:** Ongoing professional development and learning assessment
@@ -191,6 +191,7 @@
 
 ---
 
+## Clean Claims Platform Integration### **Mandatory Documentation Platform**All NRPG partners must use Clean Claims (https://www.cleanclaims.com/) for:#### **Field Operations**- Real-time job site documentation- Comprehensive photo documentation (before/during/after)- Standardised damage assessment- Scope documentation and verification#### **Reporting and Transparency**- Automated report generation- Real-time progress tracking- Insurer communication integration- Client transparency portal#### **Quality and Compliance**- Built-in quality control systems- Australian standards compliance- Insurance industry requirements- Professional documentation standards### **Platform Training Requirements**- Mandatory Clean Claims certification- Mobile device field operation training- Integration with existing systems- Ongoing platform updates and support
 ## Quality Assurance and Performance Management
 
 ### **Systematic Quality Assurance Framework**
@@ -241,8 +242,8 @@
 **Responsibility:** Operations Improvement Team
 
 **Improvement Components:**
-- **System Enhancement:** Platform and system improvement and optimization
-- **Process Optimization:** Operational process improvement and efficiency enhancement
+- **System Enhancement:** Platform and system improvement and optimisation
+- **Process optimisation:** Operational process improvement and efficiency enhancement
 - **Training Enhancement:** Professional development and training improvement
 - **Quality Enhancement:** Quality assurance and performance standard enhancement
 - **Technology Integration:** Technology improvement and capability enhancement
@@ -268,9 +269,9 @@
 
 **Integration Components:**
 - **Professional Profiles:** NRPG certified professional profile management and updates
-- **Geographic Coverage:** Service territory and coverage mapping and optimization
+- **Geographic Coverage:** Service territory and coverage mapping and optimisation
 - **Booking Integration:** Booking system integration and client connection management
-- **SEO Optimization:** Search optimization and industry authority development
+- **SEO optimisation:** Search optimisation and industry authority development
 - **Content Management:** Professional content creation and industry information management
 
 #### **CRM System Management**

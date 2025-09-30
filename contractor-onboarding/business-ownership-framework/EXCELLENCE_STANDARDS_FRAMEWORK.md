@@ -39,7 +39,7 @@
 ### **Tier 1: Partnership Candidate Standards (Entry Level)**
 
 #### **Business Performance Standards**
-- **Financial Stability:** Demonstrated financial stability and growth trajectory
+- **Financial Stability:** Active business operation with current insurance
 - **Operational Capability:** Consistent service delivery and quality performance
 - **Regulatory Compliance:** Full compliance with all applicable regulations
 - **Customer Satisfaction:** Minimum 85% customer satisfaction rating
@@ -72,7 +72,7 @@
 - **Annual Training:** Minimum 30 hours professional development annually
 - **Industry Contribution:** Active professional association participation
 - **Quality Certification:** ISO 9001 or equivalent quality certification
-- **Process Improvement:** Demonstrated process improvement and optimization
+- **Process Improvement:** Demonstrated process improvement and optimisation
 - **Leadership Development:** Leadership training and development participation
 
 #### **Enhanced Performance Metrics**
@@ -160,7 +160,7 @@
 - **Fire and Smoke Damage:** Advanced ASD techniques and practices
 - **Mould Remediation:** Advanced AMRT techniques and practices
 - **Carpet and Textile Cleaning:** Advanced CCT techniques and practices
-- **Trauma and Biohazard:** Specialized remediation techniques
+- **Trauma and Biohazard:** specialised remediation techniques
 
 #### **Approved Training Providers**
 - **IICRC Certified Schools:** Recognized IICRC training providers
@@ -179,7 +179,7 @@
 - **Human Resources:** Team development and performance management
 
 #### **Advanced Business Specializations**
-- **Digital Transformation:** Technology integration and digital optimization
+- **Digital Transformation:** Technology integration and digital optimisation
 - **Innovation Management:** Innovation development and implementation
 - **Quality Management:** Quality system development and improvement
 - **Risk Management:** Risk assessment, mitigation, and management
@@ -187,7 +187,7 @@
 
 #### **Approved Business Education Providers**
 - **Universities and Business Schools:** Accredited business education programs
-- **Professional Development Organizations:** Specialized business development training
+- **Professional Development Organizations:** specialised business development training
 - **Industry Consultants:** Industry-specific business development training
 - **Government Programs:** Business development and growth programs
 - **International Business Schools:** Global best practice business education

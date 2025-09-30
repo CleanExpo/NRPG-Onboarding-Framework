@@ -272,7 +272,7 @@ Distance and Angle:
 Technical Settings:
 - Emissivity setting appropriate for material
 - Temperature range optimized for expected conditions
-- Color palette selection for maximum contrast
+- colour palette selection for maximum contrast
 - Automatic or manual focus for sharp images
 
 Documentation Requirements:
@@ -286,7 +286,7 @@ Documentation Requirements:
 INTERPRETATION AND ANALYSIS
 Temperature Pattern Analysis:
 □ Identify temperature gradients and transitions
-□ Recognize evaporation cooling patterns
+□ recognise evaporation cooling patterns
 □ Distinguish thermal bridging from moisture
 □ Correlate patterns with building construction
 
@@ -402,7 +402,7 @@ Daily Monitoring Routine:
 
 Weekly System Maintenance:
 □ Battery level monitoring and replacement scheduling
-□ Signal strength verification and optimization
+□ Signal strength verification and optimisation
 □ Data backup and system updates
 □ Physical equipment inspection and cleaning
 
@@ -465,7 +465,7 @@ Required Dehumidification: _________g/kg/hr
 Equipment Capacity Required: ______L/day
 Air Movement Enhancement: _________cfm
 
-OPTIMIZATION STRATEGY
+optimisation STRATEGY
 Environmental Targets:
 Optimal Temperature: ______________°C
 Target Relative Humidity: _________%
@@ -497,7 +497,7 @@ Progress Milestones:
 
 Quality Checkpoints:
 □ Weekly psychrometric analysis review
-□ Equipment performance optimization
+□ Equipment performance optimisation
 □ Environmental condition adjustment
 □ Timeline revision if necessary
 
@@ -809,7 +809,7 @@ Last Assessment: _____________ Assessor: _____________
 
 Monitoring Systems:
 □ System Design     □ Installation    □ Data Analysis
-□ Troubleshooting   □ Optimization    □ Training Others
+□ Troubleshooting   □ optimisation    □ Training Others
 Last Assessment: _____________ Assessor: _____________
 
 CONTINUING EDUCATION TRACKING
@@ -993,7 +993,7 @@ TAFE and Vocational Education:
 □ Certificate III Building and Construction
 □ Diploma of Building and Construction Management
 □ Advanced Diploma Building Surveying
-□ Various specialized trade qualifications
+□ Various specialised trade qualifications
 
 University Programs:
 □ Bachelor of Construction Management
@@ -1021,7 +1021,7 @@ Moisture Detection Training:
 Equipment Manufacturer Programs:
 □ Tramex University (online and in-person)
 □ Protimeter Academy (technical certification)
-□ FLIR Training Center (thermal imaging focus)
+□ FLIR Training centre (thermal imaging focus)
 
 Independent Training Providers:
 Building Performance Institute
@@ -1039,7 +1039,7 @@ Services: Quality auditor training, certification
 
 Software and Technology:
 BuildingIQ Australia
-Services: Building analytics and optimization training
+Services: Building analytics and optimisation training
 
 Autodesk Australia
 Services: BIM and CAD software training for building professionals
@@ -1074,7 +1074,7 @@ Contact: www.aibs.com.au
 Focus: Building inspection and assessment
 Benefits: Technical training, professional recognition
 
-Specialized Technical Associations:
+specialised Technical Associations:
 
 Australian Association for Building Science (AABS)
 Focus: Building performance and science
@@ -1151,7 +1151,7 @@ Annual Development Goals:
 
 Career Milestone Planning:
 □ 1-2 years: Foundation certification completion
-□ 3-5 years: Advanced specialization development
+□ 3-5 years: Advanced specialisation development
 □ 5-10 years: Industry leadership and recognition
 □ 10+ years: Professional legacy and contribution
 ```

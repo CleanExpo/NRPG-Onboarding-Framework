@@ -158,7 +158,7 @@ Technique Assessment:
 
 UPHOLSTERY EXTRACTION (10 minutes)
 □ Fabric-appropriate pressure and technique
-□ Color bleeding assessed and managed
+□ colour bleeding assessed and managed
 □ Fabric texture preserved
 □ Effective moisture extraction achieved
 
@@ -984,7 +984,7 @@ Next Review Date: __________________________________
 - [ ] Customer service excellence under pressure and challenging conditions
 
 **Professional Development Foundation:**
-- [ ] Technical expertise enabling specialized water extraction roles
+- [ ] Technical expertise enabling specialised water extraction roles
 - [ ] Emergency response capability supporting community service
 - [ ] Quality assurance competency building customer confidence
 - [ ] Professional documentation supporting legal and insurance requirements

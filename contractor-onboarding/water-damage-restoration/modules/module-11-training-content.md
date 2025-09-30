@@ -149,7 +149,7 @@ Systematic assessment ensuring project remains on track for successful completio
 - **Moisture Level Verification:** Scientific measurement confirming drying progress
 - **Structural Condition Evaluation:** Assessment of building components and restoration progress
 - **Air Quality Monitoring:** Indoor air quality testing and improvement verification
-- **Equipment Efficiency:** Performance optimization and maintenance requirements
+- **Equipment Efficiency:** Performance optimisation and maintenance requirements
 - **Environmental Control:** Temperature and humidity management effectiveness
 
 **Quality Standard Verification:**
@@ -181,7 +181,7 @@ Professional approach to identifying, analyzing, and resolving quality concerns 
 **Common Quality Issues and Solutions:**
 
 **Technical Quality Challenges:**
-- **Slower Than Expected Drying:** Equipment optimization, environmental control, or additional resources
+- **Slower Than Expected Drying:** Equipment optimisation, environmental control, or additional resources
 - **Moisture Detection in Previously Dry Areas:** Enhanced inspection and targeted treatment
 - **Air Quality Concerns:** Improved ventilation, filtration, or source elimination
 - **Equipment Performance Issues:** Maintenance, replacement, or alternative equipment deployment
@@ -211,7 +211,7 @@ Comprehensive testing ensuring technical objectives have been achieved and resto
 
 **Structural Material Testing:**
 - **Wood Moisture Content:** Pin and pinless meter testing of structural timber and flooring
-- **Concrete and Masonry:** Specialized testing for mineral-based building materials
+- **Concrete and Masonry:** specialised testing for mineral-based building materials
 - **Insulation Materials:** Assessment of insulation drying and replacement requirements
 - **Composite Materials:** Testing of engineered and manufactured building products
 
@@ -388,7 +388,7 @@ Complete documentation packages ensuring client protection, regulatory complianc
 **Visual Documentation:**
 - **Photographic Records:** Professional before, during, and after photography
 - **Video Documentation:** Time-lapse or detailed video documentation when appropriate
-- **Technical Imaging:** Thermal imaging and specialized documentation as required
+- **Technical Imaging:** Thermal imaging and specialised documentation as required
 - **Progress Documentation:** Systematic visual documentation of restoration progress
 - **Completion Verification:** Final visual documentation confirming restoration quality
 
@@ -488,9 +488,9 @@ Commitment to ongoing professional development and positive industry contributio
 **Professional Development Areas:**
 
 **Technical Excellence:**
-- **Advanced Certification:** IICRC advanced certification and specialization
+- **Advanced Certification:** IICRC advanced certification and specialisation
 - **Technology Integration:** Adoption of new technology and innovation
-- **Specialized Training:** Heritage restoration, contamination control, advanced techniques
+- **specialised Training:** Heritage restoration, contamination control, advanced techniques
 - **Research Participation:** Contributing to industry research and development
 - **Innovation Leadership:** Developing and sharing new techniques and approaches
 
@@ -517,7 +517,7 @@ Integrating environmental protection and social contribution into quality excell
 - **Resource Conservation:** Efficient use of water, energy, and materials
 - **Waste Minimization:** Recycling and responsible disposal practices
 - **Chemical Management:** Environmentally responsible product selection and use
-- **Energy Efficiency:** Equipment optimization and energy conservation
+- **Energy Efficiency:** Equipment optimisation and energy conservation
 - **Carbon Footprint:** Transportation efficiency and environmental impact reduction
 
 **Community Quality Contribution:**
@@ -550,7 +550,7 @@ This comprehensive quality control and final inspection module ensures restorati
 - Positive contribution to industry standards and community protection
 
 **Career Development Opportunities:**
-- Quality assurance and management specialization
+- Quality assurance and management specialisation
 - Technical training and professional development
 - Industry leadership and standards development
 - Business management and growth opportunities

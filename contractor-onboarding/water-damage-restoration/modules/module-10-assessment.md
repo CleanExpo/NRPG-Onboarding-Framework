@@ -117,7 +117,7 @@ You are managing restoration of a commercial office building requiring coordinat
 - Realistic timeline development and milestone identification (5 points)
 
 ### Question 9: Resource Management and Quality Control (6 points)
-Your project requires specialized equipment, additional personnel, and coordination with subcontractors for a complex heritage restoration.
+Your project requires specialised equipment, additional personnel, and coordination with subcontractors for a complex heritage restoration.
 
 **A.** Describe your resource planning and allocation strategy (3 points)
 
@@ -424,7 +424,7 @@ A. Professional response (2 points):
 
 B. Balance strategy (2 points):
 - Alternative approach development and cost comparison
-- Quality standard maintenance with cost optimization
+- Quality standard maintenance with cost optimisation
 - Long-term value and risk assessment
 
 **Question 13 (3 points):**
@@ -455,7 +455,7 @@ B. Network development (4 points):
 
 **Question 15 (4 points):**
 A. Professional development (2 points):
-- IICRC certification advancement and specialization
+- IICRC certification advancement and specialisation
 - Project management and business development training
 - Industry conference and continuing education participation
 

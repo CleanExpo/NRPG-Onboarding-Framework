@@ -1,7 +1,7 @@
 # NRPG Ecosystem Integration Summary
 ## 3-Part System: Website + NRPG + CRM Integration
 
-**Vision:** Establish NRPG as the authoritative leader in Australian restoration industry through inclusive specialization support and comprehensive business excellence.
+**Vision:** Establish NRPG as the authoritative leader in Australian restoration industry through inclusive specialisation support and comprehensive business excellence.
 
 ---
 
@@ -11,19 +11,19 @@
 
 #### **Visual Showcase Integration**
 - **Professional Industry Presentation:** Comprehensive showcase of restoration industry capabilities
-- **Certification-Based Credibility:** Display NRPG certified professionals with specialization indicators
+- **Certification-Based Credibility:** Display NRPG certified professionals with specialisation indicators
 - **Geographic Coverage Display:** Interactive mapping of certified specialists by location and specialty
 - **Quality Assurance Messaging:** NRPG certification as guarantee of professional competency
 
 #### **Intelligent Booking System**
-- **Specialization Matching:** Direct connection between job type and appropriately certified specialists
-- **Geographic Optimization:** Location-based matching ensuring realistic response times
+- **specialisation Matching:** Direct connection between job type and appropriately certified specialists
+- **Geographic optimisation:** Location-based matching ensuring realistic response times
 - **Certification Verification:** No bookings without appropriate IICRC certification for work type
 - **Background Check Integration:** Only background-cleared professionals available for booking
 
 #### **SEO Authority Building**
 - **Industry Keyword Dominance:** Comprehensive coverage of restoration-related search terms
-- **Local SEO Excellence:** Geographic specialization for "restoration near me" searches
+- **Local SEO Excellence:** Geographic specialisation for "restoration near me" searches
 - **Professional Credibility:** NRPG certification as trust signal for search rankings
 - **Content Authority:** Educational content demonstrating industry expertise and standards
 
@@ -45,18 +45,18 @@
 - **Multi-Association Integration:** Partnerships with RIA, ATFA, ACCA, and regional associations
 - **CARSI Platform Integration:** Leveraging CARSI ownership for educational authority
 - **Professional Development:** Continuing education and certification advancement support
-- **Industry Collaboration:** Cross-specialization knowledge sharing and collaboration
+- **Industry Collaboration:** Cross-specialisation knowledge sharing and collaboration
 
 ### **Part 3: CRM - Contractor Connection & Quality Assurance**
 
 #### **Intelligent Contractor Matching**
 - **Certification-Based Assignment:** Work only goes to appropriately certified professionals
-- **Geographic Optimization:** Local contractors for optimal response times and service
+- **Geographic optimisation:** Local contractors for optimal response times and service
 - **Capacity Management:** Workload distribution ensuring quality service delivery
 - **Performance Tracking:** Ongoing performance monitoring and quality assurance
 
 #### **Progressive Certification Management**
-- **Specialization Tracking:** Individual certification portfolios and specialization development
+- **specialisation Tracking:** Individual certification portfolios and specialisation development
 - **Development Pathway Support:** Clear progression from specialist to master levels
 - **Training Coordination:** Integration with CARSI and other professional development platforms
 - **Achievement Recognition:** Professional advancement and industry recognition coordination
@@ -69,21 +69,21 @@
 
 ---
 
-## Specialization-Friendly Certification Levels
+## specialisation-Friendly Certification Levels
 
 ### **NRPG Certified Specialist (60-69 points)**
 **Target Audience:** Single-operator specialists and emerging restoration professionals
 
 #### **Certification Requirements:**
-- **Core Specialization:** Strong certification in ONE restoration area (8/12 points)
+- **Core specialisation:** Strong certification in ONE restoration area (8/12 points)
 - **CARSI Platform:** Active membership and basic course completion (5/7.5 points)
 - **Industry Association:** Primary association membership (3/6 points)
 - **Professional Development:** Government Cert IV enrollment or equivalent (2/4.5 points)
 
 #### **Platform Benefits:**
-- **Work Assignment:** Jobs in certified specialization area
+- **Work Assignment:** Jobs in certified specialisation area
 - **Professional Recognition:** NRPG Certified Specialist designation
-- **Growth Support:** Development pathway to multi-specialization
+- **Growth Support:** Development pathway to multi-specialisation
 - **Industry Integration:** Professional association and CARSI platform access
 
 #### **Examples:**
@@ -95,13 +95,13 @@
 **Target Audience:** Multi-competency professionals and growing restoration businesses
 
 #### **Enhanced Capabilities:**
-- **Multi-Specialization:** Certified in 2-3 restoration areas
+- **Multi-specialisation:** Certified in 2-3 restoration areas
 - **Advanced CARSI Participation:** Course completion and CEC excellence
 - **Association Leadership:** Active participation in multiple professional associations
 - **Professional Development:** Government Cert IV progress and advanced education
 
 #### **Platform Integration:**
-- **Expanded Work Access:** Jobs across multiple specialization areas
+- **Expanded Work Access:** Jobs across multiple specialisation areas
 - **Leadership Opportunities:** Industry contribution and professional development roles
 - **Professional Networking:** Enhanced access to industry relationships and opportunities
 - **Business Development:** Advanced business coaching and development support
@@ -166,7 +166,7 @@
 #### **Contents Restoration Jobs**
 - **Required Certification:** CCT (Carpet Cleaning Technician) + UFT (Upholstery and Fabric Cleaning)
 - **Eligible Professionals:** Contents specialists, textile specialists, comprehensive providers
-- **Quality Assurance:** Specialized equipment verification + technique compliance + client satisfaction
+- **Quality Assurance:** specialised equipment verification + technique compliance + client satisfaction
 
 ### **Geographic and Capacity Matching**
 - **Service Territory:** Contractor's defined geographic coverage area with realistic response times
@@ -226,7 +226,7 @@
 ### **Phase 2: Market Authority Building (Months 6-18)**
 #### **SEO and Marketing Dominance**
 - **Content Marketing:** Comprehensive industry content and educational resources
-- **Local SEO:** Geographic coverage and local search optimization
+- **Local SEO:** Geographic coverage and local search optimisation
 - **Professional Profiles:** Individual professional pages and certification verification
 - **Industry News:** Regular industry updates and professional development content
 
@@ -254,7 +254,7 @@
 ## Success Metrics and KPI Framework
 
 ### **Platform Performance Indicators**
-- **Professional Growth:** Number of certified professionals across all specialization levels
+- **Professional Growth:** Number of certified professionals across all specialisation levels
 - **Geographic Coverage:** National coverage across metro, regional, and remote areas
 - **Work Assignment Success:** Percentage of work assigned to appropriately certified professionals
 - **Client Satisfaction:** Customer satisfaction rates and service quality metrics

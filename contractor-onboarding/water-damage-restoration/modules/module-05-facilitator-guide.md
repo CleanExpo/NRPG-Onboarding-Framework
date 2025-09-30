@@ -150,7 +150,7 @@ Teach systematic equipment selection process:
 1. **Assess Environmental Conditions:** Temperature, humidity, stability
 2. **Calculate Moisture Load:** Material and environmental components
 3. **Evaluate Operating Constraints:** Power, space, timeline, budget
-4. **Select Optimal Equipment:** Performance vs. cost optimization
+4. **Select Optimal Equipment:** Performance vs. cost optimisation
 5. **Plan Monitoring Strategy:** Verification and adjustment protocols
 
 ---
@@ -162,7 +162,7 @@ Teach systematic equipment selection process:
 **Comprehensive Equipment Familiarization (15 minutes):**
 
 **Refrigerant Dehumidifier Deep Dive:**
-- **Control Systems:** Digital vs. mechanical controls, setting optimization
+- **Control Systems:** Digital vs. mechanical controls, setting optimisation
 - **Defrost Operations:** Hot gas vs. electric, cold weather considerations
 - **Maintenance Access:** Filter changes, coil cleaning, refrigerant checking
 - **Performance Monitoring:** Amp draw, temperature differentials, water production
@@ -173,15 +173,15 @@ Teach systematic equipment selection process:
 - Demonstrate proper maintenance procedures
 - Show common problems and their identification
 
-**Desiccant Dehumidifier Specialization:**
-- **Desiccant Wheel Operation:** Regeneration cycles, efficiency optimization
+**Desiccant Dehumidifier specialisation:**
+- **Desiccant Wheel Operation:** Regeneration cycles, efficiency optimisation
 - **Heat Management:** Understanding heat generation and utilization
 - **Ventilation Requirements:** Process air vs. regeneration air management
 - **Applications:** When desiccant units provide superior performance
 
 **Hands-On Operation Practice (25 minutes):**
 
-**Task 1: Equipment Setup and Optimization (15 minutes)**
+**Task 1: Equipment Setup and optimisation (15 minutes)**
 Each participant sets up and optimizes one dehumidifier:
 1. **Pre-Operation Inspection:** Complete equipment condition assessment
 2. **Electrical Connection:** Safe power connection with RCD verification
@@ -198,7 +198,7 @@ Inlet Humidity: ____% RH | Outlet Humidity: ____% RH
 Initial Assessment: ________________________________
 ```
 
-**Task 2: Performance Comparison and Optimization (10 minutes)**
+**Task 2: Performance Comparison and optimisation (10 minutes)**
 Compare different equipment performance:
 1. Measure water production rates over 10-minute periods
 2. Calculate efficiency (litres per kWh)
@@ -207,7 +207,7 @@ Compare different equipment performance:
 
 **Learning Emphasis:**
 - Equipment selection dramatically affects project success
-- Proper setup and optimization are essential skills
+- Proper setup and optimisation are essential skills
 - Understanding equipment limitations prevents problems
 - Professional operation builds customer confidence
 
@@ -240,7 +240,7 @@ Present participants with floor plan of actual building space and challenge them
 Using available space and equipment:
 1. **Layout Implementation:** Position air movers according to group design
 2. **Performance Testing:** Use smoke tubes and anemometer to verify airflow
-3. **Optimization Iterations:** Adjust positioning based on performance measurement
+3. **optimisation Iterations:** Adjust positioning based on performance measurement
 4. **Final Verification:** Achieve target air velocities and eliminate dead spots
 
 **Measurement and Documentation:**
@@ -478,7 +478,7 @@ Throughout the session, evaluate participants on:
 
 **Individual Development Planning:**
 For each participant, identify:
-- **Strengths:** Areas of exceptional competency for potential specialization
+- **Strengths:** Areas of exceptional competency for potential specialisation
 - **Development Needs:** Specific skills requiring additional practice or training
 - **Recommended Resources:** Training, certification, or mentorship opportunities
 - **Career Pathway Suggestions:** Professional development aligned with demonstrated aptitudes
@@ -496,7 +496,7 @@ For each participant, identify:
 - **Peer Learning:** Use experienced participants to support those needing additional help
 
 **Visual Learning Enhancement:**
-- **Psychrometric Charts:** Large, clear charts with color coding for different properties
+- **Psychrometric Charts:** Large, clear charts with colour coding for different properties
 - **Equipment Cutaways:** Show internal components and operation principles
 - **Airflow Visualization:** Use smoke or ribbon to make air movement visible
 - **Performance Graphs:** Real-time graphing of equipment performance and environmental conditions

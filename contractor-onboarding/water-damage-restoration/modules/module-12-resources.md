@@ -317,7 +317,7 @@ Services Offered:
   ○ Quality control and verification
   ○ Client education and prevention advice
 
-□ Specialized Restoration Services
+□ specialised Restoration Services
   ○ Heritage building restoration
   ○ Commercial complex projects
   ○ Mould remediation and prevention
@@ -339,7 +339,7 @@ Primary Market:
 
 □ High-Value Residential Properties
   ○ Premium residential restoration services
-  ○ Heritage property specialization
+  ○ Heritage property specialisation
   ○ Luxury property restoration and protection
   ○ Preventive maintenance and consultation
 
@@ -373,7 +373,7 @@ Professional Standards and Compliance:
 
 MARKETING AND SALES STRATEGY
 Professional Marketing Approach:
-□ Digital Marketing and SEO Optimization
+□ Digital Marketing and SEO optimisation
 □ Professional Networking and Industry Relationships
 □ Insurance Industry Partnership Development
 □ Community Education and Disaster Preparedness
@@ -452,7 +452,7 @@ Value-Based Pricing Factors:
 □ Professional Certification and Expertise (+15-25%)
 □ Advanced Equipment and Technology (+10-20%)
 □ Insurance Industry Relationships (+10-15%)
-□ Heritage or Specialized Restoration (+25-50%)
+□ Heritage or specialised Restoration (+25-50%)
 
 Cost Management and Control:
 Direct Costs:
@@ -473,7 +473,7 @@ Profit Margin Targets:
 Emergency Response: ____%
 Standard Restoration: ____%
 Commercial Projects: ____%
-Specialized Services: ____%
+specialised Services: ____%
 Overall Business Target: ____%
 
 CASH FLOW MANAGEMENT
@@ -482,7 +482,7 @@ Revenue Collection Strategy:
 □ Insurance Work: Direct billing with 30-60 day terms
 □ Commercial Projects: Progress payments with milestones
 □ Residential Work: Payment terms with client protection
-□ Specialized Services: Consultation retainer + project payment
+□ specialised Services: Consultation retainer + project payment
 
 Expense Management:
 □ Equipment Finance and Lease Management
@@ -529,7 +529,7 @@ Business Structure Registration:
 □ Australian Business Number (ABN)
 □ Company Registration (if applicable)
 □ Business Name Registration
-□ Professional License Requirements (state/territory specific)
+□ Professional licence Requirements (state/territory specific)
 □ Insurance Industry Registration (if applicable)
 
 Professional Certification and Qualifications:
@@ -726,7 +726,7 @@ Institute of Inspection, Cleaning and Restoration Certification:
   ○ Industry contribution and leadership development
 
 ISO QUALITY MANAGEMENT STANDARDS
-International Organization for Standardization:
+International organisation for Standardization:
 □ ISO 9001:2015 Quality Management Systems
   ○ Customer focus and satisfaction orientation
   ○ Leadership and strategic planning
@@ -853,7 +853,7 @@ Global Professional Development:
 
 □ International Association of Certified Indoor Air Consultants (IAC2)
   ○ Indoor air quality expertise and certification
-  ○ Health and safety specialization
+  ○ Health and safety specialisation
   ○ Professional development and recognition
   ○ Industry collaboration and networking
   ○ Research and innovation contribution
@@ -914,7 +914,7 @@ Service Quality Assurance:
 □ Implementation Quality Control
   ○ Daily quality monitoring and verification
   ○ Technical procedure compliance and documentation
-  ○ Equipment performance and optimization
+  ○ Equipment performance and optimisation
   ○ Safety compliance and risk management
   ○ Progressive client communication and updates
 
@@ -936,7 +936,7 @@ Quality Performance Indicators:
 
 □ Technical Performance Monitoring
   ○ Technical quality assessment and verification
-  ○ Equipment performance and optimization
+  ○ Equipment performance and optimisation
   ○ Procedure compliance and effectiveness
   ○ Safety performance and risk management
   ○ Professional development and competency
@@ -1029,7 +1029,7 @@ Home Protection and Preparedness:
   ○ Professional service contact and coordination
 
 □ Insurance and Recovery Planning
-  ○ Insurance coverage assessment and optimization
+  ○ Insurance coverage assessment and optimisation
   ○ Documentation and inventory procedures
   ○ Claims process understanding and preparation
   ○ Professional service selection and coordination
@@ -1054,7 +1054,7 @@ Business Continuity and Protection:
 □ Professional Service Integration and Support
   ○ Professional service provider relationship development
   ○ Emergency response and rapid deployment coordination
-  ○ Insurance and claims management optimization
+  ○ Insurance and claims management optimisation
   ○ Quality assurance and professional accountability
   ○ Business recovery and resumption planning
 
@@ -1103,7 +1103,7 @@ Environmental Mission Statement:
 "We are committed to environmental protection and sustainability through responsible restoration practice, resource conservation, pollution prevention, and community environmental leadership, contributing to environmental health and community wellbeing."
 
 Environmental Objectives:
-□ Resource Conservation and Efficiency Optimization
+□ Resource Conservation and Efficiency optimisation
 □ Pollution Prevention and Environmental Protection
 □ Waste Reduction and Responsible Disposal
 □ Sustainable Technology and Innovation Integration
@@ -1115,7 +1115,7 @@ Environmentally Responsible Service Delivery:
   ○ Water conservation and efficient usage
   ○ Energy efficiency and renewable energy integration
   ○ Material conservation and sustainable sourcing
-  ○ Transportation optimization and emission reduction
+  ○ Transportation optimisation and emission reduction
   ○ Technology integration and efficiency improvement
 
 □ Pollution Prevention and Environmental Protection
@@ -1127,7 +1127,7 @@ Environmentally Responsible Service Delivery:
 
 □ Waste Management and Responsible Disposal
   ○ Waste reduction and prevention strategies
-  ○ Recycling and reuse optimization
+  ○ Recycling and reuse optimisation
   ○ Hazardous waste safe handling and disposal
   ○ Material recovery and repurposing
   ○ Circular economy and sustainability integration
@@ -1138,7 +1138,7 @@ Green Technology Integration:
   ○ Energy-efficient drying and dehumidification equipment
   ○ Advanced filtration and air purification technology
   ○ Renewable energy and sustainable power sources
-  ○ Smart monitoring and optimization systems
+  ○ Smart monitoring and optimisation systems
   ○ Green building and restoration technology
 
 □ Sustainable Material and Chemical Usage
@@ -1146,7 +1146,7 @@ Green Technology Integration:
   ○ Low-impact and biodegradable material selection
   ○ Sustainable sourcing and responsible procurement
   ○ Chemical reduction and alternative solution development
-  ○ Health and environmental safety optimization
+  ○ Health and environmental safety optimisation
 
 □ Innovation and Research Integration
   ○ Environmental technology research and development
@@ -1173,7 +1173,7 @@ Environmental Education and Community Service:
 
 Environmental Performance Monitoring:
 □ Environmental Impact Measurement and Reporting
-  ○ Resource consumption monitoring and optimization
+  ○ Resource consumption monitoring and optimisation
   ○ Pollution prevention and environmental protection verification
   ○ Waste reduction and disposal tracking
   ○ Community environmental contribution assessment

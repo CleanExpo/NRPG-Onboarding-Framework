@@ -250,7 +250,7 @@ WORKMANSHIP QUALITY:
 
 APPEARANCE AND PRESENTATION:
 ☐ Overall appearance meets client expectations
-☐ Color matching: ☐ Excellent ☐ Good ☐ Acceptable ☐ Poor
+☐ colour matching: ☐ Excellent ☐ Good ☐ Acceptable ☐ Poor
 ☐ Texture matching: ☐ Excellent ☐ Good ☐ Acceptable ☐ Poor
 ☐ Joint and seam quality: ☐ Excellent ☐ Good ☐ Acceptable ☐ Poor
 ☐ Professional presentation: ☐ Excellent ☐ Good ☐ Acceptable ☐ Poor
@@ -522,7 +522,7 @@ Professional Development: ☐ Excellent ☐ Good ☐ Adequate ☐ Poor
 LEARNING AND IMPROVEMENT OPPORTUNITIES:
 TECHNICAL IMPROVEMENTS:
 Equipment Performance: ____________________________
-Process Optimization: _____________________________
+Process optimisation: _____________________________
 Technology Integration: ____________________________
 
 QUALITY SYSTEM IMPROVEMENTS:
@@ -587,7 +587,7 @@ Action Plan Development: ____________________________
 - **AS 3666.2-2011:** Air-handling and water systems - Operation and maintenance
 - **AIHA:** American Industrial Hygiene Association sampling guidelines
 - **ACGIH:** American Conference of Governmental Industrial Hygienists standards
-- **WHO:** World Health Organization air quality guidelines
+- **WHO:** World Health organisation air quality guidelines
 
 ### **Documentation and Compliance Standards**
 
@@ -649,7 +649,7 @@ Action Plan Development: ____________________________
 
 **Restoration Industry Advanced Training:**
 - **IICRC Master Restoration Technician:** Advanced restoration and quality management
-- **Quality Control Specialist:** Specialized training in restoration quality management
+- **Quality Control Specialist:** specialised training in restoration quality management
 - **Testing and Verification:** Advanced training in technical testing and verification
 - **Client Relationship Management:** Advanced training in client service and satisfaction
 
@@ -659,7 +659,7 @@ Action Plan Development: ____________________________
 - **Restoration Industry Association (RIA):** Industry leadership and standards development
 - **Quality Management Institute:** Quality profession advancement and networking
 - **Australian Institute of Quality:** Professional development and best practice sharing
-- **International Association of Certified Indoor Air Consultants:** Specialized expertise and standards
+- **International Association of Certified Indoor Air Consultants:** specialised expertise and standards
 
 **Community Contribution and Education:**
 - **Public Education:** Community awareness and damage prevention education

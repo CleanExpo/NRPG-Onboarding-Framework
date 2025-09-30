@@ -26,8 +26,8 @@ All assessments consider the unique Australian business environment, including:
 ### **Minimum Entry Criteria**
 Before formal assessment, candidates must demonstrate:
 
-1. **Operating Business:** Minimum 2 years successful restoration business operation
-2. **Financial Stability:** Demonstrated financial stability and growth trajectory
+1. **Operating Business:** Demonstrated restoration business operation
+2. **Financial Stability:** Active business operation with current insurance
 3. **Technical Competency:** Current IICRC or equivalent technical certifications
 4. **Legal Compliance:** Full regulatory compliance and current licensing
 5. **Professional Standing:** No significant industry complaints or legal issues
@@ -35,7 +35,6 @@ Before formal assessment, candidates must demonstrate:
 ### **Documentation Portfolio**
 Candidates must provide comprehensive documentation including:
 - **Business Registration:** ABN, business structure documentation
-- **Financial Records:** 3 years audited financial statements
 - **Insurance Certificates:** Current insurance coverage verification
 - **Technical Certifications:** Current and historical certification records
 - **Project Portfolio:** Significant project examples with client references
@@ -47,20 +46,20 @@ Candidates must provide comprehensive documentation including:
 
 ### **Stage 1: Professional Certification Assessment (Score: 0-30 points)**
 
-#### **1.1 Specialization-Based Certification Requirements (30 points)**
-**Inclusive Specialization Portfolio:**
+#### **1.1 specialisation-Based Certification Requirements (30 points)**
+**Inclusive specialisation Portfolio:**
 Recognition system supporting ALL restoration specialists from single-operator experts to comprehensive service providers.
 
-**NRPG Specialization Point Allocation:**
-- **Core Specialization Portfolio:** 12 points (40% - Your primary expertise area)
+**NRPG specialisation Point Allocation:**
+- **Core specialisation Portfolio:** 12 points (40% - Your primary expertise area)
 - **CARSI Mandatory Platform:** 7.5 points (25% - Comprehensive education beyond IICRC)
 - **Industry Association Diversity:** 6 points (20% - Multiple association opportunities)
 - **Government Cert IV & Continuing Education:** 4.5 points (15% - Progressive achievement)
 
 **Assessment Criteria:**
 
-**Core Specialization Portfolio (12 points):**
-- **Primary Specialization (8 points):** Full certification in chosen expertise area
+**Core specialisation Portfolio (12 points):**
+- **Primary specialisation (8 points):** Full certification in chosen expertise area
   - Water Damage (WRT+ASD): 8 points OR
   - Mould Remediation (AMRT): 8 points OR
   - Fire/Smoke Damage (FSR): 8 points OR
@@ -82,8 +81,8 @@ Recognition system supporting ALL restoration specialists from single-operator e
 - **Advanced Continuing Education:** 1.5 points (beyond minimum requirements)
 
 **Excellence Indicators:**
-- ✅ Master-level certification in primary specialization area
-- ✅ Multi-specialization capability (2+ certified restoration areas)
+- ✅ Master-level certification in primary specialisation area
+- ✅ Multi-specialisation capability (2+ certified restoration areas)
 - ✅ CARSI course completion and CEC delivery leadership
 - ✅ Multiple professional association involvement and leadership
 - ✅ Government Cert IV completion with advanced continuing education
@@ -92,7 +91,7 @@ Recognition system supporting ALL restoration specialists from single-operator e
 **Mandatory Background Check Requirements (Gateway - Not Points Based):**
 - **Criminal Background Check:** National police clearance for all principals
 - **Financial Background Check:** Business credit verification and insurance validation
-- **Professional Background Check:** License and certification verification
+- **Professional Background Check:** licence and certification verification
 - **Ongoing Compliance:** Annual review and continuous monitoring
 
 ### **Stage 2: Business Foundation Assessment (Score: 0-25 points)**
@@ -123,7 +122,7 @@ Recognition system supporting ALL restoration specialists from single-operator e
 **Evaluation Criteria:**
 - Professional financial management and reporting systems
 - Strategic financial planning and budgeting
-- Cash flow management and working capital optimization
+- Cash flow management and working capital optimisation
 - Investment in business development and growth
 - Financial controls and audit compliance
 
@@ -191,7 +190,7 @@ Recognition system supporting ALL restoration specialists from single-operator e
 - Regular performance review and analysis
 - Continuous improvement culture and practices
 - Benchmarking against industry standards
-- Data-driven decision making and optimization
+- Data-driven decision making and optimisation
 
 **Assessment Methods:**
 - Performance measurement system evaluation
@@ -205,7 +204,7 @@ Recognition system supporting ALL restoration specialists from single-operator e
 - ✅ Regular performance review and improvement planning
 - ✅ Strong continuous improvement culture and practices
 - ✅ Industry benchmarking and competitive analysis
-- ✅ Data-driven decision making and strategic optimization
+- ✅ Data-driven decision making and strategic optimisation
 
 ### **Stage 3: Leadership and Management Assessment (Score: 0-20 points)**
 
@@ -279,8 +278,8 @@ Recognition system supporting ALL restoration specialists from single-operator e
 **Evaluation Criteria:**
 - Change management capability and experience
 - Innovation adoption and implementation
-- Technology integration and optimization
-- Process improvement and optimization
+- Technology integration and optimisation
+- Process improvement and optimisation
 - Adaptability and resilience
 
 **Assessment Methods:**
@@ -293,8 +292,8 @@ Recognition system supporting ALL restoration specialists from single-operator e
 **Excellence Indicators:**
 - ✅ Successful change management experience and capability
 - ✅ Leadership in innovation adoption and implementation
-- ✅ Effective technology integration and optimization
-- ✅ Continuous process improvement and optimization
+- ✅ Effective technology integration and optimisation
+- ✅ Continuous process improvement and optimisation
 - ✅ Strong adaptability and business resilience
 
 #### **3.5 Professional Development and Learning (4 points)**
@@ -346,7 +345,7 @@ Recognition system supporting ALL restoration specialists from single-operator e
 #### **3.2 Service Delivery and Customer Experience (5 points)**
 **Evaluation Criteria:**
 - Service delivery excellence and consistency
-- Customer experience management and optimization
+- Customer experience management and optimisation
 - Response time and service level performance
 - Customer communication and relationship management
 - Customer retention and loyalty development
@@ -369,7 +368,7 @@ Recognition system supporting ALL restoration specialists from single-operator e
 **Evaluation Criteria:**
 - Project management capability and systems
 - Project delivery performance and success rates
-- Resource management and optimization
+- Resource management and optimisation
 - Timeline and budget management
 - Project quality and customer satisfaction
 
@@ -383,14 +382,14 @@ Recognition system supporting ALL restoration specialists from single-operator e
 **Excellence Indicators:**
 - ✅ Professional project management systems and processes
 - ✅ High project delivery success rates and performance
-- ✅ Effective resource management and optimization
+- ✅ Effective resource management and optimisation
 - ✅ Consistent timeline and budget achievement
 - ✅ Outstanding project quality and customer satisfaction
 
 #### **3.4 Technology and Innovation Integration (5 points)**
 **Evaluation Criteria:**
 - Technology adoption and integration
-- Innovation implementation and optimization
+- Innovation implementation and optimisation
 - Digital transformation and modernization
 - Data management and analytics capability
 - Technology-enabled efficiency and quality improvement
@@ -407,27 +406,27 @@ Recognition system supporting ALL restoration specialists from single-operator e
 - ✅ Leadership in innovation implementation
 - ✅ Comprehensive digital transformation and modernization
 - ✅ Professional data management and analytics capability
-- ✅ Significant technology-enabled improvement and optimization
+- ✅ Significant technology-enabled improvement and optimisation
 
 #### **3.5 Business Process and Efficiency (5 points)**
 **Evaluation Criteria:**
-- Business process optimization and efficiency
+- Business process optimisation and efficiency
 - Productivity measurement and improvement
-- Cost management and optimization
+- Cost management and optimisation
 - Resource utilization and effectiveness
 - Operational scalability and flexibility
 
 **Assessment Methods:**
-- Business process evaluation and optimization assessment
+- Business process evaluation and optimisation assessment
 - Productivity analysis and improvement review
-- Cost management and optimization evaluation
+- Cost management and optimisation evaluation
 - Resource utilization assessment
 - Scalability and flexibility review
 
 **Excellence Indicators:**
 - ✅ Highly optimized business processes and efficiency
 - ✅ Outstanding productivity and performance improvement
-- ✅ Effective cost management and optimization
+- ✅ Effective cost management and optimisation
 - ✅ Excellent resource utilization and effectiveness
 - ✅ Strong operational scalability and business flexibility
 
@@ -560,18 +559,18 @@ Recognition system supporting ALL restoration specialists from single-operator e
 #### **NRPG Certified Specialist (60-69 points)**
 - **Status:** Recognized specialist eligible for platform participation
 - **Target:** Single-specialty experts and emerging restoration professionals
-- **Focus:** Core specialization excellence and business foundation development
+- **Focus:** Core specialisation excellence and business foundation development
 - **Timeline:** 12-18 months development pathway
-- **Support:** Specialization-specific coaching and business development
+- **Support:** specialisation-specific coaching and business development
 - **Requirements:** Strong certification in ONE restoration area + business standards
-- **Certification Minimum:** 18/30 points (core specialization + CARSI membership + association)
+- **Certification Minimum:** 18/30 points (core specialisation + CARSI membership + association)
 
 #### **NRPG Certified Professional (70-84 points)**
 - **Status:** Multi-competency professional with platform leadership opportunities
 - **Target:** Multi-competency professionals and growing restoration businesses
 - **Focus:** Expanded capability development and industry contribution
 - **Timeline:** 6-12 months development pathway
-- **Support:** Leadership coaching and multi-specialization development
+- **Support:** Leadership coaching and multi-specialisation development
 - **Requirements:** Certified in 2-3 restoration areas + industry involvement
 - **Certification Minimum:** 22/30 points (core + additional specializations + enhanced CARSI/association participation)
 
@@ -608,7 +607,7 @@ Recognition system supporting ALL restoration specialists from single-operator e
 **Intensive Business Development Program:**
 - **Strategic Planning:** Business strategy development and implementation
 - **Financial Management:** Financial planning and management improvement
-- **Operational Excellence:** Process improvement and efficiency optimization
+- **Operational Excellence:** Process improvement and efficiency optimisation
 - **Leadership Development:** Leadership skills and capability development
 - **Industry Integration:** Industry involvement and relationship development
 

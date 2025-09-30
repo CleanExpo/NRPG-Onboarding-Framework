@@ -170,8 +170,8 @@ Participants develop comprehensive business management competency with restorati
 
 1. **Restoration Business Operations and Management:**
    - Project management and coordination with quality control and client satisfaction focus
-   - Team leadership and professional development with skill building and performance optimization
-   - Resource management and cost control with efficiency and profitability optimization
+   - Team leadership and professional development with skill building and performance optimisation
+   - Resource management and cost control with efficiency and profitability optimisation
    - Quality assurance and professional standards with client protection and business reputation
    - Safety management and regulatory compliance with risk mitigation and professional protection
 
@@ -180,11 +180,11 @@ Participants develop comprehensive business management competency with restorati
    - Pricing strategy and value delivery with fair pricing and competitive advantage
    - Insurance and risk management with professional liability and business protection
    - Investment and growth planning with strategic development and market expansion
-   - Tax management and regulatory compliance with legal protection and financial optimization
+   - Tax management and regulatory compliance with legal protection and financial optimisation
 
 3. **Marketing and Client Development:**
    - Professional marketing and brand development with reputation and credibility building
-   - Client relationship management and satisfaction optimization with loyalty and referral generation
+   - Client relationship management and satisfaction optimisation with loyalty and referral generation
    - Digital marketing and technology integration with efficiency and market reach expansion
    - Professional networking and referral development with relationship building and business growth
    - Community involvement and professional responsibility with reputation and service contribution
@@ -257,7 +257,7 @@ Participants develop innovation and industry leadership capability with professi
    - Sustainable practice development and environmental responsibility with innovation and community protection
    - Quality improvement and efficiency enhancement with professional excellence and industry advancement
    - Safety innovation and risk reduction with professional protection and industry improvement
-   - Client service enhancement and satisfaction optimization with professional excellence and industry leadership
+   - Client service enhancement and satisfaction optimisation with professional excellence and industry leadership
 
 2. **Professional Development and Mentoring Leadership:**
    - Emerging professional mentoring and development support with industry contribution and advancement
@@ -522,7 +522,7 @@ Participants demonstrate quality leadership capability with professional excelle
 
 1. **Quality Management and Professional Excellence:**
    - Quality control system implementation and professional standards with excellence and client protection
-   - Professional development and team leadership with competency building and performance optimization
+   - Professional development and team leadership with competency building and performance optimisation
    - Client satisfaction and relationship management with excellence and loyalty development
    - Professional communication and industry representation with reputation and advancement
    - Continuous improvement and innovation with professional excellence and industry leadership

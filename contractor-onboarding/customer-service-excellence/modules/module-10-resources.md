@@ -72,7 +72,7 @@ Time Management Leadership:
 ☐ Advanced efficiency creating customer relationship time ___/10
 ☐ Priority management with customer service focus ___/10
 ☐ Professional availability and responsive service ___/10
-☐ Team coordination and resource optimization ___/10
+☐ Team coordination and resource optimisation ___/10
 ☐ Time management training and professional development ___/10
 Subtotal: ___/50
 
@@ -488,7 +488,7 @@ Community Contribution: _________________________________
 
 BUSINESS MODEL INTEGRATION
 
-Revenue Stream Optimization:
+Revenue Stream optimisation:
 Service Delivery Excellence: _________________________________
 Professional Consulting: _________________________________
 Training and Development: _________________________________

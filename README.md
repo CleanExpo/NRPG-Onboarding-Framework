@@ -3,7 +3,7 @@
 
 **Vision:** Comprehensive contractor onboarding framework supporting ALL restoration specialists through the 3-part NRPG ecosystem (Website + NRPG + CRM).
 
-**Mission:** Transform restoration specialists into NRPG certified professionals through systematic business development, specialization-friendly certification, and industry leadership preparation.
+**Mission:** Transform restoration specialists into NRPG certified professionals through systematic business development, specialisation-friendly certification, and industry leadership preparation.
 
 ---
 
@@ -12,16 +12,16 @@
 ### **NRPG Framework Components**
 
 #### **🏗️ Business Ownership Framework**
-Comprehensive business partnership development model inspired by The Core Group, adapted for Australian restoration industry:
+Comprehensive business partnership development model developed for Australian restoration industry:
 - **Australian Business Partnership Model** - SHALL/SHOULD/RECOMMENDED requirements structure
 - **Business Development Assessment** - 125-point comprehensive assessment system
 - **Excellence Standards Framework** - Tiered excellence with continuing education requirements
 - **Professional Certification Framework** - 100-point mandatory certification system
 - **Business Ownership Development Pathway** - 4-level systematic development
 
-#### **🎯 NRPG Specialization Framework**
-Inclusive, specialization-friendly system supporting single operators to large businesses:
-- **NRPG Specialization Framework** - Complete inclusive certification system
+#### **🎯 NRPG specialisation Framework**
+Inclusive, specialisation-friendly system supporting single operators to large businesses:
+- **NRPG specialisation Framework** - Complete inclusive certification system
 - **Ecosystem Integration Summary** - 3-part system integration guide
 - **Professional Commitment Framework** - Professional standards and signed agreement
 - **Onboarding Workflow** - 30-day comprehensive professional integration
@@ -36,15 +36,16 @@ Complete 22-module training program with 5 components each:
 ---
 
 ## Framework Highlights
+### **Clean Claims Platform Partnership**NRPG partners with Clean Claims (https://www.cleanclaims.com/) to provide:- Professional field documentation and reporting system- Real-time photo documentation and assessment tools- Insurance integration and transparency- Streamlined workflow reducing administrative burden- Australian standards compliance automation
 
-### **🎯 Specialization-Friendly Approach**
+### **🎯 specialisation-Friendly Approach**
 - **Single Operators Welcome** - Mould-only, fire-only, water-only specialists supported
 - **Growth Pathways** - Clear progression from specialist to comprehensive provider
 - **No Exclusion** - Everyone has a path to success and platform participation
 - **Job-Specific Certification** - No work assignment without appropriate certification
 
 ### **📊 100-Point Certification System**
-- **Specialization Portfolio (40 points)** - Core specialty + additional areas
+- **specialisation Portfolio (40 points)** - Core specialty + additional areas
 - **CARSI Mandatory Platform (25 points)** - Comprehensive education beyond IICRC
 - **Industry Association Diversity (20 points)** - Multiple association opportunities
 - **Government Cert IV & Continuing Ed (15 points)** - Progressive achievement
@@ -124,7 +125,7 @@ contractor-onboarding/
 
 ### **Inclusive Excellence**
 - **ALL restoration specialists welcome** - from single operators to large businesses
-- **Specialization respect** - full recognition for deep expertise in chosen areas
+- **specialisation respect** - full recognition for deep expertise in chosen areas
 - **Growth support** - clear pathways for expansion without forced requirements
 - **Quality assurance** - no work without appropriate certification
 

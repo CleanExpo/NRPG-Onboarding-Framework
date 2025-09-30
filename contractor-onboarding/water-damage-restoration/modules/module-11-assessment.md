@@ -78,7 +78,7 @@ A heritage timber-framed house requires comprehensive moisture testing before co
 - Material-specific moisture testing protocols and accuracy (4 points)
 - Dry standard methodology and benchmark understanding (3 points)
 - Professional documentation standards and requirements (2 points)
-- Heritage sensitivity and specialized considerations (1 point)
+- Heritage sensitivity and specialised considerations (1 point)
 
 ### Question 5: Air Quality Testing and Environmental Verification (8 points)
 Following mould remediation in a childcare centre, comprehensive air quality testing is required before reopening.
@@ -411,7 +411,7 @@ A. Inspection checklist (5 points):
 - Visual quality assessment (appearance, workmanship, cleanliness)
 - System functionality testing (electrical, plumbing, HVAC)
 - Safety compliance verification (electrical safety, structural integrity)
-- Documentation completion and organization
+- Documentation completion and organisation
 
 B. Verification procedures (3 points):
 - Systematic inspection using standardized checklists
@@ -538,9 +538,9 @@ A. Industry leadership (2 points):
 - Community education and public awareness initiatives
 
 B. Professional development (2 points):
-- Advanced IICRC certification and specialization
+- Advanced IICRC certification and specialisation
 - Management and business development training
-- Technical specialization and expertise development
+- Technical specialisation and expertise development
 - Industry recognition and professional achievement
 
 **Question 15 (3 points):**

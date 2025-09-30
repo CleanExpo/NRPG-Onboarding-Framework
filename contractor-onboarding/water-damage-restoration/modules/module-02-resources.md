@@ -100,7 +100,7 @@ Time Factors:
 └─ Category 3 Water
    ├─ Immediate hazmat protocols
    ├─ Professional consultation required
-   └─ Specialized disposal procedures
+   └─ specialised disposal procedures
 ```
 
 ---
@@ -323,7 +323,7 @@ Technician: ________________ Signature: _________
 - **Brick Veneer:** Timber frame with single brick exterior wall
 - **Double Brick:** Solid masonry construction with cavity
 - **Concrete Block:** Besser block construction with render finish
-- **Heritage Sandstone:** Early construction requiring specialized assessment
+- **Heritage Sandstone:** Early construction requiring specialised assessment
 
 **Moisture Assessment Considerations:**
 - Seasonal moisture variation affecting baselines
@@ -641,7 +641,7 @@ Temperature Patterns:
 - Air leaks create temperature gradients
 - Moisture patterns show flow paths
 
-Color Scale Analysis:
+colour Scale Analysis:
 - Cooler areas (blue/purple) = potential moisture
 - Warmer areas (red/yellow) = dry or heated
 - Gradient patterns = moisture migration
@@ -851,7 +851,7 @@ TAFE and Vocational Education:
 - Certificate III Building and Construction
 - Diploma of Building and Construction
 - Advanced Diploma Project Management
-- Specialized Trade Qualifications
+- specialised Trade Qualifications
 
 University Programs:
 - Bachelor of Construction Management

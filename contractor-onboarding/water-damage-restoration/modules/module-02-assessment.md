@@ -353,7 +353,7 @@ Water penetrates outer brick, flows down cavity, may enter inner wall through po
 
 b) **Assessment Challenges (2 points):**
 1. **High thermal mass** making thermal imaging less effective for moisture detection
-2. **Concealed cavity moisture** requiring specialized detection techniques or small access holes
+2. **Concealed cavity moisture** requiring specialised detection techniques or small access holes
 
 **Question 11: HVAC System Integration**
 
@@ -367,7 +367,7 @@ Condensation accumulation in insulated ducts creating secondary moisture sources
 
 **Two Structural Considerations (2 points):**
 1. **Load-bearing capacity assessment** of wet timber framing requiring structural engineer evaluation
-2. **Foundation moisture penetration** potentially affecting structural integrity requiring specialized assessment
+2. **Foundation moisture penetration** potentially affecting structural integrity requiring specialised assessment
 
 ---
 

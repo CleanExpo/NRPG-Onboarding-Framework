@@ -194,7 +194,7 @@ I certify that this assessment has been conducted according to
 industry standards and Australian regulations.
 
 Assessor Signature: __________________________________
-License/Certification: ______________________________
+licence/Certification: ______________________________
 Date: _____________________________________________
 ```
 
@@ -363,7 +363,7 @@ Lessons Learned: _________________________________
 
 ### Exercise 2B: Australian Material-Specific Techniques (60 minutes)
 
-**Objective:** Apply specialized cleaning techniques for common Australian building materials.
+**Objective:** Apply specialised cleaning techniques for common Australian building materials.
 
 **Task 1: Hardwood Species Restoration (20 minutes)**
 
@@ -428,7 +428,7 @@ Restoration Timeline Variations: ___________________
 **Masonry Cleaning Protocol:**
 
 **Historical Brick Treatment:**
-1. **Gentle Approach:** Recognize historical brick sensitivity
+1. **Gentle Approach:** recognise historical brick sensitivity
 2. **Test Cleaning:** Small area trials with various cleaning methods
 3. **Pressure Management:** Use only low-pressure water applications
 4. **Mortar Protection:** Protect lime mortar during cleaning process
@@ -489,7 +489,7 @@ Restoration Timeline Variations: ___________________
 
 **Task 1: Sanitization Protocol Development (20 minutes)**
 
-**Scenario:** Brisbane childcare center following Category 2 water damage.
+**Scenario:** Brisbane childcare centre following Category 2 water damage.
 
 **Special Requirements Analysis:**
 - Child safety considerations for product selection
@@ -499,7 +499,7 @@ Restoration Timeline Variations: ___________________
 
 **Protocol Development Worksheet:**
 ```
-Childcare Center Sanitization Protocol
+Childcare centre Sanitization Protocol
 
 Facility Assessment:
 Areas Affected: ____________________________________
@@ -824,7 +824,7 @@ Phase 5 - Quality Verification and Documentation: ___
 Resource Requirements:
 Personnel: ____________________________________
 Equipment: ____________________________________
-Specialized Services: __________________________
+specialised Services: __________________________
 Timeline: ____________________________________
 
 Risk Management:
@@ -979,7 +979,7 @@ These practical exercises directly prepare participants for:
 
 Following successful completion of these exercises, participants should be prepared to:
 - **Apply skills confidently** in supervised and independent restoration projects
-- **Pursue advanced training** in specialized restoration techniques and applications
+- **Pursue advanced training** in specialised restoration techniques and applications
 - **Seek professional certification** through industry organizations
 - **Contribute effectively** to restoration teams and project management
 

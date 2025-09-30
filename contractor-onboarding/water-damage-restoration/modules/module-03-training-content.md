@@ -21,7 +21,7 @@ By the completion of this module, participants will be able to:
 2. **Implement Continuous Monitoring Systems**
    - Design and install monitoring systems for restoration projects
    - Program data logging equipment for automated collection
-   - Analyze historical moisture data and trend patterns
+   - analyse historical moisture data and trend patterns
    - Optimize monitoring frequency and measurement strategies
 
 3. **Apply Psychrometric Instrumentation**
@@ -30,7 +30,7 @@ By the completion of this module, participants will be able to:
    - Design environmental control strategies based on measurements
    - Integrate atmospheric data with material moisture analysis
 
-4. **Operate Specialized Detection Technologies**
+4. **Operate specialised Detection Technologies**
    - Use thermal imaging systems for advanced moisture mapping
    - Apply ground-penetrating radar for sub-surface analysis
    - Operate borescope systems for concealed space investigation
@@ -66,7 +66,7 @@ Modern professional moisture meters provide capabilities far beyond basic measur
 - **Bluetooth Connectivity:** Direct data transfer to tablets and assessment software
 
 **Australian Application Considerations:**
-- **Tropical Climate Adaptation:** High humidity environments requiring specialized algorithms
+- **Tropical Climate Adaptation:** High humidity environments requiring specialised algorithms
 - **Heritage Building Materials:** Calibrations for traditional Australian construction materials
 - **Extreme Temperature Compensation:** Equipment accuracy in harsh Australian conditions
 - **Remote Area Reliability:** Battery life and durability for extended field use
@@ -94,7 +94,7 @@ Professional non-invasive systems utilize sophisticated electromagnetic principl
 - **Multi-Device Synchronization:** Team coordination across multiple measurement devices
 - **Report Generation Integration:** Direct data transfer to professional reporting software
 
-### 1.2 Specialized Detection Equipment
+### 1.2 specialised Detection Equipment
 
 #### Thermal Imaging Systems for Moisture Detection
 
@@ -153,7 +153,7 @@ Modern restoration assessment requires integration of multiple detection technol
 - **Primary Detection:** Pin-type meters for accurate moisture content measurement
 - **Secondary Validation:** Non-invasive scanning for pattern verification
 - **Tertiary Analysis:** Thermal imaging for hidden moisture identification
-- **Specialized Investigation:** GPR or borescope for concealed space analysis
+- **specialised Investigation:** GPR or borescope for concealed space analysis
 
 **Data Integration and Analysis:**
 - **Cross-Technology Validation:** Confirming findings across multiple measurement methods
@@ -241,7 +241,7 @@ Effective restoration requires continuous monitoring of environmental conditions
 - **Dew Point Calculation:** Continuous dew point monitoring preventing condensation
 - **Vapor Pressure Analysis:** Scientific basis for drying potential assessment
 - **Equilibrium Moisture Content Tracking:** Target moisture levels for various materials
-- **Drying Rate Optimization:** Environmental adjustment for maximum drying efficiency
+- **Drying Rate optimisation:** Environmental adjustment for maximum drying efficiency
 
 #### HVAC System Integration
 
@@ -251,13 +251,13 @@ Professional restoration monitoring integrates with building HVAC systems for op
 **System Monitoring and Control:**
 - **HVAC Performance Tracking:** System efficiency and effectiveness measurement
 - **Indoor Air Quality Monitoring:** Humidity, temperature, and contaminant tracking
-- **Energy Efficiency Optimization:** Balancing drying effectiveness with energy consumption
+- **Energy Efficiency optimisation:** Balancing drying effectiveness with energy consumption
 - **System Coordination Protocols:** Integration with building automation systems
 
 **Australian HVAC Considerations:**
 - **Tropical Climate Challenges:** High humidity environments requiring aggressive dehumidification
 - **Evaporative Cooling Integration:** Coordination with evaporative cooling systems common in Australia
-- **Split System Optimization:** Individual room control in residential applications
+- **Split System optimisation:** Individual room control in residential applications
 - **Commercial System Coordination:** Large building environmental control integration
 
 ### 2.3 Data Analysis and Trend Monitoring
@@ -322,7 +322,7 @@ Professional restoration requires accurate environmental measurement using sophi
 #### Psychrometric Calculation Systems
 
 **Advanced Psychrometric Analysis:**
-Professional restoration utilizes sophisticated psychrometric calculations for scientific drying optimization:
+Professional restoration utilizes sophisticated psychrometric calculations for scientific drying optimisation:
 
 **Complex Psychrometric Relationships:**
 - **Vapor Pressure Differentials:** Driving force calculations for moisture migration
@@ -333,7 +333,7 @@ Professional restoration utilizes sophisticated psychrometric calculations for s
 **Professional Calculation Software:**
 - **Real-Time Psychrometric Analysis:** Instant calculation and display of complex relationships
 - **Historical Trend Analysis:** Long-term psychrometric pattern identification and analysis
-- **Optimization Algorithms:** Computer-assisted environmental control optimization
+- **optimisation Algorithms:** Computer-assisted environmental control optimisation
 - **Report Generation Integration:** Automatic incorporation of psychrometric data into professional reports
 
 ### 3.2 Material-Environment Interaction Analysis
@@ -353,21 +353,21 @@ Professional restoration requires understanding complex interactions between mat
 - **Double Brick Construction:** Complex moisture migration and drying patterns
 - **Concrete Slab Dynamics:** Slow moisture release requiring extended monitoring
 - **Rendered Surface Behavior:** Surface treatments affecting moisture migration
-- **Heritage Material Considerations:** Traditional materials requiring specialized analysis
+- **Heritage Material Considerations:** Traditional materials requiring specialised analysis
 
-#### Environmental Optimization Strategies
+#### Environmental optimisation Strategies
 
-**Scientific Drying Optimization:**
+**Scientific Drying optimisation:**
 Advanced psychrometric analysis enables precise environmental control for optimal restoration outcomes:
 
-**Drying Rate Optimization:**
+**Drying Rate optimisation:**
 - **Temperature and Humidity Balance:** Optimal conditions for maximum drying without damage
 - **Air Movement Coordination:** Airflow patterns enhancing evaporation and moisture removal
 - **Dehumidification Integration:** Mechanical moisture removal coordination with natural drying
-- **Energy Efficiency Optimization:** Balancing drying effectiveness with operational costs
+- **Energy Efficiency optimisation:** Balancing drying effectiveness with operational costs
 
 **Australian Climate Integration:**
-- **Seasonal Optimization:** Adaptation to Australia's seasonal climate variations
+- **Seasonal optimisation:** Adaptation to Australia's seasonal climate variations
 - **Regional Climate Considerations:** Customization for tropical, temperate, and arid climates
 - **Weather Pattern Integration:** Adjustment for rainfall, humidity, and temperature cycles
 - **Indoor-Outdoor Relationship:** Utilizing favorable external conditions when available
@@ -389,7 +389,7 @@ Large-scale restoration projects require sophisticated environmental monitoring 
 - **Multi-Point Correlation Analysis:** Relationship identification across multiple monitoring locations
 - **Environmental Mapping:** Three-dimensional visualization of atmospheric conditions
 - **Predictive Environmental Modeling:** Future condition prediction based on weather forecasts
-- **Optimization Algorithm Integration:** Computer-assisted environmental control strategies
+- **optimisation Algorithm Integration:** Computer-assisted environmental control strategies
 
 #### Professional Weather Station Integration
 
@@ -404,13 +404,13 @@ Professional restoration benefits from integration with local weather monitoring
 
 **Weather-Based Decision Making:**
 - **Natural Drying Opportunity Identification:** Optimal conditions for enhanced natural drying
-- **Equipment Adjustment Protocols:** Environmental condition-based equipment optimization
+- **Equipment Adjustment Protocols:** Environmental condition-based equipment optimisation
 - **Timeline Adjustment Strategies:** Weather-based project schedule modification
 - **Protection Protocol Activation:** Severe weather response and project protection
 
 ---
 
-## Module 4: Specialized Detection Technologies
+## Module 4: specialised Detection Technologies
 
 ### 4.1 Thermal Imaging Mastery
 
@@ -437,7 +437,7 @@ Thermal imaging technology provides sophisticated moisture detection capabilitie
 Professional thermal imaging requires systematic protocols ensuring accurate and reliable moisture detection:
 
 **Inspection Planning and Preparation:**
-- **Environmental Condition Optimization:** Timing inspections for maximum thermal contrast
+- **Environmental Condition optimisation:** Timing inspections for maximum thermal contrast
 - **Building Preparation:** HVAC system coordination and thermal equilibration
 - **Equipment Calibration:** Thermal camera accuracy verification and temperature reference
 - **Safety Protocol Implementation:** Electrical safety and access control measures
@@ -517,7 +517,7 @@ Modern restoration projects generate massive amounts of data requiring sophistic
 **Advanced Analysis Capabilities:**
 - **Predictive Analytics:** Future moisture and environmental condition prediction
 - **Pattern Recognition:** Computer-assisted identification of moisture and damage patterns
-- **Optimization Algorithms:** Data-driven restoration strategy optimization
+- **optimisation Algorithms:** Data-driven restoration strategy optimisation
 - **Quality Assurance Automation:** Automated compliance checking and validation
 
 ---
@@ -642,7 +642,7 @@ This module has established advanced competencies in moisture detection and moni
 
 1. **Equipment Mastery:** Advanced operation of sophisticated moisture detection equipment
 2. **Monitoring Excellence:** Design and implementation of continuous monitoring systems
-3. **Psychrometric Proficiency:** Scientific environmental analysis and optimization
+3. **Psychrometric Proficiency:** Scientific environmental analysis and optimisation
 4. **Technology Integration:** Multi-technology assessment and validation approaches
 5. **Quality Assurance:** Professional calibration and quality control systems
 
@@ -657,7 +657,7 @@ Upcoming modules will build on equipment and monitoring competencies:
 ### Professional Development Applications
 
 Advanced equipment competency supports career advancement:
-- **Technical Specialization:** Equipment expertise enabling specialized service delivery
+- **Technical specialisation:** Equipment expertise enabling specialised service delivery
 - **Quality Leadership:** Quality assurance capability building customer confidence
 - **Business Development:** Advanced technology capability providing competitive advantage
 - **Industry Recognition:** Professional competency supporting certification and advancement

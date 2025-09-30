@@ -118,7 +118,7 @@ Master professional communication techniques for building effective working rela
 - Professional presentation of technical information
 - Confidence without arrogance
 - Collaborative problem-solving approach
-- Documentation quality and organization
+- Documentation quality and organisation
 
 #### Scenario B: Scope of Work Negotiation (6 minutes)
 **Setting:** Adjuster questions necessity of certain repair items

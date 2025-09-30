@@ -195,7 +195,7 @@ Most commonly used in Australian water damage restoration due to effectiveness i
 Ideal for coastal areas, tropical zones, and most structural drying applications where ambient conditions exceed 50% RH and 16°C.
 
 **Desiccant Dehumidifiers:**
-Specialized equipment for challenging drying conditions common in specific Australian environments.
+specialised equipment for challenging drying conditions common in specific Australian environments.
 
 **Operating Principle:**
 - Air passes through desiccant wheel containing moisture-absorbing material
@@ -326,7 +326,7 @@ Before HVAC integration, professional assessment must verify:
 - **Energy Efficiency:** Coordinate HVAC operation with dehumidification equipment
 
 **Heating Mode Assistance (Winter Drying):**
-- **Temperature Optimization:** Maintain optimal drying temperatures (20-25°C)
+- **Temperature optimisation:** Maintain optimal drying temperatures (20-25°C)
 - **Evaporation Enhancement:** Warm air holds more moisture, improving evaporation
 - **Comfort Maintenance:** Ensure occupied spaces remain comfortable during drying
 - **Energy Coordination:** Balance heating costs with drying effectiveness
@@ -389,7 +389,7 @@ Effective containment creates controlled environment optimizing drying efficienc
 - **Applications:** Long-term projects, high-traffic areas
 - **Installation:** Reinforced mounting, professional sealing systems
 - **Advantages:** Durable, reusable, better seal integrity
-- **Limitations:** Higher cost, specialized installation requirements
+- **Limitations:** Higher cost, specialised installation requirements
 
 **Zippered Access Systems:**
 - **Purpose:** Maintain containment while allowing necessary access
@@ -518,7 +518,7 @@ Effective water damage restoration requires systematic monitoring to ensure dryi
 - **Non-Contact Measurement:** Safe measurement in electrical environments
 
 **Psychometric Calculations:**
-Understanding and calculating psychometric properties enables optimization of drying conditions.
+Understanding and calculating psychometric properties enables optimisation of drying conditions.
 
 **Critical Calculations:**
 
@@ -617,7 +617,7 @@ Documentation must meet Australian standards and regulatory requirements.
 ### Structural Drying Complications
 
 **Trapped Moisture Issues:**
-Professional restoration frequently encounters moisture trapped in building cavities requiring specialized approaches.
+Professional restoration frequently encounters moisture trapped in building cavities requiring specialised approaches.
 
 **Wall Cavity Moisture:**
 Common in Australian construction, particularly in:
@@ -636,7 +636,7 @@ Common in Australian construction, particularly in:
 - **Injection Drying:** Insert air delivery tubes into cavities
 - **Negative Air Extraction:** Create airflow through cavity spaces
 - **Flood Cuts:** Strategic removal of drywall for cavity access
-- **Specialized Equipment:** Cavity-specific drying equipment
+- **specialised Equipment:** Cavity-specific drying equipment
 
 **Concrete Moisture Issues:**
 Concrete presents unique drying challenges in Australian construction.
@@ -680,20 +680,20 @@ Northern Australian monsoon seasons present extreme drying challenges.
 - **Increased Damage Volume:** Higher frequency of water damage events
 
 **Monsoon Drying Protocols:**
-- **Specialized Equipment:** Desiccant dehumidifiers for extreme conditions
+- **specialised Equipment:** Desiccant dehumidifiers for extreme conditions
 - **Containment Priority:** Aggressive containment to control environment
 - **Preventive Treatment:** Antimicrobial applications due to extended drying
 - **Resource Planning:** Equipment and personnel availability during peak seasons
 
 ### Energy Efficiency and Cost Management
 
-**Operating Cost Optimization:**
+**Operating Cost optimisation:**
 Professional drying operations can involve substantial energy costs requiring strategic management.
 
 **Energy Consumption Factors:**
 - **Dehumidifier Operation:** Primary energy consumer in drying operations
 - **Air Movement Equipment:** Continuous operation required for effectiveness
-- **Heating Systems:** Additional energy for temperature optimization
+- **Heating Systems:** Additional energy for temperature optimisation
 - **Lighting and Monitoring:** Support systems for safe operation
 
 **Cost Reduction Strategies:**
@@ -702,9 +702,9 @@ Professional drying operations can involve substantial energy costs requiring st
 - **Energy Star Rated Equipment:** Select high-efficiency dehumidifiers
 - **Variable Speed Fans:** Air movers with adjustable speed controls
 - **Smart Controls:** Automatic operation based on environmental conditions
-- **Maintenance Optimization:** Regular maintenance for peak efficiency
+- **Maintenance optimisation:** Regular maintenance for peak efficiency
 
-**System Optimization:**
+**System optimisation:**
 - **Right-Sizing Equipment:** Avoid over-capacity and under-capacity issues
 - **Strategic Operation:** Operating equipment during off-peak electricity periods
 - **HVAC Integration:** Utilize existing building systems effectively
@@ -907,7 +907,7 @@ Category 3 flood damage to heritage homestead 100km west of Brisbane following s
 - **Material Preservation:** Original timber flooring requiring careful restoration
 - **Construction Methods:** Traditional joinery and construction techniques
 - **Regulatory Requirements:** Heritage listing considerations for restoration methods
-- **Specialized Techniques:** Traditional restoration methods required
+- **specialised Techniques:** Traditional restoration methods required
 
 **Remote Location Issues:**
 - **Power Supply:** Limited electrical capacity, generator backup required
@@ -916,7 +916,7 @@ Category 3 flood damage to heritage homestead 100km west of Brisbane following s
 - **Supply Chain:** Extended lead times for equipment and materials
 
 **Environmental Factors:**
-- **Contamination Level:** Category 3 water requiring specialized safety protocols
+- **Contamination Level:** Category 3 water requiring specialised safety protocols
 - **Climate Conditions:** High humidity rural environment
 - **Wildlife Considerations:** Snakes, spiders, and other hazards in rural setting
 - **Weather Exposure:** Open rural exposure to weather during restoration
@@ -935,7 +935,7 @@ Category 3 flood damage to heritage homestead 100km west of Brisbane following s
 - **Material Assessment:** Conservative approach to material salvage decisions
 - **Waste Management:** Contaminated material disposal protocols
 
-**Specialized Techniques:**
+**specialised Techniques:**
 
 **Heritage Timber Restoration:**
 - **Species Identification:** Australian Red Cedar and Ironbark flooring
@@ -954,7 +954,7 @@ Category 3 flood damage to heritage homestead 100km west of Brisbane following s
 **Week 1: Assessment and Setup**
 - **Heritage Assessment:** Specialist heritage consultant evaluation
 - **Contamination Testing:** Water and material contamination analysis
-- **Equipment Mobilization:** Transport specialized equipment to site
+- **Equipment Mobilization:** Transport specialised equipment to site
 - **Power System Setup:** Generator installation and electrical distribution
 
 **Week 2-3: Extraction and Treatment**
@@ -963,7 +963,7 @@ Category 3 flood damage to heritage homestead 100km west of Brisbane following s
 - **Material Assessment:** Item-by-item salvage decisions
 - **Drying Commencement:** Begin controlled drying process
 
-**Week 4-6: Specialized Drying**
+**Week 4-6: specialised Drying**
 - **Controlled Timber Drying:** Gradual moisture reduction preventing damage
 - **Cavity Drying:** Traditional wall cavity moisture removal
 - **Monitoring:** Manual daily monitoring and documentation
@@ -1109,4 +1109,4 @@ Students should now be prepared to demonstrate:
 - **Communication Skills:** Ability to explain technical concepts to customers and colleagues
 - **Quality Standards:** Commitment to professional standards and continuous improvement
 
-The next phase of learning will build upon these drying and dehumidification competencies, applying them to specialized restoration applications and advanced project management scenarios.
+The next phase of learning will build upon these drying and dehumidification competencies, applying them to specialised restoration applications and advanced project management scenarios.

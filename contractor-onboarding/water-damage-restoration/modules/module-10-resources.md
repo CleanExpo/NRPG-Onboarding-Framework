@@ -294,7 +294,7 @@ ESCALATION: Senior adjuster, insurance company
 ROLE: Contractor/Trades
 NAME: ______________________________________
 CONTACT: ___________________________________
-RESPONSIBILITY: Specialized work, quality standards
+RESPONSIBILITY: specialised work, quality standards
 COMMUNICATION: Daily coordination, progress updates
 ESCALATION: Project manager, client notification
 

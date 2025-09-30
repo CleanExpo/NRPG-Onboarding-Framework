@@ -11,7 +11,7 @@
 
 ## Assessment Overview
 
-This technical assessment evaluates equipment maintenance competencies including preventive maintenance, troubleshooting, performance optimization, safety compliance, and cost-effective fleet management. The assessment combines theoretical knowledge with practical troubleshooting scenarios relevant to Australian restoration operations.
+This technical assessment evaluates equipment maintenance competencies including preventive maintenance, troubleshooting, performance optimisation, safety compliance, and cost-effective fleet management. The assessment combines theoretical knowledge with practical troubleshooting scenarios relevant to Australian restoration operations.
 
 ---
 
@@ -28,7 +28,7 @@ You are managing a fleet of 20 pieces of restoration equipment for a busy Brisba
 
 **Marking Criteria:**
 - Understanding of maintenance types and applications (2 points)
-- Practical scheduling approach and resource optimization (2 points)
+- Practical scheduling approach and resource optimisation (2 points)
 - Relevant performance measurement and tracking (1 point)
 
 ### Question 2: Australian Operating Environment (5 points)
@@ -46,27 +46,27 @@ Your equipment operates in diverse Australian conditions from tropical Darwin to
 - Regulatory awareness and compliance understanding (1 point)
 
 ### Question 3: Documentation and Record Keeping (5 points)
-Effective maintenance requires systematic documentation for warranty, insurance, and operational optimization.
+Effective maintenance requires systematic documentation for warranty, insurance, and operational optimisation.
 
-**A.** Design a maintenance documentation system for compliance and optimization (3 points)
+**A.** Design a maintenance documentation system for compliance and optimisation (3 points)
 
 **B.** Explain cost tracking and return on investment analysis for maintenance (2 points)
 
 **Marking Criteria:**
 - Comprehensive documentation system design (3 points)
-- Cost analysis and business optimization understanding (2 points)
+- Cost analysis and business optimisation understanding (2 points)
 
 ### Question 4: Fleet Management Coordination (5 points)
 You need to coordinate maintenance across multiple projects while maintaining equipment availability.
 
-**A.** Describe equipment rotation and utilization optimization strategies (2 points)
+**A.** Describe equipment rotation and utilization optimisation strategies (2 points)
 
 **B.** Explain backup equipment planning and emergency response procedures (2 points)
 
 **C.** Outline staff training requirements for proper equipment care (1 point)
 
 **Marking Criteria:**
-- Practical fleet optimization strategies (2 points)
+- Practical fleet optimisation strategies (2 points)
 - Emergency planning and business continuity (2 points)
 - Training and competency development approach (1 point)
 
@@ -102,18 +102,18 @@ A high-use air mover shows signs of bearing wear and motor overheating.
 - Motor diagnostic techniques and thermal management (2 points)
 - Economic analysis and replacement planning (1 point)
 
-### Question 7: Performance Optimization (6 points)
+### Question 7: Performance optimisation (6 points)
 Your air movement equipment isn't achieving expected airflow performance despite appearing mechanically sound.
 
 **A.** Describe airflow testing and performance verification procedures (3 points)
 
-**B.** Identify factors affecting air movement performance and optimization strategies (2 points)
+**B.** Identify factors affecting air movement performance and optimisation strategies (2 points)
 
 **C.** Explain integration with dehumidification for optimal drying performance (1 point)
 
 **Marking Criteria:**
 - Performance testing and measurement techniques (3 points)
-- Performance factor analysis and optimization (2 points)
+- Performance factor analysis and optimisation (2 points)
 - System integration and coordination understanding (1 point)
 
 ---
@@ -129,13 +129,13 @@ A refrigerant dehumidifier has declining moisture removal capacity and increased
 
 **C.** Outline refrigerant level assessment and leak detection procedures (2 points)
 
-**D.** Describe control system calibration and performance optimization (1 point)
+**D.** Describe control system calibration and performance optimisation (1 point)
 
 **Marking Criteria:**
 - Comprehensive refrigeration system maintenance (4 points)
 - Proper cleaning and drainage procedures (3 points)
 - Refrigerant management and leak detection (2 points)
-- Control system and performance optimization (1 point)
+- Control system and performance optimisation (1 point)
 
 ### Question 9: Desiccant Dehumidifier Maintenance (5 points)
 A desiccant dehumidifier requires media replacement and heating system maintenance.
@@ -148,15 +148,15 @@ A desiccant dehumidifier requires media replacement and heating system maintenan
 - Desiccant media management and replacement (3 points)
 - Heating system maintenance and electrical safety (2 points)
 
-### Question 10: Environmental Optimization (5 points)
+### Question 10: Environmental optimisation (5 points)
 Your dehumidification equipment isn't achieving target humidity levels despite proper operation.
 
-**A.** Describe environmental condition assessment and optimization procedures (3 points)
+**A.** Describe environmental condition assessment and optimisation procedures (3 points)
 
 **B.** Explain integration with air circulation and energy cost management (2 points)
 
 **Marking Criteria:**
-- Environmental assessment and optimization techniques (3 points)
+- Environmental assessment and optimisation techniques (3 points)
 - System integration and cost management (2 points)
 
 ---
@@ -190,7 +190,7 @@ A truck-mount system shows declining water pressure and heating performance.
 **C.** Outline vehicle integration and power system verification (2 points)
 
 **Marking Criteria:**
-- Pump system maintenance and pressure optimization (3 points)
+- Pump system maintenance and pressure optimisation (3 points)
 - Heating system diagnosis and thermal management (2 points)
 - Vehicle integration and power system management (2 points)
 
@@ -240,7 +240,7 @@ Your environmental monitoring system has communication failures and data accurac
 
 ### Practical Scenario: Equipment Maintenance and Troubleshooting Workshop (Pass/Fail)
 
-**Scenario:** You are the equipment maintenance coordinator for a restoration company. Multiple pieces of equipment require diagnosis, maintenance, and optimization.
+**Scenario:** You are the equipment maintenance coordinator for a restoration company. Multiple pieces of equipment require diagnosis, maintenance, and optimisation.
 
 **Station 1: Air Mover Troubleshooting (Pass/Fail)**
 - **Equipment:** Centrifugal air mover with introduced performance problems
@@ -254,7 +254,7 @@ Your environmental monitoring system has communication failures and data accurac
 
 **Station 3: Extractor Service (Pass/Fail)**
 - **Equipment:** Portable extractor requiring vacuum system service
-- **Task:** Perform filter replacement, tank cleaning, and performance optimization
+- **Task:** Perform filter replacement, tank cleaning, and performance optimisation
 - **Assessment:** Service procedures, cleaning standards, and performance testing
 
 **Station 4: Monitoring Equipment Calibration (Pass/Fail)**
@@ -330,7 +330,7 @@ B. Cost tracking and ROI (2 points):
 **Question 4 (5 points):**
 A. Equipment rotation (2 points):
 - Systematic rotation ensuring even wear patterns
-- Utilization tracking and optimization scheduling
+- Utilization tracking and optimisation scheduling
 - Project coordination minimizing equipment conflicts
 
 B. Backup planning (2 points):
@@ -391,7 +391,7 @@ B. Performance factors (2 points):
 
 C. System integration (1 point):
 - Coordinated air movement and dehumidification
-- Environmental monitoring and optimization
+- Environmental monitoring and optimisation
 - Energy efficiency and performance balance
 
 ### Section C: Dehumidification Equipment Maintenance (20 points)
@@ -426,17 +426,17 @@ A. Desiccant media management (3 points):
 B. Heating system maintenance (2 points):
 - Heating element inspection and electrical testing
 - Temperature control calibration and safety verification
-- Energy efficiency optimization and cost management
+- Energy efficiency optimisation and cost management
 
 **Question 10 (5 points):**
-A. Environmental optimization (3 points):
+A. Environmental optimisation (3 points):
 - Operating temperature and humidity assessment
-- Air circulation and ventilation optimization
+- Air circulation and ventilation optimisation
 - Equipment sizing and capacity verification
 
 B. System integration (2 points):
 - Air movement and dehumidification coordination
-- Energy cost analysis and operational optimization
+- Energy cost analysis and operational optimisation
 - Performance monitoring and adjustment procedures
 
 ### Section D: Extraction Equipment Maintenance (15 points)
@@ -466,7 +466,7 @@ D. Prevention measures (1 point):
 A. Pump maintenance (3 points):
 - High-pressure pump performance and pressure testing
 - Seal and valve inspection and replacement
-- Pump priming and system optimization
+- Pump priming and system optimisation
 
 B. Heating system repair (2 points):
 - Heat exchanger inspection and cleaning procedures

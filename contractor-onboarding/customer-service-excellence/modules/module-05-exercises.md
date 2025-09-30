@@ -319,7 +319,7 @@ Practice systematic approach to rebuilding customer relationships after conflict
 #### Phase 1: Damage Assessment and Acknowledgment (4 minutes)
 **Scenario:** Conflict resolution reached but relationship damaged
 **Process Practice:**
-- **Acknowledge Impact:** Recognize how conflict affected customer experience
+- **Acknowledge Impact:** recognise how conflict affected customer experience
 - **Accept Appropriate Responsibility:** Own professional mistakes without over-apologizing
 - **Demonstrate Understanding:** Show learning from conflict experience
 

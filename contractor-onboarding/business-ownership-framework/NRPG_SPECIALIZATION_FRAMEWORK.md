@@ -1,7 +1,7 @@
-# NRPG Specialization Framework
+# NRPG specialisation Framework
 ## National Restoration Professionals Group - Inclusive Certification System
 
-**Vision:** Create an inclusive platform for ALL specialized restoration professionals, from single-operator specialists to multi-service restoration businesses.
+**Vision:** Create an inclusive platform for ALL specialised restoration professionals, from single-operator specialists to multi-service restoration businesses.
 
 **Mission:** Build industry authority through the 3-part ecosystem while respecting and supporting every restoration specialist's unique expertise.
 
@@ -34,13 +34,13 @@
 
 ## Target Audience & Inclusivity Framework
 
-### **Specialized Restoration Professionals (ALL Welcome)**
+### **specialised Restoration Professionals (ALL Welcome)**
 - **Single Operators:** Individual specialists with deep expertise in specific areas
-- **Small Teams:** 2-5 person specialized restoration teams
+- **Small Teams:** 2-5 person specialised restoration teams
 - **Medium Businesses:** 5-20 person multi-service restoration companies
 - **Larger Restoration Firms:** 20+ person comprehensive restoration businesses
 
-### **Specialization Areas Supported**
+### **specialisation Areas Supported**
 - **Water Damage Restoration:** Flood, burst pipes, storm damage, structural drying
 - **Mould Remediation:** All mould species, containment, air quality restoration
 - **Fire and Smoke Damage:** Fire restoration, smoke damage, odor removal
@@ -50,7 +50,7 @@
 
 ### **What We DON'T Target**
 - **Builder/Restoration Companies:** General construction firms causing industry problems
-- **Non-Specialized Firms:** Companies without restoration expertise or certification
+- **Non-specialised Firms:** Companies without restoration expertise or certification
 - **Unlicensed Operators:** Businesses not meeting professional standards
 
 ---
@@ -91,9 +91,9 @@
 
 ## Redesigned Points System (100 Points Total)
 
-### **Category 1: Specialization Portfolio (40 Points Maximum)**
+### **Category 1: specialisation Portfolio (40 Points Maximum)**
 
-#### **Core Specialization (20 points)**
+#### **Core specialisation (20 points)**
 **Your Primary Area of Expertise:**
 - **Water Damage Restoration (WRT + ASD):** 20 points
 - **Mould Remediation (AMRT):** 20 points
@@ -105,7 +105,7 @@
 #### **Additional Specializations (5 points each, maximum 20 points)**
 **Expansion Opportunities:**
 - **Secondary IICRC Certification:** 5 points per additional area
-- **Advanced Specialization:** 5 points per advanced certification
+- **Advanced specialisation:** 5 points per advanced certification
 - **Emerging Technologies:** 5 points for innovative technique certification
 - **International Certifications:** 5 points for recognized international credentials
 
@@ -154,7 +154,7 @@
 - **Leadership Roles:** Bonus 3 points for board or executive positions
 
 **Why Multiple Associations Matter:**
-- **Diverse Expertise:** Different perspectives and specialization knowledge
+- **Diverse Expertise:** Different perspectives and specialisation knowledge
 - **Network Expansion:** Broader professional relationships and opportunities
 - **Market Access:** Access to different market segments and opportunities
 - **Knowledge Sharing:** Cross-pollination of ideas and best practices
@@ -193,7 +193,7 @@
 - **Bond/Guarantee:** Financial security for client protection
 
 #### **Professional Background Check**
-- **License Verification:** Current trade licenses and professional registrations
+- **licence Verification:** Current trade licenses and professional registrations
 - **Reference Verification:** Professional and client references verification
 - **Certification Verification:** IICRC and professional certification validation
 - **Compliance History:** Regulatory compliance and any industry violations
@@ -201,7 +201,7 @@
 #### **Ongoing Compliance Monitoring**
 - **Annual Review:** Annual background check update and verification
 - **Insurance Monitoring:** Continuous insurance coverage verification
-- **License Renewal:** Tracking and verification of license renewals
+- **licence Renewal:** Tracking and verification of licence renewals
 - **Professional Standards:** Ongoing professional conduct and standards compliance
 
 ---
@@ -233,7 +233,7 @@
 
 ---
 
-## Benefits of Specialization-Friendly Approach
+## Benefits of specialisation-Friendly Approach
 
 ### **For Specialists**
 - **Recognition:** Full recognition for deep expertise in chosen area
@@ -252,7 +252,7 @@
 ### **For the Industry**
 - **Quality Assurance:** Work performed by appropriately certified professionals
 - **Professional Standards:** Elevated industry standards and reputation
-- **Knowledge Sharing:** Cross-specialization learning and development
+- **Knowledge Sharing:** Cross-specialisation learning and development
 - **Innovation Adoption:** Faster adoption of best practices across specializations
 - **Client Protection:** Ensured competency for all restoration work
 

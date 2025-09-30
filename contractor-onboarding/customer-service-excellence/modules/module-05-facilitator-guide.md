@@ -344,7 +344,7 @@ Practice documenting conflict interactions using professional templates while ma
 - [ ] Address any ongoing questions about professional boundaries
 
 ### Month 1 Review
-- [ ] Analyze customer satisfaction improvements related to conflict resolution
+- [ ] analyse customer satisfaction improvements related to conflict resolution
 - [ ] Review conflict documentation quality and consistency
 - [ ] Plan refresher training based on real-world application challenges
 - [ ] Evaluate training effectiveness and participant confidence

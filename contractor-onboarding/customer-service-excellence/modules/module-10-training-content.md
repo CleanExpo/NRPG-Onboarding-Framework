@@ -10,7 +10,7 @@ By the end of this module, participants will be able to:
 - Demonstrate advanced customer service leadership and mentoring capabilities
 - Apply sophisticated customer relationship management strategies for long-term business success
 - Implement continuous improvement systems for career-long customer service excellence
-- Lead customer service excellence initiatives within their organization and industry
+- Lead customer service excellence initiatives within their organisation and industry
 
 ---
 
@@ -88,7 +88,7 @@ Customer service excellence as foundation for business growth and professional s
 - **Customer Loyalty Development:** Systems for transforming satisfied customers into business advocates and referral sources
 - **Professional Reputation Building:** Strategic development of industry recognition and professional credibility
 - **Market Positioning:** Customer service excellence as competitive differentiation and business positioning
-- **Team Development:** Leadership in developing customer service excellence throughout the organization
+- **Team Development:** Leadership in developing customer service excellence throughout the organisation
 - **Community Contribution:** Professional service and industry leadership that builds business reputation and personal fulfillment
 
 **Customer Service Application:**
@@ -163,7 +163,7 @@ Advanced customer advocacy goes beyond individual problem resolution to systemic
 **Individual Customer Advocacy:**
 - **Comprehensive Customer Protection:** Ensuring customer interests are protected throughout all professional interactions
 - **Professional Expertise Application:** Using advanced professional knowledge to maximize customer benefits and outcomes
-- **Insurance Optimization:** Sophisticated understanding of insurance processes to achieve optimal customer claim results
+- **Insurance optimisation:** Sophisticated understanding of insurance processes to achieve optimal customer claim results
 - **Quality Assurance Leadership:** Personal responsibility for customer satisfaction and professional service delivery
 - **Long-term Customer Success:** Professional commitment to customer wellbeing beyond individual project completion
 
@@ -258,7 +258,7 @@ Master practitioners implement systematic approaches to ongoing customer service
 - **Comprehensive Feedback Collection:** Systematic gathering of customer feedback across all service touchpoints
 - **Professional Analysis and Response:** Sophisticated analysis of customer feedback for service improvement opportunities
 - **Customer Involvement in Innovation:** Engaging customers in developing better service delivery methods and approaches
-- **Feedback Loop Optimization:** Continuous improvement of feedback collection and response systems
+- **Feedback Loop optimisation:** Continuous improvement of feedback collection and response systems
 - **Customer Satisfaction Trend Analysis:** Long-term tracking of customer satisfaction for professional development planning
 
 **Professional Performance Analysis:**
@@ -398,7 +398,7 @@ Goals:
 
 Milestones:
 • Industry recognition for customer service excellence
-• Professional leadership role in organization or industry
+• Professional leadership role in organisation or industry
 • Successful business growth attributed to customer service excellence
 • Professional mentoring and development of others
 • Innovation contribution to industry practices and standards

@@ -104,7 +104,7 @@ Present two versions of the same introduction - one with poor professional prese
 "Your vehicle and equipment are extensions of your professional presentation. Let's discuss how these affect customer first impressions."
 
 - Show examples of professional vs. unprofessional vehicle presentation
-- Discuss equipment organization impact on customer confidence
+- Discuss equipment organisation impact on customer confidence
 - Address cost-effective ways to improve professional presentation
 
 **Common Challenge Discussion (5 minutes):**

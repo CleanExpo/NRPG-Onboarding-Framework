@@ -22,7 +22,7 @@ This capstone module transforms technically competent restoration professionals 
 - **Technology Integration:** Professional presentation technology and digital resource access
 - **Community Service Coordination:** Local community service project information and coordination resources
 
-**Specialized Resources Required:**
+**specialised Resources Required:**
 - **Industry Professional Guests:** Experienced restoration professionals and industry leaders for mentoring
 - **Professional Association Information:** Current membership and involvement opportunity details
 - **Certification Pathway Resources:** IICRC and Australian qualification advancement information

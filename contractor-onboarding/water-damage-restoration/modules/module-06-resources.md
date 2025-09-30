@@ -449,7 +449,7 @@ Transport Classification: Corrosive liquid (Class 8)
 Environmental: Quaternary ammonium compounds persist in environment
 ```
 
-### Specialized Treatment Products
+### specialised Treatment Products
 
 **Rust and Corrosion Treatment:**
 
@@ -559,7 +559,7 @@ Mobility: Self-contained, no external power required
 
 Australian Operating Considerations:
 Registration: Commercial vehicle registration required
-Licensing: Driver must hold appropriate license class
+Licensing: Driver must hold appropriate licence class
 Insurance: Commercial vehicle and equipment coverage
 Environmental: Waste water disposal compliance required
 Noise: Consider local noise ordinances for residential areas
@@ -605,7 +605,7 @@ Extension Cords: Heavy-duty, outdoor-rated only
 Safety Switches: Ensure building electrical safety compliance
 ```
 
-### Specialized Application Equipment
+### specialised Application Equipment
 
 **Electrostatic Sprayers:**
 
@@ -679,7 +679,7 @@ Respiratory Protection: Required during fogging operations
 Area Evacuation: Evacuate area during treatment
 Ventilation: Ensure adequate ventilation before re-entry
 Chemical Selection: Use only appropriate fogging chemicals
-Training: Specialized training required for safe operation
+Training: specialised training required for safe operation
 
 Australian Compliance:
 Electrical Safety: Test and tag requirements apply
@@ -877,7 +877,7 @@ Weather Conditions: _____________________________
 Assessor Information:
 Primary Assessor: _______________________________
 Qualifications: _________________________________
-License Number: _________________________________
+licence Number: _________________________________
 Company: ______________________________________
 Contact Information: ____________________________
 
@@ -982,7 +982,7 @@ based on professional judgment and current best practices.
 
 Assessor Signature: _____________________________
 Date: _______________________________________
-Professional License: ___________________________
+Professional licence: ___________________________
 Company Seal: _________________________________
 
 Attachments:
@@ -1107,7 +1107,7 @@ directions, and Australian regulatory requirements.
 
 Technician Signature: __________________________
 Date: ______________________________________
-License/Certification: ________________________
+licence/Certification: ________________________
 Supervisor Approval: ___________________________
 
 Quality Assurance Review:

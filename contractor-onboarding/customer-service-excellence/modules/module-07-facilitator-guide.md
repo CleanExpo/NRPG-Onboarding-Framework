@@ -114,7 +114,7 @@ Ask participants: "Which contractor would you choose for your own property?"
 **Hands-On Activity:**
 - Divide class into pairs
 - Each pair receives customer communication examples (mix of quality levels)
-- Analyze and rank examples from best to worst
+- analyse and rank examples from best to worst
 - Identify specific factors that make documentation professional vs. problematic
 - Share findings with full group for comprehensive quality criteria development
 
@@ -214,7 +214,7 @@ Use actual customer scenarios to demonstrate:
 **Technology Integration Benefits:**
 - Faster response times through mobile documentation capability
 - Better customer service through immediate information sharing
-- Professional presentation through digital organization and quality
+- Professional presentation through digital organisation and quality
 - Improved accuracy through integrated documentation systems
 
 **Documentation ROI Demonstration (5 minutes):**
@@ -417,7 +417,7 @@ Show participants specific examples of how excellent documentation:
 - [ ] Address any questions about Privacy Act compliance or consumer protection requirements
 
 ### Month 1 Review
-- [ ] Analyze customer satisfaction improvements related to documentation quality
+- [ ] analyse customer satisfaction improvements related to documentation quality
 - [ ] Review business benefits from improved documentation practices (efficiency, relationships, growth)
 - [ ] Evaluate legal compliance implementation and address any ongoing concerns
 - [ ] Plan advanced documentation training based on real-world application challenges

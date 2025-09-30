@@ -2,7 +2,7 @@
 
 **Module ID:** CSE-M08
 **Course:** Customer Service Excellence
-**Resource Package:** Time management tools, efficiency systems, and customer service optimization resources
+**Resource Package:** Time management tools, efficiency systems, and customer service optimisation resources
 
 ---
 
@@ -250,7 +250,7 @@ SCHEDULING INTEGRATION:
 ☐ Calendar sync with customer availability
 ☐ Automatic travel time calculation
 ☐ Weather alerts affecting outdoor work
-☐ Traffic optimization for customer punctuality
+☐ Traffic optimisation for customer punctuality
 ☐ Emergency prioritization and rescheduling
 
 QUALITY CONTROL FEATURES:
@@ -313,7 +313,7 @@ Quality Standards:
 
 ---
 
-## Resource 3: Workflow Optimization Templates
+## Resource 3: Workflow optimisation Templates
 
 ### Customer Service Process Mapping
 

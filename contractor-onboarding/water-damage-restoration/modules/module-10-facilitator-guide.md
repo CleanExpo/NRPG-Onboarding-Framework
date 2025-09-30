@@ -22,7 +22,7 @@ This critical module transforms technical restoration expertise into professiona
 - **Technology Integration:** Tablets, mobile devices, and communication technology for practice
 - **Comfortable Practice Space:** Supportive environment encouraging risk-taking and skill development
 
-**Specialized Materials Required:**
+**specialised Materials Required:**
 - **Role-Playing Scenarios:** Realistic scripts and situations for practice
 - **Cultural Awareness Resources:** Materials addressing Australian cultural diversity
 - **Professional Templates:** Business forms, communication templates, and documentation examples
@@ -114,7 +114,7 @@ Begin with comprehensive understanding of Australian business culture and profes
 #### Stakeholder Analysis and Communication Strategy Development (30 minutes)
 
 **Systematic Stakeholder Analysis:**
-Teach participants to analyze stakeholder needs and develop appropriate communication strategies.
+Teach participants to analyse stakeholder needs and develop appropriate communication strategies.
 
 **Stakeholder Categories and Communication Needs:**
 1. **Residential Property Owners:**
@@ -371,7 +371,7 @@ Participants develop business development strategies and practice professional n
 Long-term professional development and positive industry contribution.
 
 **Professional Development Pathways:**
-- **Technical Specialization:** Advanced certifications and expertise development
+- **Technical specialisation:** Advanced certifications and expertise development
 - **Management Development:** Project coordination and business management skills
 - **Industry Leadership:** Professional association involvement and standards contribution
 - **Community Service:** Public education and disaster preparedness support
@@ -394,7 +394,7 @@ Integrating professional success with environmental responsibility and community
 
 **Environmental Responsibility:**
 - **Sustainable Practices:** Resource conservation and environmental protection
-- **Energy Efficiency:** Equipment optimization and energy management
+- **Energy Efficiency:** Equipment optimisation and energy management
 - **Waste Minimization:** Recycling and responsible disposal practices
 - **Chemical Management:** Environmentally responsible product selection
 - **Community Education:** Environmental awareness and protection education

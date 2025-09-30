@@ -116,7 +116,7 @@ EQUIPMENT SETUP AND CALIBRATION (8 minutes)
 □ Lens cleaned and inspected
 □ Temperature reference source verified
 □ Emissivity settings appropriate for materials
-□ Color palette optimized for moisture detection
+□ colour palette optimized for moisture detection
 
 Environmental Documentation:
 Ambient Temperature: ______°C
@@ -323,7 +323,7 @@ Team Leader: _________________ Date: __________
 
 #### Real-Time Data Interpretation
 **Individual Analysis Challenge:**
-Analyze provided monitoring data and develop recommendations.
+analyse provided monitoring data and develop recommendations.
 
 **Data Analysis Worksheet:**
 ```
@@ -486,7 +486,7 @@ System Activation Date: ____________________
 ## Exercise 3: Psychrometric Analysis Laboratory (60 minutes)
 
 ### Objective
-Demonstrate advanced psychrometric calculation skills and environmental optimization strategies.
+Demonstrate advanced psychrometric calculation skills and environmental optimisation strategies.
 
 ### Materials Required
 - Precision psychrometric instruments
@@ -551,7 +551,7 @@ Drying Timeline Estimation:
 Expected Daily Rate: ____% per day
 Estimated Completion: ____ days
 
-OPTIMIZATION RECOMMENDATIONS
+optimisation RECOMMENDATIONS
 Temperature Modification:
 Current: ____°C  Recommended: ____°C
 Expected Impact: ________________
@@ -570,15 +570,15 @@ Analyst Verification: ___________
 Calculation Accuracy: □ Verified □ Needs Review
 ```
 
-### Activity 2: Environmental Optimization Challenge (20 minutes)
+### Activity 2: Environmental optimisation Challenge (20 minutes)
 
 #### Climate Control Strategy Development
 **Team Problem-Solving (Teams of 2-3):**
 Develop environmental control strategies for challenging Australian climate conditions.
 
-**Environmental Optimization Strategy:**
+**Environmental optimisation Strategy:**
 ```
-CLIMATE OPTIMIZATION STRATEGY
+CLIMATE optimisation STRATEGY
 
 Team: _____________________________ Date: __________
 Scenario: _________________________ Climate Zone: ___
@@ -607,7 +607,7 @@ Secondary Challenges:
 □ Extended timeline expectations
 □ Occupant comfort considerations
 
-OPTIMIZATION STRATEGY
+optimisation STRATEGY
 Primary Environmental Controls:
 Target Indoor Temperature: ____°C
 Rationale: _____________________
@@ -637,7 +637,7 @@ Phase 1 (Days 1-2): Aggressive Setup
 □ Environmental monitoring activation
 
 Phase 2 (Days 3-7): Active Drying
-□ Continuous environmental optimization
+□ Continuous environmental optimisation
 □ Equipment adjustment based on progress
 □ Material moisture monitoring
 
@@ -703,10 +703,10 @@ Additional Adjustments Required:
 □ Temperature modification
 □ Air pattern adjustment
 
-HOUR 3 OPTIMIZATION
+HOUR 3 optimisation
 Environmental Stability:
 □ Conditions stabilized
-□ Continued optimization needed
+□ Continued optimisation needed
 □ External factors affecting system
 
 Final Hour Settings:
@@ -1001,20 +1001,20 @@ System Design Capability:
 □ Needs guidance for system design
 
 Data Analysis Proficiency:
-□ Expert statistical analysis and optimization
+□ Expert statistical analysis and optimisation
 □ Advanced trend analysis and prediction
 □ Basic data interpretation
 □ Needs support for data analysis
 
 PSYCHROMETRIC COMPETENCY
 Calculation Accuracy:
-□ Expert level with optimization capability
+□ Expert level with optimisation capability
 □ Advanced calculations and analysis
 □ Basic psychrometric understanding
 □ Needs additional training
 
 Environmental Control Strategy:
-□ Can develop complex optimization strategies
+□ Can develop complex optimisation strategies
 □ Can manage standard environmental control
 □ Can operate equipment with guidance
 □ Needs supervision for environmental control
@@ -1036,7 +1036,7 @@ Advanced Training Interests:
 □ Thermal imaging certification
 □ Advanced psychrometric analysis
 □ Quality management systems
-□ Specialized detection technologies
+□ specialised detection technologies
 
 Career Development Goals:
 □ Technical specialist role
@@ -1075,14 +1075,14 @@ Next Review Date: __________________________________
 **Advanced Competency Demonstrated:**
 - [ ] Professional equipment operation across multiple technologies
 - [ ] Systematic monitoring system design and implementation
-- [ ] Advanced psychrometric analysis and environmental optimization
+- [ ] Advanced psychrometric analysis and environmental optimisation
 - [ ] Comprehensive quality assurance protocol implementation
 - [ ] Professional troubleshooting and problem-solving capability
 
 **Professional Development Foundation:**
-- [ ] Technical expertise enabling specialization opportunities
+- [ ] Technical expertise enabling specialisation opportunities
 - [ ] Quality assurance capability supporting business development
-- [ ] Advanced analytical skills enabling optimization services
+- [ ] Advanced analytical skills enabling optimisation services
 - [ ] Professional documentation supporting industry recognition
 
-These comprehensive practical exercises ensure participants develop advanced professional competency in moisture detection and monitoring equipment, providing the technical expertise necessary for specialized roles and career advancement in the Australian water damage restoration industry.
+These comprehensive practical exercises ensure participants develop advanced professional competency in moisture detection and monitoring equipment, providing the technical expertise necessary for specialised roles and career advancement in the Australian water damage restoration industry.

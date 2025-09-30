@@ -383,7 +383,7 @@ Use real examples of successful customer advocacy to demonstrate:
 - [ ] Address any questions about professional advocacy boundaries
 
 ### Month 1 Review
-- [ ] Analyze insurance claim success rates and processing times
+- [ ] analyse insurance claim success rates and processing times
 - [ ] Review adjuster feedback on participant professionalism
 - [ ] Evaluate customer satisfaction with insurance process support
 - [ ] Plan advanced insurance training based on real-world challenges

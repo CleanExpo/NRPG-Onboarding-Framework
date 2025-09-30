@@ -182,7 +182,7 @@ to keep you updated on our progress."
 **Activities:**
 - Insurance adjuster coordination
 - Detailed scope development
-- Material and labor estimates
+- Material and labour estimates
 - Project scheduling
 - Final approval process
 

@@ -161,7 +161,7 @@ Teams perform systematic moisture testing using various equipment and techniques
    - Original hardwood flooring with traditional tongue-and-groove construction
    - Structural timber framing and heritage joinery restoration
    - Traditional lime mortar walls and heritage masonry materials
-   - Specialized testing techniques preserving heritage integrity
+   - specialised testing techniques preserving heritage integrity
 
 2. **Modern Composite Construction:**
    - Engineered timber flooring and laminated building products
@@ -201,7 +201,7 @@ Teams perform comprehensive air quality testing and environmental verification u
    - Odor assessment and source identification procedures
 
 3. **Physical Environmental Assessment:**
-   - Temperature and humidity optimization and control verification
+   - Temperature and humidity optimisation and control verification
    - Air exchange rate measurement and ventilation effectiveness
    - Particulate matter assessment and air filtration verification
    - Building envelope performance and air quality integration
@@ -277,10 +277,10 @@ Teams conduct comprehensive final inspections using professional checklists and 
    - Property protection confirming no damage from restoration activities
 
 3. **Documentation and Compliance Review:**
-   - Technical documentation completion and organization for client handover
+   - Technical documentation completion and organisation for client handover
    - Regulatory compliance verification and certification completion
    - Insurance documentation and claims process completion
-   - Warranty preparation and ongoing support information organization
+   - Warranty preparation and ongoing support information organisation
    - Professional certification and quality assurance documentation
 
 **Inspection Quality Standards:**
@@ -382,11 +382,11 @@ Teams develop comprehensive documentation packages meeting professional standard
    - Progressive work documentation with systematic procedure and progress recording
    - Testing and verification results with professional analysis and interpretation
    - Material specifications and replacement documentation with warranty information
-   - Equipment performance records with environmental monitoring and optimization data
+   - Equipment performance records with environmental monitoring and optimisation data
 
 2. **Visual Documentation Standards:**
    - Professional photography with before, during, and after comprehensive coverage
-   - Technical imaging including thermal imaging and specialized documentation
+   - Technical imaging including thermal imaging and specialised documentation
    - Progress documentation showing systematic restoration achievement
    - Quality verification photography confirming professional standards achievement
    - Client education visuals supporting understanding and confidence building
@@ -414,7 +414,7 @@ Teams develop and implement quality assurance systems supporting consistent exce
 1. **Performance Measurement and Tracking:**
    - Technical performance metrics with quantifiable quality measures
    - Client satisfaction tracking with systematic feedback collection and analysis
-   - Timeline and cost management with efficiency measurement and optimization
+   - Timeline and cost management with efficiency measurement and optimisation
    - Safety performance monitoring with incident prevention and learning integration
    - Professional development tracking with skill enhancement and certification advancement
 
@@ -422,12 +422,12 @@ Teams develop and implement quality assurance systems supporting consistent exce
    - Systematic quality checkpoints with verification procedures and corrective action
    - Professional standards compliance with industry benchmark comparison
    - Regulatory compliance monitoring with requirement updates and training integration
-   - Client expectation management with satisfaction optimization and relationship building
+   - Client expectation management with satisfaction optimisation and relationship building
    - Team performance development with coaching and professional advancement
 
 3. **Continuous Improvement Process:**
    - Quality data analysis with trend identification and improvement opportunity development
-   - Client feedback integration with service enhancement and satisfaction optimization
+   - Client feedback integration with service enhancement and satisfaction optimisation
    - Team learning and development with skill building and professional advancement
    - Industry best practice integration with innovation and leadership development
    - Professional network development with relationship building and knowledge sharing
@@ -492,10 +492,10 @@ All practical exercises emphasize systematic quality control, professional stand
 
 ### Professional Development Pathways
 
-**Quality Assurance Specialization:**
+**Quality Assurance specialisation:**
 - **Quality Control Manager:** Systematic quality management and professional standards implementation
 - **Technical Specialist:** Advanced testing and verification expertise with professional certification
-- **Client Relationship Manager:** Excellence in client service and satisfaction optimization
+- **Client Relationship Manager:** Excellence in client service and satisfaction optimisation
 - **Training Coordinator:** Professional education and quality standards development
 - **Business Development:** Growth through quality excellence and professional reputation
 

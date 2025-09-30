@@ -56,7 +56,7 @@
 
 #### Professional Language Examples
 - "I'll conduct a comprehensive assessment to ensure we preserve the integrity of your property"
-- "Given the premium finishes, we'll use specialized protection methods"
+- "Given the premium finishes, we'll use specialised protection methods"
 - "I'll coordinate with your property manager/housekeeper to minimize disruption"
 
 ### Emergency Response Situations
@@ -65,7 +65,7 @@
 - **Safety First:** All safety equipment immediately accessible
 - **Clean Professional:** Best available attire given urgency
 - **Identification:** Clear company identification for emergency responders
-- **Organization:** Essential tools immediately accessible
+- **organisation:** Essential tools immediately accessible
 
 #### Behaviour Adaptations
 - **Tone:** Calm, reassuring, competent
@@ -180,7 +180,7 @@
 
 #### High-End Property Introduction
 ```
-"Good morning/afternoon, [Title] [Name]. I'm [Your Name] from [Company Name]. I understand you've experienced [damage type] in your beautiful home. I specialize in premium property restoration and will ensure we preserve the quality and character of your property throughout the restoration process."
+"Good morning/afternoon, [Title] [Name]. I'm [Your Name] from [Company Name]. I understand you've experienced [damage type] in your beautiful home. I specialise in premium property restoration and will ensure we preserve the quality and character of your property throughout the restoration process."
 ```
 
 #### Commercial Property Introduction

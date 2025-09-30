@@ -30,7 +30,7 @@ AIR MOVEMENT EQUIPMENT:
 DEHUMIDIFICATION EQUIPMENT:
 ☐ Power-on self-test and control system verification
 ☐ Coil condition and drainage system operation
-☐ Environmental condition assessment and optimization
+☐ Environmental condition assessment and optimisation
 ☐ Performance monitoring and baseline establishment
 ☐ Safety system operation and alarm testing
 
@@ -77,7 +77,7 @@ MECHANICAL FAILURES:
 PERFORMANCE DEGRADATION:
 1. BASELINE COMPARISON: Compare with known performance standards
 2. SYSTEMATIC TESTING: Test each system component individually
-3. ENVIRONMENTAL FACTORS: Assess operating conditions and optimization
+3. ENVIRONMENTAL FACTORS: Assess operating conditions and optimisation
 4. MAINTENANCE STATUS: Review maintenance history and requirements
 5. PROFESSIONAL CONSULTATION: Contact technical support if required
 
@@ -94,40 +94,40 @@ EMERGENCY SUPPLIES:
 ☐ Safety equipment and lockout/tagout devices
 ```
 
-### **Card 3: Performance Optimization Quick Guide**
+### **Card 3: Performance optimisation Quick Guide**
 
 ```
-EQUIPMENT PERFORMANCE OPTIMIZATION
+EQUIPMENT PERFORMANCE optimisation
 
-AIR MOVEMENT OPTIMIZATION:
+AIR MOVEMENT optimisation:
 ☐ Airflow measurement and baseline comparison
 ☐ Electrical consumption monitoring and efficiency assessment
 ☐ Environmental integration and system coordination
-☐ Obstruction removal and air path optimization
+☐ Obstruction removal and air path optimisation
 ☐ Motor performance and mechanical condition verification
 
-DEHUMIDIFICATION OPTIMIZATION:
+DEHUMIDIFICATION optimisation:
 ☐ Moisture removal rate measurement and efficiency assessment
-☐ Energy consumption monitoring and cost optimization
-☐ Environmental condition optimization and control
+☐ Energy consumption monitoring and cost optimisation
+☐ Environmental condition optimisation and control
 ☐ Air circulation integration and system coordination
 ☐ Component performance and maintenance verification
 
-EXTRACTION OPTIMIZATION:
+EXTRACTION optimisation:
 ☐ Vacuum performance measurement and system verification
-☐ Water recovery efficiency and system optimization
+☐ Water recovery efficiency and system optimisation
 ☐ Tool and attachment performance and condition verification
-☐ Energy efficiency and cost-per-use optimization
+☐ Energy efficiency and cost-per-use optimisation
 ☐ Safety system operation and compliance verification
 
-MONITORING ACCURACY OPTIMIZATION:
+MONITORING ACCURACY optimisation:
 ☐ Calibration verification and accuracy testing
 ☐ Environmental condition compensation and correction
 ☐ Cross-reference verification with multiple instruments
 ☐ Data quality assurance and integrity verification
 ☐ Professional presentation and client confidence
 
-OPTIMIZATION TARGETS:
+optimisation TARGETS:
 • Maximum efficiency at minimum operating cost
 • Consistent performance and reliability
 • Professional presentation and client satisfaction
@@ -150,7 +150,7 @@ WEEKLY:
 ☐ Detailed cleaning and debris removal
 ☐ Electrical connection inspection and verification
 ☐ Basic mechanical inspection and lubrication
-☐ Performance testing and optimization
+☐ Performance testing and optimisation
 
 MONTHLY:
 ☐ Comprehensive performance assessment and testing
@@ -161,7 +161,7 @@ MONTHLY:
 QUARTERLY:
 ☐ Major component inspection and replacement
 ☐ Professional electrical safety testing and certification
-☐ System optimization and performance enhancement
+☐ System optimisation and performance enhancement
 ☐ Professional service and warranty coordination
 
 ANNUALLY:
@@ -173,7 +173,7 @@ ANNUALLY:
 MAINTENANCE TRACKING:
 • Equipment ID and service history database
 • Performance metrics and trend analysis
-• Cost tracking and budget optimization
+• Cost tracking and budget optimisation
 • Professional documentation and compliance records
 ```
 
@@ -403,7 +403,7 @@ Cost per Operating Hour: $ ____________________
 Maintenance as % of Value: ____%
 Return on Investment: _____%
 
-FLEET OPTIMIZATION OPPORTUNITIES:
+FLEET optimisation OPPORTUNITIES:
 1. ________________________________________
 2. ________________________________________
 3. ________________________________________
@@ -488,7 +488,7 @@ Review Period: _______________________________
 **Service Requirements:**
 - **Daily:** Visual inspection, performance verification, safety testing
 - **Weekly:** Motor cleaning, electrical inspection, mechanical assessment
-- **Monthly:** Bearing lubrication, electrical testing, performance optimization
+- **Monthly:** Bearing lubrication, electrical testing, performance optimisation
 - **Annual:** Professional service, bearing replacement, electrical certification
 
 ### **Dehumidification Equipment Specifications**
@@ -528,7 +528,7 @@ Review Period: _______________________________
 **Service Requirements:**
 - **Daily:** Performance testing, tank cleaning, tool inspection
 - **Weekly:** Motor inspection, pump maintenance, electrical verification
-- **Monthly:** Comprehensive system service, safety testing, optimization
+- **Monthly:** Comprehensive system service, safety testing, optimisation
 - **Annual:** Professional overhaul, engine service, system certification
 
 ---
@@ -654,8 +654,8 @@ DIAGNOSTIC STEPS:
 1. Energy Measurement: Power consumption and efficiency calculation
 2. System Analysis: Refrigerant pressures and temperatures
 3. Component Testing: Compressor performance and electrical verification
-4. Environmental Optimization: Operating condition assessment
-5. System Optimization: Control calibration and performance tuning
+4. Environmental optimisation: Operating condition assessment
+5. System optimisation: Control calibration and performance tuning
 
 SYMPTOM: Control System Problems
 POSSIBLE CAUSES:
@@ -730,7 +730,7 @@ Company Director: [Contact details]
 
 **Phase 3: Resolution and Recovery (1-24 hours)**
 - Equipment repair or replacement coordination
-- Alternative equipment deployment and optimization
+- Alternative equipment deployment and optimisation
 - Performance verification and quality control
 - Project continuity and client service maintenance
 

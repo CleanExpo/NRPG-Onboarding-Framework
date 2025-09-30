@@ -60,10 +60,10 @@ Water extraction effectiveness depends on understanding how water behaves in dif
 - **Timber Construction:** Species-specific absorption rates affecting extraction strategies
 
 **Australian Construction Considerations:**
-- **Double Brick Construction:** Complex moisture migration requiring specialized extraction approaches
+- **Double Brick Construction:** Complex moisture migration requiring specialised extraction approaches
 - **Elevated Queenslander Homes:** Subfloor access enabling comprehensive extraction strategies
 - **Slab-on-Ground Construction:** Limited access requiring surface-focused extraction methods
-- **Heritage Buildings:** Specialized extraction techniques preserving historical materials
+- **Heritage Buildings:** specialised extraction techniques preserving historical materials
 
 **Gravity and Hydraulic Principles:**
 - **Natural Drainage:** Utilizing building slopes and natural water flow patterns
@@ -74,7 +74,7 @@ Water extraction effectiveness depends on understanding how water behaves in dif
 #### Extraction Equipment Classifications
 
 **Portable Extraction Units:**
-Professional water extraction requires specialized equipment designed for Australian conditions:
+Professional water extraction requires specialised equipment designed for Australian conditions:
 
 **Truck-Mounted Extraction Systems:**
 - **High-Performance Capability:** 200-500 CFM capacity for large-scale extraction
@@ -88,7 +88,7 @@ Professional water extraction requires specialized equipment designed for Austra
 - **Variable Capacity:** 50-200 CFM range for different application requirements
 - **Backup Capability:** Redundancy for critical extraction operations
 
-**Specialized Extraction Equipment:**
+**specialised Extraction Equipment:**
 - **Hard Surface Extractors:** Designed for tile, concrete, and sealed surfaces
 - **Deep Extraction Tools:** Penetrating extraction for thick carpets and padding
 - **Submersible Pumps:** Standing water removal in flooded areas
@@ -238,7 +238,7 @@ Grossly contaminated water severely limits salvage potential:
 
 **Replacement Requirements:**
 - **Porous Materials:** Generally require complete replacement
-- **Personal Items:** Limited salvage potential requiring specialized treatment
+- **Personal Items:** Limited salvage potential requiring specialised treatment
 - **HVAC Systems:** Extensive cleaning and disinfection or replacement
 - **Structural Elements:** Comprehensive decontamination and treatment
 
@@ -276,7 +276,7 @@ Material disposal must comply with Australian environmental protection requireme
 
 **Waste Classification:**
 - **General Waste:** Clean materials suitable for standard disposal
-- **Contaminated Waste:** Materials requiring specialized disposal procedures
+- **Contaminated Waste:** Materials requiring specialised disposal procedures
 - **Hazardous Waste:** Materials posing environmental or health risks
 - **Recyclable Materials:** Materials suitable for recycling and resource recovery
 
@@ -307,11 +307,11 @@ Professional content management requires systematic approaches to protecting and
 
 #### Professional Restoration Coordination
 
-**Specialized Restoration Services:**
+**specialised Restoration Services:**
 - **Document Restoration:** Professional paper and photograph restoration services
-- **Electronics Restoration:** Specialized electronic equipment recovery and restoration
+- **Electronics Restoration:** specialised electronic equipment recovery and restoration
 - **Textile Restoration:** Professional cleaning and restoration of clothing and fabrics
-- **Art and Antique Restoration:** Specialized restoration for valuable and historic items
+- **Art and Antique Restoration:** specialised restoration for valuable and historic items
 
 **Australian Restoration Network:**
 - **Local Service Providers:** Established relationships with regional restoration specialists
@@ -523,7 +523,7 @@ Professional restoration must comply with state and territory environmental prot
 
 ---
 
-## Module 5: Extraction Optimization and Quality Control
+## Module 5: Extraction optimisation and Quality Control
 
 ### 5.1 Extraction Efficiency Calculation
 
@@ -596,7 +596,7 @@ This module has established critical competencies in water extraction and remova
 2. **Material Assessment:** Scientific assessment of material salvageability and appropriate removal procedures
 3. **Emergency Response:** Rapid response capabilities meeting safety and regulatory requirements
 4. **Regulatory Compliance:** Full compliance with Australian safety, environmental, and building regulations
-5. **Quality Optimization:** Scientific optimization of extraction efficiency and quality control
+5. **Quality optimisation:** Scientific optimisation of extraction efficiency and quality control
 
 ### Preparation for Advanced Modules
 
@@ -622,7 +622,7 @@ Extraction competency supports career advancement:
 
 #### Australian Extraction Equipment Suppliers
 - **Restoration Equipment Supplies:** National supplier of professional water extraction equipment
-- **Hydro-Force Equipment:** Specialized extraction equipment and training programs
+- **Hydro-Force Equipment:** specialised extraction equipment and training programs
 - **Prochem Australia:** Professional cleaning and restoration equipment supplier
 - **Carpet Cleaning Solutions:** Equipment sales, service, and training programs
 
@@ -631,7 +631,7 @@ Extraction competency supports career advancement:
 #### Australian Standards
 - **AS/NZS 3500:** Plumbing and drainage systems
 - **AS 1851:** Fire protection systems maintenance
-- **AS 3745:** Emergency control organization and procedures
+- **AS 3745:** Emergency control organisation and procedures
 - **AS/NZS 4801:** Occupational health and safety management systems
 
 #### Regulatory Framework
@@ -646,6 +646,6 @@ Extraction competency supports career advancement:
 - **IICRC Water Loss Specialist:** Foundation certification for water damage restoration
 - **IICRC Applied Structural Drying:** Advanced certification for structural drying
 - **Manufacturer Training:** Equipment-specific operation and maintenance training
-- **Emergency Response Training:** Specialized emergency response and coordination training
+- **Emergency Response Training:** specialised emergency response and coordination training
 
 This comprehensive training content ensures participants develop professional competency in water extraction and removal procedures, providing the practical skills necessary for effective water damage restoration and emergency response in the Australian construction environment.

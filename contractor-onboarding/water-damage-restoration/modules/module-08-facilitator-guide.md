@@ -22,7 +22,7 @@ This advanced module represents the pinnacle of water damage restoration trainin
 - **Technology Integration Lab:** Advanced monitoring and documentation equipment
 - **Premium Service Training Area:** Professional presentation and client communication practice
 
-**Specialized Equipment Required:**
+**specialised Equipment Required:**
 - **Heritage Conservation Tools:** Conservation-grade materials and equipment
 - **Advanced Monitoring Systems:** Wireless sensors, data loggers, and analytics platforms
 - **Contamination Control Equipment:** Enhanced PPE, decontamination systems, testing equipment
@@ -38,8 +38,8 @@ This advanced module represents the pinnacle of water damage restoration trainin
 **Prerequisites Verification:**
 - [ ] Confirm successful completion of WRT-M01 through WRT-M07
 - [ ] Verify current safety certifications and medical clearance
-- [ ] Review participant goals for advanced specialization and career development
-- [ ] Assess readiness for heritage, contamination, or premium service specialization
+- [ ] Review participant goals for advanced specialisation and career development
+- [ ] Assess readiness for heritage, contamination, or premium service specialisation
 - [ ] Confirm professional liability insurance and certification requirements
 
 **Advanced Competency Assessment:**
@@ -47,7 +47,7 @@ This advanced module represents the pinnacle of water damage restoration trainin
 - [ ] Identify individual strengths and development opportunities
 - [ ] Assess leadership potential and industry contribution capacity
 - [ ] Evaluate technical proficiency and professional presentation skills
-- [ ] Plan individual development pathways and specialization options
+- [ ] Plan individual development pathways and specialisation options
 
 ### Facility and Equipment Setup
 
@@ -113,7 +113,7 @@ Understanding the unique challenges and opportunities of Australian heritage res
 - **Interactive Heritage Analysis:** Use real heritage examples and case studies
 - **Hands-On Material Examination:** Direct experience with heritage materials and techniques
 - **Professional Network Integration:** Connect participants with heritage conservation community
-- **Career Development Focus:** Identify heritage restoration as specialization pathway
+- **Career Development Focus:** Identify heritage restoration as specialisation pathway
 
 **Australian Heritage Landscape:**
 - **Indigenous Heritage:** Sacred sites, cultural objects, traditional building methods
@@ -197,8 +197,8 @@ Understanding how modern building systems affect restoration approach and coordi
 - **Quality Control:** Systematic verification across multiple floors and building zones
 
 **Professional Development Opportunities:**
-- **Project Management Specialization:** Advanced project coordination and leadership
-- **Building System Expertise:** Specialized knowledge for complex building restoration
+- **Project Management specialisation:** Advanced project coordination and leadership
+- **Building System Expertise:** specialised knowledge for complex building restoration
 - **Client Relationship Management:** Premium service delivery for large projects
 - **Industry Leadership:** Contributing to best practice development and training
 
@@ -216,9 +216,9 @@ Full training in advanced safety systems and emergency response procedures.
 - **Advanced Technology Application:** Environmental monitoring and verification systems
 - **Emergency Response Leadership:** Incident management and professional response coordination
 
-**Career Specialization Pathway:**
+**Career specialisation Pathway:**
 - **Contamination Specialist Certification:** Advanced credentials and professional recognition
-- **Emergency Response Specialization:** Disaster recovery and emergency management expertise
+- **Emergency Response specialisation:** Disaster recovery and emergency management expertise
 - **Regulatory Consulting:** Professional advice and compliance assistance
 - **Training and Education:** Teaching contamination control and safety protocols
 
@@ -264,7 +264,7 @@ Advanced training in client education, problem resolution, and relationship mana
 - **Referral Generation:** Client satisfaction and professional network development
 - **Market Leadership:** Premium service positioning and competitive advantage
 - **Professional Reputation:** Industry recognition and community contribution
-- **Business Excellence:** Operational efficiency and profit optimization
+- **Business Excellence:** Operational efficiency and profit optimisation
 
 #### Quality Control and Professional Standards (35 minutes)
 
@@ -295,8 +295,8 @@ Comprehensive training in business management, operational excellence, and indus
 Preparation for industry leadership and positive community impact.
 
 **Business Excellence Framework:**
-- **Operational Efficiency:** Resource optimization and cost management
-- **Professional Growth:** Career advancement and specialization development
+- **Operational Efficiency:** Resource optimisation and cost management
+- **Professional Growth:** Career advancement and specialisation development
 - **Industry Contribution:** Standard development and professional education
 - **Community Service:** Environmental responsibility and community protection
 
@@ -319,7 +319,7 @@ Preparation for industry leadership and positive community impact.
 - **Community Contribution:** Demonstrate positive industry and community contribution
 
 **Professional Development Facilitation:**
-- **Individual Pathway Planning:** Identify each participant's specialization interests and career goals
+- **Individual Pathway Planning:** Identify each participant's specialisation interests and career goals
 - **Network Integration:** Connect participants with professional associations and development opportunities
 - **Mentoring Approach:** Provide ongoing support and guidance for professional growth
 - **Leadership Development:** Identify and develop future industry leaders and contributors
@@ -344,11 +344,11 @@ Preparation for industry leadership and positive community impact.
 - **Technical Proficiency:** Evaluate advanced technical skills and application
 - **Professional Standards:** Assess professional behavior and client service excellence
 - **Leadership Potential:** Identify future industry leaders and development opportunities
-- **Specialization Readiness:** Evaluate readiness for heritage, contamination, or premium service specialization
+- **specialisation Readiness:** Evaluate readiness for heritage, contamination, or premium service specialisation
 
 **Career Development Planning:**
 - **Individual Development Plans:** Create customized professional development pathways
-- **Specialization Guidance:** Direct participants toward appropriate specialization areas
+- **specialisation Guidance:** Direct participants toward appropriate specialisation areas
 - **Professional Network Integration:** Connect participants with relevant professional associations
 - **Ongoing Support:** Provide continuing mentorship and development support
 
@@ -362,11 +362,11 @@ Preparation for industry leadership and positive community impact.
 - **Technical Mastery:** Evaluation of advanced restoration techniques and application
 - **Professional Excellence:** Assessment of customer service and professional presentation
 - **Leadership Potential:** Identification of industry leadership and contribution capability
-- **Specialization Readiness:** Assessment of readiness for advanced specialization pathways
+- **specialisation Readiness:** Assessment of readiness for advanced specialisation pathways
 
 **Professional Development Outcomes:**
 - **Advanced Certification Pathways:** Guidance toward IICRC and industry credentials
-- **Specialization Direction:** Heritage, contamination, technology, or business focus
+- **specialisation Direction:** Heritage, contamination, technology, or business focus
 - **Leadership Development:** Industry contribution and professional advancement opportunities
 - **Business Excellence:** Professional practice development and growth potential
 
@@ -389,7 +389,7 @@ Preparation for industry leadership and positive community impact.
 **Continuing Education Framework:**
 - **Annual Development Planning:** Ongoing professional growth and skill enhancement
 - **Industry Conference Participation:** Professional development and network building
-- **Specialization Advancement:** Continuing education in chosen specialization areas
+- **specialisation Advancement:** Continuing education in chosen specialisation areas
 - **Leadership Development:** Industry contribution and professional advancement
 
 **Professional Mentorship and Support:**

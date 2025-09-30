@@ -351,7 +351,7 @@ Best regards,
 Rate yourself honestly (1=Never, 5=Always):
 
 **Awareness:**
-- I recognize when cultural differences might be affecting communication ___
+- I recognise when cultural differences might be affecting communication ___
 - I avoid making assumptions based on appearance or accent ___
 - I ask respectful questions about preferences ___
 

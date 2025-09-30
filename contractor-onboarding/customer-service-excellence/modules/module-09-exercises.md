@@ -759,7 +759,7 @@ Design and implement customer service automation that enhances relationship buil
 
 #### Part A: Appropriate Automation Identification (8 minutes)
 **Automation vs. Personal Service Decision Framework:**
-Analyze customer service touchpoints to determine appropriate automation opportunities:
+analyse customer service touchpoints to determine appropriate automation opportunities:
 
 **Customer Service Journey Analysis:**
 ```
@@ -1118,8 +1118,8 @@ Customer Review Management:
 ☐ Professional handling of any negative feedback with resolution focus
 ☐ Review response templates maintaining professional standards and customer focus
 
-Professional Search Optimization:
-☐ Local search optimization for emergency response and professional services
+Professional Search optimisation:
+☐ Local search optimisation for emergency response and professional services
 ☐ Professional content creation for customer education and service demonstration
 ☐ Professional credentials and certification prominence in search results
 ☐ Customer service excellence and satisfaction emphasis in all content

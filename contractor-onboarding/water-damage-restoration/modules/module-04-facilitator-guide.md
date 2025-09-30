@@ -151,7 +151,7 @@ Use the "Show and Tell" method:
 - Point out common mistakes and how to avoid them
 
 #### Multi-Surface Techniques (30 minutes)
-**Specialized Techniques Training:**
+**specialised Techniques Training:**
 
 **Carpet Extraction (10 minutes):**
 - Proper wand angle and speed
@@ -235,7 +235,7 @@ During practical sessions, evaluate participants on:
 - Equipment care and maintenance
 
 **Professional Standards:**
-- Work area organization
+- Work area organisation
 - Customer consideration approach
 - Documentation awareness
 - Problem-solving capability

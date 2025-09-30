@@ -316,7 +316,7 @@ I'm committed to your success, Marcus, but I want to achieve it in a way that pr
 
 ### Scenario D: Quality Standards Conflict (5 points)
 
-**Situation:** After completing water damage restoration in a high-end Hamilton home, Mrs. Patterson is claiming the work quality doesn't match her "premium property standards." She points to minor texture variations in repaired drywall and slight color differences in paint touch-ups, demanding complete re-work of all affected areas. Your team followed industry standards and the work passed insurance inspection, but she insists it's "clearly substandard" and threatens formal complaints and legal action if not redone completely at no charge.
+**Situation:** After completing water damage restoration in a high-end Hamilton home, Mrs. Patterson is claiming the work quality doesn't match her "premium property standards." She points to minor texture variations in repaired drywall and slight colour differences in paint touch-ups, demanding complete re-work of all affected areas. Your team followed industry standards and the work passed insurance inspection, but she insists it's "clearly substandard" and threatens formal complaints and legal action if not redone completely at no charge.
 
 **Your Task:** Address quality concerns while maintaining professional standards and appropriate boundaries.
 
@@ -426,7 +426,7 @@ I want you to be thrilled with the results, Mrs. Patterson, while maintaining th
 ### For High Performers (90%+):
 - Consider advanced mediation and negotiation training
 - Develop mentoring skills for colleagues in conflict resolution
-- Explore specialized training in multi-party dispute resolution
+- Explore specialised training in multi-party dispute resolution
 - Consider leadership roles in customer relationship management
 
 ### For Good Performance (80-89%):

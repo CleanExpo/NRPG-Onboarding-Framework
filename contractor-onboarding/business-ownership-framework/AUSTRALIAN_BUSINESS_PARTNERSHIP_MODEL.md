@@ -3,7 +3,7 @@
 
 **Vision:** Elevating Australian restoration business owners through strategic partnership, continuing education, and industry leadership development.
 
-**Model Foundation:** Inspired by The Core Group (North America), adapted for Australian business environment, regulations, and market conditions.
+**Model Foundation:** Developed specifically for the Australian restoration industry business environment, regulations, and market conditions.
 
 ---
 
@@ -35,15 +35,14 @@
 - **Professional Indemnity Insurance:** Minimum $5M coverage
 - **Trade Licensing:** Current and appropriate for service categories
 
-#### **2. Financial Stability and Capability**
-- **Financial Statements:** Audited financials for preceding 2 years
+#### **2. Business Registration and Insurance**
 - **Credit Rating:** Business credit score minimum 650
 - **Cash Flow Capability:** Demonstrated ability to handle $100K+ projects
 - **Performance Bond:** $50,000 performance bond or guarantee
 - **Payment Terms:** 30-day payment capability for subcontractors and suppliers
 
 #### **3. Professional Certification Requirements (Mandatory 100-Point System)**
-- **Government Cert 4 in Cleaning (Restoration Specialization):** 40 points - Certificate IV completion required
+- **Government Cert 4 in Cleaning (Restoration specialisation):** 40 points - Certificate IV completion required
 - **IICRC Certifications:** 30 points - WRT, ASD, AMRT core certifications required
 - **CARSI Membership and CEC Credits:** 20 points - Active membership with 20+ annual CECs
 - **Trade Association Membership:** 10 points - Active professional association membership
@@ -81,8 +80,8 @@
 
 ### **RECOMMENDED Enhancements (Competitive Advantages)**
 
-#### **1. Specialization and Expertise**
-- **Specialized Certifications:** Additional IICRC specializations (ASD, AMRT, CCT, etc.)
+#### **1. specialisation and Expertise**
+- **specialised Certifications:** Additional IICRC specializations (ASD, AMRT, CCT, etc.)
 - **Heritage Restoration:** Capability in heritage and culturally significant building restoration
 - **Commercial Expertise:** Large-scale commercial and institutional project capability
 - **Emergency Response:** Disaster response and emergency management expertise
@@ -119,8 +118,8 @@
 
 #### **Business Development Support**
 1. **Strategic Planning:** Business strategy development and market positioning
-2. **Operational Optimization:** Process improvement and efficiency enhancement
-3. **Financial Management:** Financial planning and performance optimization
+2. **Operational optimisation:** Process improvement and efficiency enhancement
+3. **Financial Management:** Financial planning and performance optimisation
 4. **Technology Integration:** Business system and technology implementation
 5. **Marketing and Branding:** Professional marketing and brand development
 

@@ -48,7 +48,7 @@ Demonstrate mastery-level integration of all customer service excellence compete
 **Emergency Response A: Hamilton Heritage Home**
 - **Customers:** Sir James and Lady Margaret Windsor (prominent Brisbane family)
 - **Situation:** Fire damage to 1920s heritage home with irreplaceable family artifacts
-- **Complexity:** Heritage approval requirements, specialized restoration needs, high public profile
+- **Complexity:** Heritage approval requirements, specialised restoration needs, high public profile
 - **Emotional Factors:** Devastated family, media attention, community interest
 - **Timeline Pressure:** Insurance deadlines, heritage approval processes, family displacement
 
@@ -124,8 +124,8 @@ Design innovative approaches that exceed customer expectations while building pr
 **Innovation Challenge Areas:**
 
 **Heritage Restoration Excellence:**
-- **Cultural Sensitivity Innovation:** How do you honor family heritage while delivering modern professional excellence?
-- **Specialized Expertise Integration:** How do you coordinate heritage specialists with disaster recovery excellence?
+- **Cultural Sensitivity Innovation:** How do you honour family heritage while delivering modern professional excellence?
+- **specialised Expertise Integration:** How do you coordinate heritage specialists with disaster recovery excellence?
 - **Community Engagement Strategy:** How do you use this high-profile project to demonstrate industry excellence?
 - **Professional Learning Opportunity:** How do you develop your team's heritage restoration capabilities?
 
@@ -198,7 +198,7 @@ Demonstrate mastery-level leadership and mentoring capabilities through sophisti
 ### Professional Leadership Challenge
 
 #### Scenario: Customer Service Excellence Culture Development
-**Context:** You have been promoted to Customer Service Excellence Director for a growing disaster recovery company. Your mandate is to build a culture of service excellence throughout the organization.
+**Context:** You have been promoted to Customer Service Excellence Director for a growing disaster recovery company. Your mandate is to build a culture of service excellence throughout the organisation.
 
 **Leadership Challenges:**
 
@@ -259,7 +259,7 @@ Timeline and Measurement: _________________________________
 
 #### Part B: Organizational Excellence System Development (7 minutes)
 **Culture Building Leadership:**
-Create systematic approaches to building customer service excellence culture throughout the organization:
+Create systematic approaches to building customer service excellence culture throughout the organisation:
 
 **Excellence Culture Framework:**
 ```
@@ -314,7 +314,7 @@ Industry Standards Development:
 • Professional certification and training contribution: _________________________________
 
 Community and Professional Service:
-• Professional mentoring beyond organization: _________________________________
+• Professional mentoring beyond organisation: _________________________________
 • Industry conference and professional education: _________________________________
 • Community service and social responsibility: _________________________________
 • Professional legacy and industry improvement: _________________________________
@@ -572,7 +572,7 @@ Industry Contribution Objectives: _________________________________
 ```
 
 #### Part B: Team Development and Organizational Excellence (7 minutes)
-**Professional Excellence Organization Building:**
+**Professional Excellence organisation Building:**
 Design organizational systems that develop customer service excellence throughout the business:
 
 ```

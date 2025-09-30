@@ -288,7 +288,7 @@ Desiccant Operation Procedures:
    - Adequate ventilation for heat dissipation
    - Temperature monitoring in confined spaces
 
-2. Performance Optimization
+2. Performance optimisation
    - Optimal operation at 20-30°C
    - Very low humidity capability (<10% RH possible)
    - Continuous operation for best efficiency
@@ -515,7 +515,7 @@ industry standards and Australian regulations. All affected materials have been
 restored to acceptable moisture levels and the property is ready for normal use.
 
 Restoration Professional: _______________________________________
-License/Certification: ________________________________________
+licence/Certification: ________________________________________
 Company: ___________________________________________________
 Date: ______________________ | Signature: ____________________
 
@@ -629,7 +629,7 @@ Contact Information: ________________________________________
 2. **Alternative Strategies:** Implement temporary measures to maintain progress
 3. **Timeline Revision:** Assess and communicate impact on project completion
 4. **Insurance Notification:** Report equipment failure to relevant insurance providers
-5. **Process Review:** Analyze failure cause to prevent recurrence
+5. **Process Review:** analyse failure cause to prevent recurrence
 
 **Power System Emergencies:**
 
@@ -658,7 +658,7 @@ Contact Information: ________________________________________
 **IICRC Certifications:**
 - **Applied Structural Drying (ASD):** Advanced drying certification
 - **Water Loss Specialist (WLS):** Comprehensive water damage certification
-- **Odour Control Technician (OCT):** Specialization in odour management
+- **Odour Control Technician (OCT):** specialisation in odour management
 - **Mould Remediation Specialist (MRS):** Integration with mould issues
 
 **Australian Professional Development:**

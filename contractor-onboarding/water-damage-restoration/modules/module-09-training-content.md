@@ -10,7 +10,7 @@
 
 ## Module Overview
 
-This technical module provides comprehensive training in equipment maintenance, troubleshooting, and operational efficiency for water damage restoration equipment. Participants will develop expertise in preventive maintenance, field troubleshooting, equipment optimization, and cost-effective fleet management essential for successful restoration operations.
+This technical module provides comprehensive training in equipment maintenance, troubleshooting, and operational efficiency for water damage restoration equipment. Participants will develop expertise in preventive maintenance, field troubleshooting, equipment optimisation, and cost-effective fleet management essential for successful restoration operations.
 
 ### Learning Objectives
 
@@ -18,7 +18,7 @@ By completion of this module, participants will be able to:
 
 1. **Preventive Maintenance:** Implement systematic maintenance schedules maximizing equipment lifespan and reliability
 2. **Field Troubleshooting:** Diagnose and resolve common equipment problems quickly and effectively
-3. **Performance Optimization:** Maintain equipment at peak efficiency and operational capability
+3. **Performance optimisation:** Maintain equipment at peak efficiency and operational capability
 4. **Safety Maintenance:** Ensure all equipment meets safety standards and regulatory compliance
 5. **Cost Management:** Minimize operational costs through effective maintenance and repair strategies
 6. **Fleet Management:** Coordinate maintenance across multiple equipment units and project requirements
@@ -167,12 +167,12 @@ Comprehensive maintenance ensuring optimal moisture removal and energy efficienc
 - **Compressor Assessment:** Compressor performance and electrical verification
 - **Control System Calibration:** Thermostat and humidistat accuracy verification
 - **Safety System Testing:** High/low pressure switch and electrical protection testing
-- **Performance Optimization:** Efficiency assessment and adjustment procedures
+- **Performance optimisation:** Efficiency assessment and adjustment procedures
 
 ### Desiccant Dehumidifier Maintenance
 
 **Desiccant Media and Heating System Maintenance:**
-Specialized maintenance for chemical moisture absorption systems.
+specialised maintenance for chemical moisture absorption systems.
 
 **Desiccant Media Management:**
 - **Media Condition Assessment:** Desiccant material effectiveness and replacement requirements
@@ -184,20 +184,20 @@ Specialized maintenance for chemical moisture absorption systems.
 - **Heating Element Inspection:** Element condition and electrical safety verification
 - **Temperature Control:** Thermostat accuracy and control system calibration
 - **Electrical Safety:** Heating circuit protection and safety system verification
-- **Energy Efficiency:** Heating system efficiency and cost optimization
+- **Energy Efficiency:** Heating system efficiency and cost optimisation
 
 ### Advanced Dehumidification Troubleshooting
 
 **Performance Problem Diagnosis:**
 - **Inadequate Moisture Removal:** Systematic diagnosis of reduced performance
-- **Energy Efficiency Issues:** Power consumption and performance optimization
+- **Energy Efficiency Issues:** Power consumption and performance optimisation
 - **Control System Problems:** Electronic control troubleshooting and calibration
 - **Mechanical Component Issues:** Motor, fan, and pump troubleshooting
 
-**Environmental Optimization:**
-- **Operating Condition Assessment:** Temperature and humidity optimization
+**Environmental optimisation:**
+- **Operating Condition Assessment:** Temperature and humidity optimisation
 - **Air Circulation Integration:** Coordination with air movement equipment
-- **Energy Cost Management:** Operational cost optimization and efficiency improvement
+- **Energy Cost Management:** Operational cost optimisation and efficiency improvement
 - **Performance Documentation:** Moisture removal tracking and efficiency reporting
 
 ---
@@ -225,7 +225,7 @@ Comprehensive maintenance for reliable moisture extraction performance.
 - **Internal Cleaning:** Complete internal cleaning and sanitization
 - **Seal and Gasket Inspection:** Vacuum seal integrity and replacement requirements
 - **Electrical System Testing:** Complete electrical safety and performance verification
-- **Performance Calibration:** Vacuum and pressure performance optimization
+- **Performance Calibration:** Vacuum and pressure performance optimisation
 
 ### Truck-Mount System Maintenance
 
@@ -233,7 +233,7 @@ Comprehensive maintenance for reliable moisture extraction performance.
 Advanced maintenance for integrated vehicle-mounted restoration systems.
 
 **Engine and Power System Maintenance:**
-- **Engine Performance:** Regular automotive maintenance and performance optimization
+- **Engine Performance:** Regular automotive maintenance and performance optimisation
 - **Power Take-Off (PTO):** PTO engagement and power transmission verification
 - **Electrical System:** Vehicle electrical integration and auxiliary power systems
 - **Cooling System:** Engine cooling and auxiliary system temperature management
@@ -247,7 +247,7 @@ Advanced maintenance for integrated vehicle-mounted restoration systems.
 **Vehicle Integration Systems:**
 - **Mounting System:** Equipment mounting security and vibration isolation
 - **Hose Reel Systems:** Reel operation, hose condition, and retrieval mechanisms
-- **Storage Systems:** Tool and chemical storage organization and security
+- **Storage Systems:** Tool and chemical storage organisation and security
 - **Safety Systems:** Emergency shut-off, pressure relief, and electrical protection
 
 ### Extraction Equipment Troubleshooting
@@ -316,7 +316,7 @@ Ensuring reliable data collection and transmission for project monitoring.
 **System Maintenance Components:**
 - **Sensor Calibration:** Regular calibration of temperature, humidity, and pressure sensors
 - **Data Transmission:** Communication system reliability and data integrity verification
-- **Power Management:** Battery life optimization and charging system maintenance
+- **Power Management:** Battery life optimisation and charging system maintenance
 - **Environmental Protection:** Weather protection and housing integrity maintenance
 
 **Data Quality Assurance:**
@@ -327,7 +327,7 @@ Ensuring reliable data collection and transmission for project monitoring.
 
 ---
 
-## Part 6: Fleet Management and Cost Optimization
+## Part 6: Fleet Management and Cost optimisation
 
 ### Equipment Fleet Coordination
 
@@ -335,10 +335,10 @@ Ensuring reliable data collection and transmission for project monitoring.
 Coordinating maintenance across multiple equipment units for optimal availability and performance.
 
 **Fleet Management Components:**
-- **Utilization Tracking:** Equipment usage monitoring and optimization
+- **Utilization Tracking:** Equipment usage monitoring and optimisation
 - **Maintenance Scheduling:** Coordinated maintenance minimizing operational disruption
 - **Performance Monitoring:** Fleet-wide performance assessment and improvement
-- **Cost Management:** Maintenance cost tracking and budget optimization
+- **Cost Management:** Maintenance cost tracking and budget optimisation
 
 **Operational Efficiency:**
 - **Equipment Rotation:** Systematic rotation ensuring even wear and maximum lifespan
@@ -348,13 +348,13 @@ Coordinating maintenance across multiple equipment units for optimal availabilit
 
 ### Cost-Effective Maintenance Strategies
 
-**Maintenance Investment Optimization:**
+**Maintenance Investment optimisation:**
 Balancing maintenance costs with equipment reliability and performance requirements.
 
 **Cost Analysis Framework:**
 - **Total Cost of Ownership:** Comprehensive cost analysis including purchase, maintenance, and operation
 - **Reliability Investment:** Maintenance investment optimizing equipment availability
-- **Performance Optimization:** Maintenance strategies maximizing equipment efficiency
+- **Performance optimisation:** Maintenance strategies maximizing equipment efficiency
 - **Replacement Planning:** Economic analysis for equipment replacement decisions
 
 **Vendor and Service Coordination:**
@@ -443,7 +443,7 @@ This comprehensive equipment maintenance module ensures restoration professional
 
 **Key Competencies Developed:**
 - Comprehensive equipment maintenance and troubleshooting expertise
-- Cost-effective fleet management and operational optimization
+- Cost-effective fleet management and operational optimisation
 - Australian regulatory compliance and safety management
 - Professional maintenance documentation and quality assurance
 - Emergency response and business continuity capabilities
@@ -461,7 +461,7 @@ This comprehensive equipment maintenance module ensures restoration professional
 - Equipment specialist and technical consultant roles
 - Fleet management and operational efficiency expertise
 - Training and education in equipment maintenance and operation
-- Business development and operational cost optimization
+- Business development and operational cost optimisation
 - Industry leadership and best practice development
 
 Mastery of equipment maintenance and troubleshooting is essential for professional success in water damage restoration, ensuring reliable service delivery, cost-effective operations, and positive client outcomes while maintaining the highest standards of safety and environmental responsibility.

@@ -126,7 +126,7 @@ Describe the cleaning protocol for Australian brick and concrete construction in
 - Efflorescence treatment and prevention
 - Sealing and protection requirements
 
-### Question 6: Specialized Equipment and Quality Control (8 points)
+### Question 6: specialised Equipment and Quality Control (8 points)
 
 **a) Equipment Selection Strategy (4 points)**
 For a large-scale Category 2 restoration project (800m² warehouse), specify appropriate cleaning equipment including:
@@ -148,7 +148,7 @@ Describe the systematic process for verifying cleaning effectiveness including:
 
 ### Question 7: Professional Sanitization Implementation (10 points)
 
-**Scenario:** You must sanitize a Brisbane childcare center following Category 2 water damage from storm flooding.
+**Scenario:** You must sanitize a Brisbane childcare centre following Category 2 water damage from storm flooding.
 
 **Special Considerations:**
 - Children's health and safety requirements
@@ -239,7 +239,7 @@ Describe the waste management requirements for restoration projects including:
 - **Satisfactory (5-6 points):** Basic material knowledge with limited technique detail
 - **Needs Improvement (0-4 points):** Poor material understanding and technique knowledge
 
-**Question 6: Specialized Equipment and Quality Control (8 points)**
+**Question 6: specialised Equipment and Quality Control (8 points)**
 - **Excellent (7-8 points):** Comprehensive equipment knowledge with systematic quality control
 - **Good (5-6 points):** Good equipment understanding with adequate quality procedures
 - **Satisfactory (3-4 points):** Basic equipment awareness with limited quality knowledge
@@ -329,7 +329,7 @@ a) **Hardwood Species Restoration (5 points):**
 b) **Masonry and Concrete Treatment (5 points):**
 Historical brick requires gentler approach, test cleaning essential, mortar protection during cleaning, efflorescence treatment with appropriate acids, neutralization essential, sealing considerations for protection.
 
-**Question 6: Specialized Equipment and Quality Control**
+**Question 6: specialised Equipment and Quality Control**
 
 a) **Equipment Selection Strategy (4 points):**
 Truck-mounted hot water extraction for large areas, pressure washing for concrete, chemical injection systems for efficiency, air scrubbers for contamination control, moisture meters and thermal imaging for verification.
@@ -391,8 +391,8 @@ Waste stream segregation, licensed disposal facility use, documentation and trac
 **All Participants:**
 - **IICRC Water Loss Specialist:** Advanced certification for comprehensive restoration competency
 - **IICRC Applied Structural Drying:** Integration of drying and restoration procedures
-- **IICRC Odour Control Technician:** Specialized sanitization and deodorization certification
-- **Heritage Restoration Training:** Specialized training for heritage property restoration
+- **IICRC Odour Control Technician:** specialised sanitization and deodorization certification
+- **Heritage Restoration Training:** specialised training for heritage property restoration
 
 ### Continuing Education Resources
 
@@ -400,6 +400,6 @@ Waste stream segregation, licensed disposal facility use, documentation and trac
 - **Manufacturer Workshops:** Equipment and product-specific training and certification
 - **Industry Conferences:** Latest developments in restoration technology and techniques
 - **Professional Association Training:** RIA and IICRC continuing education programs
-- **Material-Specific Training:** Specialized courses for Australian materials and techniques
+- **Material-Specific Training:** specialised courses for Australian materials and techniques
 
 This comprehensive assessment ensures participants demonstrate professional competency in structural material restoration and cleaning essential for successful water damage restoration in diverse Australian conditions and regulatory environments.

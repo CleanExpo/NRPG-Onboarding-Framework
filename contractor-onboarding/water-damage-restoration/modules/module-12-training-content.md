@@ -34,7 +34,7 @@ By completion of this module, participants will be able to:
 Professional development extends beyond technical competence to encompass industry leadership, community contribution, business acumen, and personal fulfillment through meaningful career advancement and positive impact.
 
 **Professional Development Components:**
-- **Technical Mastery:** Advanced restoration techniques and specialized expertise development
+- **Technical Mastery:** Advanced restoration techniques and specialised expertise development
 - **Business Acumen:** Management skills, financial literacy, and entrepreneurial development
 - **Industry Leadership:** Professional association involvement and standards contribution
 - **Community Service:** Public education, disaster preparedness, and community protection
@@ -43,7 +43,7 @@ Professional development extends beyond technical competence to encompass indust
 **Australian Professional Context:**
 - **Industry Maturity:** Understanding the restoration industry's position and growth potential in Australia
 - **Regulatory Environment:** Professional licensing, certification, and regulatory compliance requirements
-- **Market Opportunities:** Business development opportunities and specialization pathways
+- **Market Opportunities:** Business development opportunities and specialisation pathways
 - **Professional Networks:** Industry associations, professional relationships, and mentoring opportunities
 - **Community Responsibility:** Professional obligations for community protection and public service
 
@@ -61,8 +61,8 @@ Professional development requires systematic planning, goal setting, and continu
 - **Professional Networking:** Industry relationship building and mentoring connections
 - **Quality Excellence:** Establishing reputation for professional competence and reliability
 
-**Stage 2: Specialization and Expertise (Years 3-7):**
-- **Advanced Certification:** Specialized credentials and advanced technical expertise
+**Stage 2: specialisation and Expertise (Years 3-7):**
+- **Advanced Certification:** specialised credentials and advanced technical expertise
 - **Leadership Development:** Team leadership and project management capabilities
 - **Business Understanding:** Financial management and business development skills
 - **Industry Involvement:** Professional association participation and networking
@@ -91,7 +91,7 @@ Each professional must develop personalized advancement strategies reflecting in
 
 **Self-Assessment Components:**
 - **Strengths Identification:** Technical capabilities, interpersonal skills, and leadership potential
-- **Interest Areas:** Specialization preferences and professional passion identification
+- **Interest Areas:** specialisation preferences and professional passion identification
 - **Values Alignment:** Professional values and career satisfaction factors
 - **Growth Opportunities:** Skill development needs and advancement requirements
 - **Long-Term Vision:** Career goals and professional contribution aspirations
@@ -105,7 +105,7 @@ Each professional must develop personalized advancement strategies reflecting in
 
 **Professional Development Resources:**
 - **Formal Education:** Technical training, management education, and professional development programs
-- **Industry Certification:** Advanced credentials and specialized certification pathways
+- **Industry Certification:** Advanced credentials and specialised certification pathways
 - **Professional Networks:** Industry associations, mentoring relationships, and peer learning
 - **Practical Experience:** Progressive responsibility and diverse project experience
 - **Community Involvement:** Public service and community contribution opportunities
@@ -158,26 +158,26 @@ Professional certification provides formal recognition of competence, demonstrat
 
 **IICRC Advanced Certification Pathways:**
 
-**Technical Specialization Certifications:**
+**Technical specialisation Certifications:**
 - **Master Water Restorer (MWR):** Advanced water damage restoration expertise and leadership
-- **Master Fire and Smoke Restorer (MFSR):** Specialized fire and smoke damage restoration
+- **Master Fire and Smoke Restorer (MFSR):** specialised fire and smoke damage restoration
 - **Master Textile Cleaner (MTC):** Advanced textile and contents restoration
-- **Applied Structural Drying (ASD):** Specialized drying and dehumidification expertise
+- **Applied Structural Drying (ASD):** specialised drying and dehumidification expertise
 - **Applied Microbial Remediation Technician (AMRT):** Mould and microbial contamination expertise
 
 **Business and Management Certifications:**
 - **Certified Restorer (CR):** Business management and professional leadership
-- **Certified Restoration Drycleaner (CRD):** Specialized cleaning and restoration business
+- **Certified Restoration Drycleaner (CRD):** specialised cleaning and restoration business
 - **Firm Certification:** Company-wide certification and quality system recognition
 - **Inspector Certification:** Professional inspection and assessment credentials
 - **Training Certification:** Professional education and instructor credentials
 
-**Specialized Industry Certifications:**
-- **Trauma Scene Waste Management Practitioner (TSWMP):** Specialized biohazard and trauma cleaning
-- **Odor Control Technician (OCT):** Specialized odor detection and elimination
+**specialised Industry Certifications:**
+- **Trauma Scene Waste Management Practitioner (TSWMP):** specialised biohazard and trauma cleaning
+- **Odor Control Technician (OCT):** specialised odor detection and elimination
 - **Upholstery and Fabric Cleaning Technician (UFT):** Advanced textile restoration
-- **Health and Safety Technician (HST):** Specialized safety and risk management
-- **Lead-Based Paint Activities and Renovation (EPA RRP):** Specialized lead safety
+- **Health and Safety Technician (HST):** specialised safety and risk management
+- **Lead-Based Paint Activities and Renovation (EPA RRP):** specialised lead safety
 
 ### Professional Association Involvement and Industry Contribution
 
@@ -193,7 +193,7 @@ Active involvement in professional associations provides networking opportunitie
 - **Standards Development:** Contributing to industry standards and best practice development
 - **Networking Opportunities:** Professional relationships and business development
 
-**Specialized Professional Groups:**
+**specialised Professional Groups:**
 - **Australian Institute of Occupational Hygienists (AIOH):** Air quality and health safety expertise
 - **Australian Association for Infection Control (AAIC):** Infection control and contamination management
 - **Master Builders Association:** Building industry integration and professional development
@@ -227,7 +227,7 @@ Professional restoration practice requires business acumen, strategic planning, 
 
 **Operational Excellence:**
 - **Quality Management:** Systematic quality control and continuous improvement
-- **Efficiency Optimization:** Resource utilization and operational efficiency
+- **Efficiency optimisation:** Resource utilization and operational efficiency
 - **Technology Integration:** Professional technology and productivity enhancement
 - **Team Development:** Staff recruitment, training, and professional development
 - **Client Relationship Management:** Customer service excellence and loyalty development
@@ -249,7 +249,7 @@ Sustainable restoration business requires sound financial management, strategic 
 **Business Financial Planning:**
 - **Capital Investment:** Equipment, facilities, and infrastructure investment planning
 - **Cash Flow Management:** Working capital and seasonal cash flow management
-- **Profitability Analysis:** Cost management and profit optimization strategies
+- **Profitability Analysis:** Cost management and profit optimisation strategies
 - **Tax Planning:** Professional tax management and compliance
 - **Insurance Management:** Professional liability and business protection
 
@@ -278,7 +278,7 @@ Successful restoration practice requires professional team development, effectiv
 - **Competency-Based Recruitment:** Skill and character assessment for team fit
 - **Professional Development Planning:** Career advancement and growth opportunities
 - **Cultural Integration:** Team culture and professional values alignment
-- **Performance Management:** Professional standards and performance optimization
+- **Performance Management:** Professional standards and performance optimisation
 - **Retention Strategies:** Professional satisfaction and career development
 
 **Leadership Development and Management:**
@@ -338,7 +338,7 @@ Restoration professionals must integrate environmental protection and sustainabi
 - **Resource Conservation:** Efficient use of water, energy, and material resources
 - **Waste Minimization:** Recycling and responsible disposal practices
 - **Chemical Management:** Environmentally responsible product selection and use
-- **Energy Efficiency:** Equipment optimization and energy conservation
+- **Energy Efficiency:** Equipment optimisation and energy conservation
 - **Carbon Footprint:** Transportation efficiency and environmental impact reduction
 
 **Environmental Protection and Community Health:**
@@ -513,7 +513,7 @@ Professional development must include understanding industry trends, future oppo
 **Technology Integration and Innovation:**
 - **Digital Transformation:** Technology integration and efficiency advancement
 - **Automation Development:** Advanced equipment and automation integration
-- **Data Analytics:** Performance measurement and quality optimization
+- **Data Analytics:** Performance measurement and quality optimisation
 - **Communication Technology:** Client service and professional communication advancement
 - **Innovation Leadership:** Technology development and industry advancement
 
@@ -556,7 +556,7 @@ This comprehensive professional development and industry standards module ensure
 - Long-term professional satisfaction and career fulfillment
 
 **Career Development Opportunities:**
-- Advanced technical specialization and certification
+- Advanced technical specialisation and certification
 - Business ownership and entrepreneurship development
 - Professional association leadership and industry influence
 - Community service and disaster response coordination

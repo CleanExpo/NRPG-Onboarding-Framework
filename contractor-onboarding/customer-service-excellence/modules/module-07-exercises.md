@@ -449,7 +449,7 @@ Rate your current skills (1-5 scale) and identify improvement priorities:
 #### Professional Excellence (Ongoing):
 - Continuous learning about legal requirements and industry standards
 - Regular training updates on documentation technology and methods
-- Leadership in documentation excellence within organization
+- Leadership in documentation excellence within organisation
 
 ### Success Metrics:
 - **Customer Satisfaction:** Higher ratings on communication and professionalism

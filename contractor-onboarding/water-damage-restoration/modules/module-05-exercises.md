@@ -243,7 +243,7 @@ Record the same measurements as refrigerant unit and compare:
 
 **Airflow Visualization:**
 Using a simulated 50m² room setup:
-1. Position single air mover in center of space
+1. Position single air mover in centre of space
 2. Use smoke tubes to visualize airflow patterns
 3. Identify areas of good circulation and dead spots
 4. Measure air velocities at various distances and angles
@@ -276,14 +276,14 @@ Noise Level Assessment: High/Medium/Low
 Energy Efficiency: ___ kW total consumption
 ```
 
-**Optimization Challenge:**
+**optimisation Challenge:**
 Achieve target air velocity of 200 m/min across all surfaces while:
 - Minimizing number of air movers used
 - Eliminating all dead spots
 - Maintaining acceptable noise levels
 - Optimizing energy consumption
 
-**Task 3: Specialized Application Setup (10 minutes)**
+**Task 3: specialised Application Setup (10 minutes)**
 
 **Under-Furniture Drying:**
 1. Set up scenario with furniture in place
@@ -300,7 +300,7 @@ Achieve target air velocity of 200 m/min across all surfaces while:
 - Strategic air mover positioning dramatically affects drying effectiveness
 - Multiple smaller units often outperform fewer large units
 - Airflow visualization reveals patterns not obvious through observation
-- Specialized positioning techniques are required for complete coverage
+- specialised positioning techniques are required for complete coverage
 
 ---
 
@@ -363,7 +363,7 @@ Monitoring Point Locations: ________________
 3. Check electrical load distribution
 4. Document initial environmental conditions
 
-**Task 3: Performance Optimization (15 minutes)**
+**Task 3: Performance optimisation (15 minutes)**
 
 **Initial Performance Assessment:**
 Record baseline measurements after 15 minutes of operation:
@@ -387,7 +387,7 @@ Pressure Differential: _____ Pa
 **System Adjustments:**
 Based on initial performance:
 1. Adjust air mover positioning if needed
-2. Modify dehumidifier settings for optimization
+2. Modify dehumidifier settings for optimisation
 3. Seal any air leaks in containment
 4. Balance electrical loads across circuits
 
@@ -395,7 +395,7 @@ Based on initial performance:
 - Complete system design requires integration of all components
 - Containment quality significantly affects system efficiency
 - Real-world constraints require creative solutions
-- System optimization is an iterative process
+- System optimisation is an iterative process
 
 ### Exercise 3B: Monitoring and Documentation Practice (30 minutes)
 
@@ -602,7 +602,7 @@ After 5 days of standard drying procedures, moisture content readings have plate
 2. **Environmental Factor Analysis:**
    - Indoor vs. outdoor psychrometric conditions
    - Vapour pressure differential calculation
-   - Temperature optimization opportunities
+   - Temperature optimisation opportunities
    - Seasonal weather impact assessment
 
 3. **Material Characteristic Consideration:**
@@ -701,7 +701,7 @@ These practical exercises directly prepare participants for:
 
 Following successful completion of these exercises, participants should be prepared to:
 - **Apply skills confidently** in supervised field situations
-- **Continue learning** through advanced modules and specialized training
+- **Continue learning** through advanced modules and specialised training
 - **Pursue professional certification** through industry organizations
 - **Contribute effectively** to water damage restoration teams and projects
 
