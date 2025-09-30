@@ -1,9 +1,11 @@
 # Professional Certification Framework
-## Australian Restoration Industry - Mandatory Certification and Point System
+## Australian Restoration Industry - Working towards 100 points
 
-**Purpose:** Establish mandatory certification requirements and point allocation system for restoration business ownership partnership qualification.
+**Purpose:** Establish progressive certification requirements and point allocation system for restoration business ownership partnership qualification.
 
-**Total Points Available:** 100 points across four mandatory certification categories.
+**Total Points Available:** 100 points across four certification categories.
+
+**Important Note:** The Government Certificate IV in Cleaning (Restoration Specialization) is currently a framework under development and is not yet registered with the RTO (Registered Training Organisation) framework. The certification system is designed to accommodate this developmental status while working towards full implementation.
 
 ---
 
@@ -16,7 +18,7 @@
 - **Trade Association Membership:** 10 points
 
 **Total Possible Points:** 100 points
-**Minimum Partnership Qualification:** 70 points (must include all mandatory elements)
+**Minimum Partnership Qualification:** 70 points (progressive development across all categories)
 
 ---
 
@@ -24,11 +26,18 @@
 
 ### **Certification Overview**
 **Course:** Certificate IV in Cleaning (Specialising in Restoration)
-**Course Code:** TBD (Australian Government Training Framework)
+**Course Code:** TBD (Australian Government Training Framework - Under Development)
 **Points Value:** 40 points (40% of total certification score)
-**Status:** Mandatory for Partnership Professional level and above
+**Status:** Framework under development - not yet RTO registered
+**Alternative Recognition:** Equivalent experience and competency recognition available
 
-### **Course Components and Point Allocation**
+### **Framework Development Status**
+**Current Status:** Curriculum framework completed, awaiting RTO registration
+**Implementation Timeline:** Pending government training authority approval
+**Interim Recognition:** Experience-based competency assessment available
+**Professional Development:** CARSI and IICRC training provide interim certification pathway
+
+### **Proposed Course Components and Point Allocation**
 
 #### **Core Competencies (25 points)**
 - **CPPCLG4001A** - Plan and implement cleaning and restoration services (5 points)
@@ -48,17 +57,17 @@
 - **CPPCLG4011A** - Implement workplace health and safety in restoration (1.5 points)
 - **CPPCLG4012A** - Provide customer service and communication in restoration (1.5 points)
 
-### **Assessment Requirements**
-- **Practical Assessment:** Hands-on restoration project completion
-- **Written Assessment:** Knowledge verification across all competency areas
-- **Workplace Assessment:** Real workplace application and verification
-- **Portfolio Assessment:** Evidence collection of competency achievement
+### **Interim Assessment and Recognition**
+- **Experience Assessment:** Professional experience evaluation and recognition
+- **Competency Demonstration:** Practical competency demonstration and verification
+- **Portfolio Assessment:** Professional portfolio development and assessment
+- **Industry Recognition:** Current industry certification and achievement recognition
 
-### **Partnership Integration**
-- **Candidate Level:** Enrolled in course or equivalent experience recognition
-- **Associate Level:** Course completion in progress (minimum 60% completed)
-- **Professional Level:** Full certification completion required
-- **Excellence Level:** Certification plus demonstrated advanced application
+### **Partnership Integration (Interim Framework)**
+- **Candidate Level:** Demonstrated experience or equivalent training in progress
+- **Associate Level:** Substantial experience plus formal training completion
+- **Professional Level:** Comprehensive experience plus advanced certification
+- **Excellence Level:** Industry leadership plus teaching and development contribution
 
 ---
 
@@ -194,9 +203,9 @@
 
 ## Category 4: Trade Association Membership (10 Points)
 
-### **Mandatory Trade Association Membership**
+### **Trade Association Membership**
 **Points Value:** 10 points (10% of total certification score)
-**Status:** Mandatory membership in recognized restoration industry associations
+**Status:** Professional membership in recognized restoration industry associations
 
 ### **Primary Trade Association Options (8 points)**
 
@@ -248,34 +257,34 @@
 
 ## Partnership Qualification Matrix
 
-### **Minimum Point Requirements by Partnership Level**
+### **Progressive Point Requirements by Partnership Level**
 
 #### **Partnership Candidate (60-69 total points)**
-- **Cert 4 Progress:** Enrolled or equivalent experience (minimum 15/40)
+- **Cert 4 Progress:** Demonstrated experience or equivalent training (minimum 15/40)
 - **IICRC Core:** WRT certification (minimum 9/30)
 - **CARSI Membership:** Active membership (minimum 8/20)
 - **Trade Association:** Primary membership (minimum 6/10)
 
 #### **Partnership Associate (70-84 total points)**
-- **Cert 4 Progress:** 50% completion (minimum 20/40)
+- **Cert 4 Progress:** Substantial experience plus formal training (minimum 20/40)
 - **IICRC Core:** WRT + ASD certifications (minimum 15/30)
 - **CARSI Active:** Membership + 20 CECs annually (minimum 12/20)
 - **Trade Association:** Active participation (minimum 8/10)
 
 #### **Partnership Professional (85-99 total points)**
-- **Cert 4 Complete:** Full certification (30-40/40)
+- **Cert 4 Equivalent:** Comprehensive experience plus advanced training (30-40/40)
 - **IICRC Advanced:** Core certifications + specializations (20-30/30)
 - **CARSI Excellence:** Membership + 25+ CECs (15-20/20)
 - **Trade Association:** Leadership participation (9-10/10)
 
 #### **Partnership Excellence (100+ total points)**
-- **Cert 4 Excellence:** Full certification + advanced application (40/40)
+- **Cert 4 Excellence:** Industry leadership plus teaching capability (40/40)
 - **IICRC Master:** Master certifications + teaching (30+ with bonus)
 - **CARSI Leadership:** CEC delivery + industry contribution (20/20)
 - **Trade Association:** Leadership roles and contribution (10/10)
 
-### **Mandatory Progression Requirements**
-- **All Categories:** Must maintain minimum points in each category
+### **Progressive Development Requirements**
+- **All Categories:** Working towards minimum points in each category
 - **Continuing Education:** Ongoing CEC and professional development
 - **Industry Contribution:** Active industry participation and contribution
 - **Professional Standards:** Maintenance of professional standing and ethics
@@ -286,19 +295,19 @@
 ## Implementation Timeline and Support
 
 ### **Phase 1: Foundation Establishment (Months 1-6)**
-- **Cert 4 Enrollment:** Government certification program enrollment
+- **Experience Documentation:** Professional experience evaluation and documentation
 - **IICRC Core Certification:** WRT and ASD certification completion
 - **CARSI Membership:** Professional membership establishment
 - **Trade Association:** Primary association membership establishment
 
 ### **Phase 2: Professional Development (Months 6-18)**
-- **Cert 4 Completion:** Government certification completion
+- **Competency Development:** Advanced competency development and recognition
 - **IICRC Specialization:** Additional IICRC certifications
 - **CARSI CEC Achievement:** Annual CEC requirements achievement
 - **Trade Association Participation:** Active participation and contribution
 
 ### **Phase 3: Excellence Achievement (Months 18-36)**
-- **Advanced Certifications:** Master certifications and specializations
+- **Advanced Recognition:** Master certifications and specializations
 - **Industry Leadership:** CEC delivery and industry contribution
 - **Professional Recognition:** Industry recognition and achievement
 - **Business Integration:** Certification integration into business excellence
@@ -310,4 +319,10 @@
 - **Progress Tracking:** Digital tracking and progress monitoring
 - **Achievement Recognition:** Certification achievement recognition and celebration
 
-This comprehensive certification framework ensures that business owners achieve the highest levels of professional competency while maintaining business excellence and industry leadership standards that protect Australian communities and advance the restoration industry.
+### **Government Certification Update Process**
+- **Framework Monitoring:** Ongoing monitoring of RTO registration progress
+- **Implementation Planning:** Preparation for formal certification implementation
+- **Transition Support:** Support for transition from experience-based to formal certification
+- **Continuous Improvement:** Framework refinement based on industry feedback
+
+This progressive certification framework ensures that business owners work towards the highest levels of professional competency while maintaining business excellence and industry leadership standards that protect Australian communities and advance the restoration industry. The framework accommodates the developmental status of government certification while providing clear pathways for professional advancement.
